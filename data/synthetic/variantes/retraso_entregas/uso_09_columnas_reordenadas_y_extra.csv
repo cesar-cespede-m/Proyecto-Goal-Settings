@@ -1,0 +1,1001 @@
+observacion_operador,entregado_tarde,reclamo_cliente,minutos_retraso_real,pais_operacion,conductor_nuevo,pedidos_dia_centro,clima_previsto,dia_semana,tipo_servicio,peso_kg,distancia_km,id_envio
+revisar,no,no,20.0,País Demo,sí,480,despejado,sáb,express,2.03,40.6,ENV-U09-00000
+sin novedad,no,no,-16.0,País Demo,no,383,despejado,jue,express,13.34,23.2,ENV-U09-00001
+sin novedad,no,no,-16.0,País Demo,no,426,despejado,sáb,estándar,6.48,22.7,ENV-U09-00002
+revisar,sí,no,71.0,País Demo,no,414,despejado,mié,estándar,6.1,100.6,ENV-U09-00003
+,no,no,5.0,País Demo,no,403,despejado,mié,estándar,0.68,31.3,ENV-U09-00004
+revisar,no,no,2.0,País Demo,no,416,despejado,mar,estándar,13.04,16.0,ENV-U09-00005
+revisar,no,no,40.0,País Demo,no,404,despejado,vie,estándar,5.0,29.7,ENV-U09-00006
+,no,no,8.0,País Demo,no,399,despejado,vie,estándar,9.57,25.3,ENV-U09-00007
+revisar,sí,no,43.0,País Demo,sí,406,,jue,estándar,28.47,20.9,ENV-U09-00008
+,no,no,6.0,País Demo,no,435,,mié,estándar,6.74,18.8,ENV-U09-00009
+,no,no,2.0,País Demo,no,408,despejado,mar,estándar,11.43,82.0,ENV-U09-00010
+sin novedad,no,no,-2.0,País Demo,no,408,despejado,mar,estándar,2.42,27.9,ENV-U09-00011
+revisar,sí,no,54.0,País Demo,no,384,lluvia,mar,estándar,14.0,52.9,ENV-U09-00012
+sin novedad,no,no,-7.0,País Demo,no,400,despejado,vie,estándar,1.53,47.8,ENV-U09-00013
+revisar,no,no,23.0,País Demo,no,438,despejado,sáb,estándar,9.39,79.6,ENV-U09-00014
+revisar,no,no,33.0,País Demo,no,473,lluvia,mar,estándar,6.91,35.6,ENV-U09-00015
+,sí,no,43.0,País Demo,sí,446,despejado,jue,express,8.69,111.5,ENV-U09-00016
+,no,no,-3.0,País Demo,no,427,lluvia,vie,express,2.03,12.6,ENV-U09-00017
+sin novedad,no,no,-3.0,País Demo,no,423,despejado,sáb,express,7.9,34.1,ENV-U09-00018
+sin novedad,no,no,11.0,País Demo,no,419,despejado,vie,express,8.97,74.7,ENV-U09-00019
+revisar,sí,no,52.0,País Demo,no,394,lluvia,lun,express,5.83,40.0,ENV-U09-00020
+,no,no,-15.0,País Demo,no,402,despejado,vie,express,2.26,21.4,ENV-U09-00021
+sin novedad,no,no,20.0,País Demo,no,410,despejado,lun,estándar,10.69,29.4,ENV-U09-00022
+sin novedad,no,no,-8.0,País Demo,no,429,despejado,vie,estándar,1.04,38.9,ENV-U09-00023
+revisar,sí,sí,44.0,País Demo,no,430,despejado,mié,express,15.56,45.3,ENV-U09-00024
+sin novedad,no,no,-23.0,País Demo,no,466,,vie,estándar,3.22,14.8,ENV-U09-00025
+,no,no,17.0,País Demo,sí,390,despejado,lun,estándar,3.89,26.0,ENV-U09-00026
+revisar,sí,no,47.0,País Demo,no,417,despejado,vie,express,17.02,81.1,ENV-U09-00027
+revisar,no,no,-1.0,País Demo,no,424,lluvia,jue,estándar,5.07,9.3,ENV-U09-00028
+revisar,no,no,6.0,País Demo,no,431,despejado,mar,express,2.11,75.2,ENV-U09-00029
+,no,no,-33.0,País Demo,sí,385,despejado,lun,express,2.32,18.4,ENV-U09-00030
+revisar,no,no,-14.0,País Demo,sí,421,despejado,mié,express,0.44,43.4,ENV-U09-00031
+revisar,no,no,32.0,País Demo,no,446,,lun,estándar,10.61,13.5,ENV-U09-00032
+sin novedad,no,no,20.0,País Demo,no,455,despejado,lun,estándar,7.19,64.1,ENV-U09-00033
+,no,no,-3.0,País Demo,no,445,despejado,lun,estándar,21.01,76.9,ENV-U09-00034
+sin novedad,no,no,7.0,País Demo,sí,425,despejado,mar,estándar,7.92,20.0,ENV-U09-00035
+revisar,no,no,-37.0,País Demo,no,407,despejado,mié,express,6.15,23.7,ENV-U09-00036
+,sí,no,61.0,País Demo,sí,395,despejado,mié,estándar,4.75,103.4,ENV-U09-00037
+sin novedad,no,no,21.0,País Demo,sí,408,despejado,lun,estándar,10.37,42.2,ENV-U09-00038
+,no,no,10.0,País Demo,no,434,despejado,lun,estándar,7.58,37.1,ENV-U09-00039
+,no,no,10.0,País Demo,no,396,lluvia,vie,express,10.17,21.5,ENV-U09-00040
+,sí,no,41.0,País Demo,sí,391,despejado,mar,estándar,5.28,59.3,ENV-U09-00041
+,no,no,39.0,País Demo,no,440,despejado,vie,estándar,11.17,51.0,ENV-U09-00042
+sin novedad,no,no,32.0,País Demo,no,459,lluvia,lun,estándar,2.02,16.6,ENV-U09-00043
+revisar,no,no,16.0,País Demo,no,454,despejado,mar,estándar,5.79,56.9,ENV-U09-00044
+,no,no,7.0,País Demo,no,422,lluvia,mié,estándar,6.68,24.9,ENV-U09-00045
+,no,no,-6.0,País Demo,no,402,lluvia,mié,estándar,3.11,23.1,ENV-U09-00046
+,no,no,-29.0,País Demo,no,378,despejado,mié,express,4.39,23.8,ENV-U09-00047
+revisar,no,no,-1.0,País Demo,no,430,despejado,sáb,estándar,10.01,33.3,ENV-U09-00048
+revisar,no,no,7.0,País Demo,no,402,lluvia,vie,estándar,4.57,9.7,ENV-U09-00049
+revisar,no,no,-30.0,País Demo,no,414,despejado,mié,estándar,4.72,33.9,ENV-U09-00050
+,no,no,30.0,País Demo,no,448,lluvia,mar,express,11.16,21.4,ENV-U09-00051
+,no,no,-18.0,País Demo,no,428,despejado,sáb,estándar,3.11,20.0,ENV-U09-00052
+,sí,sí,73.0,País Demo,sí,439,tormenta,lun,estándar,0.92,34.9,ENV-U09-00053
+,no,no,-25.0,País Demo,sí,365,despejado,mié,express,5.21,12.8,ENV-U09-00054
+revisar,no,no,-38.0,País Demo,no,391,despejado,jue,express,2.87,45.5,ENV-U09-00055
+,no,no,-6.0,País Demo,no,421,despejado,sáb,estándar,7.08,5.9,ENV-U09-00056
+sin novedad,sí,no,64.0,País Demo,sí,433,despejado,mar,estándar,3.97,18.1,ENV-U09-00057
+sin novedad,no,no,-19.0,País Demo,no,435,despejado,jue,estándar,29.41,26.7,ENV-U09-00058
+revisar,no,no,-14.0,País Demo,no,458,despejado,jue,estándar,1.98,14.7,ENV-U09-00059
+revisar,sí,no,64.0,País Demo,no,436,tormenta,lun,estándar,5.49,7.1,ENV-U09-00060
+,no,no,32.0,País Demo,sí,418,despejado,sáb,estándar,10.07,35.1,ENV-U09-00061
+,no,no,-8.0,País Demo,no,420,,lun,express,1.13,34.8,ENV-U09-00062
+,no,no,-5.0,País Demo,no,425,lluvia,vie,estándar,14.43,16.1,ENV-U09-00063
+sin novedad,no,no,-10.0,País Demo,no,442,lluvia,vie,express,4.15,15.3,ENV-U09-00064
+revisar,no,no,-18.0,País Demo,no,376,despejado,jue,estándar,10.81,23.7,ENV-U09-00065
+sin novedad,sí,sí,49.0,País Demo,no,386,lluvia,sáb,estándar,3.93,45.6,ENV-U09-00066
+sin novedad,no,no,-20.0,País Demo,no,414,despejado,jue,estándar,5.85,23.7,ENV-U09-00067
+sin novedad,no,no,-1.0,País Demo,no,434,despejado,lun,estándar,16.73,46.5,ENV-U09-00068
+revisar,no,no,-3.0,País Demo,no,414,despejado,mar,express,7.35,30.9,ENV-U09-00069
+revisar,no,no,-1.0,País Demo,no,419,despejado,mar,estándar,1.59,28.9,ENV-U09-00070
+,no,sí,-28.0,País Demo,no,443,despejado,mar,estándar,3.68,9.7,ENV-U09-00071
+,no,no,-11.0,País Demo,no,433,despejado,mié,express,9.35,27.6,ENV-U09-00072
+,no,no,20.0,País Demo,no,418,despejado,vie,estándar,7.17,81.6,ENV-U09-00073
+revisar,no,no,-22.0,País Demo,no,427,despejado,mar,estándar,5.04,44.2,ENV-U09-00074
+sin novedad,no,no,-2.0,País Demo,no,453,despejado,lun,express,1.59,35.2,ENV-U09-00075
+,no,no,21.0,País Demo,sí,430,despejado,jue,estándar,19.02,37.8,ENV-U09-00076
+revisar,no,no,28.0,País Demo,no,422,despejado,lun,estándar,6.55,49.5,ENV-U09-00077
+revisar,sí,sí,71.0,País Demo,sí,456,,jue,estándar,0.3,6.2,ENV-U09-00078
+revisar,no,no,10.0,País Demo,no,407,despejado,mar,express,2.01,26.8,ENV-U09-00079
+revisar,no,no,24.0,País Demo,no,404,lluvia,vie,estándar,7.93,15.4,ENV-U09-00080
+,no,no,39.0,País Demo,no,447,lluvia,sáb,estándar,17.04,7.0,ENV-U09-00081
+,no,no,-5.0,País Demo,no,406,despejado,lun,estándar,2.61,25.7,ENV-U09-00082
+revisar,no,no,4.0,País Demo,no,470,despejado,mié,express,1.2,15.7,ENV-U09-00083
+,no,no,-17.0,País Demo,sí,416,despejado,mié,estándar,18.93,13.7,ENV-U09-00084
+,no,no,-23.0,País Demo,no,380,despejado,mié,express,5.72,18.8,ENV-U09-00085
+sin novedad,no,no,23.0,País Demo,no,410,lluvia,lun,estándar,17.3,29.8,ENV-U09-00086
+sin novedad,sí,no,103.0,País Demo,sí,439,tormenta,mar,express,7.61,30.3,ENV-U09-00087
+revisar,sí,sí,66.0,País Demo,no,467,lluvia,mié,express,20.09,36.1,ENV-U09-00088
+revisar,sí,sí,44.0,País Demo,sí,436,lluvia,jue,express,6.23,23.8,ENV-U09-00089
+sin novedad,no,sí,22.0,País Demo,sí,397,despejado,sáb,express,14.22,15.6,ENV-U09-00090
+revisar,no,no,10.0,País Demo,sí,423,despejado,sáb,estándar,4.5,41.3,ENV-U09-00091
+sin novedad,no,no,-6.0,País Demo,no,417,,sáb,express,6.56,55.0,ENV-U09-00092
+,sí,no,47.0,País Demo,no,442,despejado,lun,estándar,4.26,60.9,ENV-U09-00093
+revisar,no,no,2.0,País Demo,no,395,lluvia,jue,estándar,24.22,27.7,ENV-U09-00094
+revisar,no,no,-12.0,País Demo,no,410,despejado,mar,express,5.47,24.7,ENV-U09-00095
+revisar,no,no,40.0,País Demo,no,405,despejado,mié,estándar,7.69,61.0,ENV-U09-00096
+revisar,no,no,-19.0,País Demo,no,413,despejado,mié,express,4.75,18.9,ENV-U09-00097
+revisar,no,no,37.0,País Demo,no,454,despejado,mar,express,17.08,25.8,ENV-U09-00098
+,no,no,30.0,País Demo,no,415,despejado,lun,estándar,7.83,30.2,ENV-U09-00099
+revisar,no,no,-43.0,País Demo,no,413,despejado,lun,estándar,10.9,20.1,ENV-U09-00100
+,no,no,8.0,País Demo,no,394,despejado,mar,estándar,13.45,27.5,ENV-U09-00101
+sin novedad,no,no,15.0,País Demo,no,422,despejado,lun,estándar,7.25,43.6,ENV-U09-00102
+sin novedad,no,no,17.0,País Demo,no,411,lluvia,lun,express,1.47,16.4,ENV-U09-00103
+revisar,no,no,-1.0,País Demo,no,420,despejado,jue,estándar,15.24,24.5,ENV-U09-00104
+revisar,no,no,18.0,País Demo,no,421,despejado,sáb,estándar,8.73,12.6,ENV-U09-00105
+,no,no,34.0,País Demo,no,434,lluvia,vie,estándar,17.21,80.2,ENV-U09-00106
+sin novedad,no,no,4.0,País Demo,no,437,despejado,vie,estándar,9.21,39.7,ENV-U09-00107
+,no,no,3.0,País Demo,no,434,,mié,estándar,7.66,13.9,ENV-U09-00108
+sin novedad,sí,no,48.0,País Demo,no,458,despejado,sáb,estándar,6.73,81.2,ENV-U09-00109
+sin novedad,no,no,-36.0,País Demo,no,424,despejado,jue,estándar,8.2,5.5,ENV-U09-00110
+sin novedad,no,no,23.0,País Demo,no,455,,mié,estándar,4.42,67.5,ENV-U09-00111
+,no,no,23.0,País Demo,no,399,despejado,lun,estándar,11.09,39.9,ENV-U09-00112
+,sí,no,96.0,País Demo,no,418,lluvia,vie,estándar,7.94,132.1,ENV-U09-00113
+,no,sí,30.0,País Demo,no,388,lluvia,vie,estándar,6.44,28.9,ENV-U09-00114
+sin novedad,sí,sí,63.0,País Demo,no,435,tormenta,sáb,estándar,6.89,41.4,ENV-U09-00115
+sin novedad,no,no,33.0,País Demo,no,393,lluvia,lun,express,20.43,47.9,ENV-U09-00116
+sin novedad,sí,sí,69.0,País Demo,no,392,tormenta,mar,estándar,15.3,43.6,ENV-U09-00117
+revisar,sí,sí,88.0,País Demo,no,435,lluvia,mié,estándar,11.49,64.2,ENV-U09-00118
+revisar,no,no,5.0,País Demo,sí,466,despejado,vie,express,25.56,10.2,ENV-U09-00119
+sin novedad,no,no,34.0,País Demo,no,409,lluvia,vie,express,4.33,16.5,ENV-U09-00120
+sin novedad,no,no,13.0,País Demo,no,405,despejado,jue,express,12.16,23.1,ENV-U09-00121
+,sí,no,55.0,País Demo,no,398,despejado,sáb,express,2.86,108.2,ENV-U09-00122
+sin novedad,no,no,3.0,País Demo,sí,412,despejado,jue,estándar,7.05,10.5,ENV-U09-00123
+,no,no,28.0,País Demo,sí,445,despejado,sáb,estándar,8.45,43.1,ENV-U09-00124
+sin novedad,no,no,-1.0,País Demo,no,440,despejado,lun,estándar,17.6,47.8,ENV-U09-00125
+revisar,no,no,17.0,País Demo,no,444,despejado,mar,estándar,5.67,53.6,ENV-U09-00126
+sin novedad,no,no,25.0,País Demo,no,423,despejado,lun,express,35.34,21.9,ENV-U09-00127
+revisar,sí,no,99.0,País Demo,no,449,tormenta,mié,estándar,4.2,12.3,ENV-U09-00128
+revisar,no,no,-3.0,País Demo,no,422,lluvia,mié,express,5.47,22.6,ENV-U09-00129
+,no,no,34.0,País Demo,no,465,despejado,mié,express,4.9,50.0,ENV-U09-00130
+revisar,no,no,-1.0,País Demo,sí,451,despejado,mar,express,17.54,17.3,ENV-U09-00131
+,no,no,-12.0,País Demo,no,423,despejado,sáb,estándar,7.45,28.7,ENV-U09-00132
+revisar,sí,no,42.0,País Demo,no,410,tormenta,lun,express,13.98,29.8,ENV-U09-00133
+sin novedad,no,no,-10.0,País Demo,no,413,despejado,vie,estándar,12.83,25.8,ENV-U09-00134
+,no,no,11.0,País Demo,no,419,despejado,jue,estándar,4.49,37.4,ENV-U09-00135
+revisar,sí,no,43.0,País Demo,no,436,lluvia,vie,estándar,16.36,40.6,ENV-U09-00136
+,no,no,33.0,País Demo,no,404,lluvia,sáb,estándar,6.85,29.2,ENV-U09-00137
+sin novedad,no,no,34.0,País Demo,no,399,lluvia,mié,express,2.9,60.7,ENV-U09-00138
+,no,no,-5.0,País Demo,no,395,despejado,jue,estándar,14.61,43.7,ENV-U09-00139
+,sí,sí,52.0,País Demo,no,362,lluvia,mar,express,2.88,98.3,ENV-U09-00140
+revisar,no,no,-33.0,País Demo,no,400,despejado,mié,estándar,1.03,18.4,ENV-U09-00141
+,no,no,23.0,País Demo,no,407,despejado,lun,estándar,12.89,20.1,ENV-U09-00142
+,no,no,-12.0,País Demo,no,455,despejado,jue,estándar,15.76,21.3,ENV-U09-00143
+revisar,no,no,23.0,País Demo,no,416,despejado,mar,estándar,5.94,29.4,ENV-U09-00144
+,sí,sí,59.0,País Demo,sí,438,,vie,express,14.22,70.9,ENV-U09-00145
+revisar,sí,no,58.0,País Demo,no,407,tormenta,mié,estándar,11.07,39.5,ENV-U09-00146
+,no,no,33.0,País Demo,sí,386,despejado,mié,estándar,22.24,8.7,ENV-U09-00147
+,no,no,-29.0,País Demo,no,405,despejado,vie,estándar,6.22,10.2,ENV-U09-00148
+,no,no,5.0,País Demo,sí,434,despejado,vie,estándar,4.65,40.4,ENV-U09-00149
+sin novedad,no,no,38.0,País Demo,no,435,lluvia,mié,estándar,13.81,32.7,ENV-U09-00150
+revisar,no,sí,25.0,País Demo,no,406,despejado,jue,estándar,1.48,76.4,ENV-U09-00151
+,no,no,12.0,País Demo,no,449,despejado,vie,estándar,12.18,77.3,ENV-U09-00152
+sin novedad,no,no,19.0,País Demo,no,416,lluvia,lun,express,6.39,46.1,ENV-U09-00153
+sin novedad,sí,sí,42.0,País Demo,sí,442,lluvia,jue,estándar,9.39,20.5,ENV-U09-00154
+revisar,sí,sí,65.0,País Demo,sí,457,despejado,jue,estándar,9.98,21.1,ENV-U09-00155
+sin novedad,no,no,5.0,País Demo,no,428,lluvia,lun,express,32.41,32.1,ENV-U09-00156
+,sí,no,50.0,País Demo,no,429,despejado,lun,estándar,4.58,55.4,ENV-U09-00157
+revisar,no,no,36.0,País Demo,sí,411,lluvia,vie,estándar,0.22,48.3,ENV-U09-00158
+revisar,no,no,19.0,País Demo,no,413,despejado,jue,express,9.2,61.7,ENV-U09-00159
+revisar,no,no,-24.0,País Demo,no,406,despejado,mar,express,6.37,14.0,ENV-U09-00160
+,sí,sí,57.0,País Demo,no,429,despejado,mié,estándar,4.02,76.7,ENV-U09-00161
+,sí,no,50.0,País Demo,no,460,,jue,estándar,11.08,46.7,ENV-U09-00162
+sin novedad,no,no,18.0,País Demo,sí,409,lluvia,lun,express,3.0,29.1,ENV-U09-00163
+sin novedad,no,no,-8.0,País Demo,sí,429,despejado,lun,express,8.79,19.9,ENV-U09-00164
+sin novedad,no,sí,21.0,País Demo,no,409,despejado,mié,estándar,7.95,102.3,ENV-U09-00165
+revisar,no,no,-2.0,País Demo,no,401,despejado,mié,estándar,2.73,16.9,ENV-U09-00166
+revisar,sí,no,63.0,País Demo,no,453,tormenta,sáb,estándar,4.35,48.0,ENV-U09-00167
+,sí,no,103.0,País Demo,no,432,tormenta,mar,estándar,5.53,31.6,ENV-U09-00168
+sin novedad,no,no,16.0,País Demo,no,486,lluvia,sáb,express,0.34,70.7,ENV-U09-00169
+revisar,sí,sí,85.0,País Demo,sí,419,lluvia,sáb,estándar,17.6,41.0,ENV-U09-00170
+revisar,no,no,-13.0,País Demo,sí,389,despejado,mié,estándar,9.18,9.2,ENV-U09-00171
+revisar,no,no,-13.0,País Demo,no,443,despejado,vie,estándar,3.93,18.2,ENV-U09-00172
+sin novedad,no,no,-21.0,País Demo,no,415,,lun,express,9.24,12.9,ENV-U09-00173
+revisar,sí,sí,59.0,País Demo,no,398,lluvia,mié,estándar,9.67,19.6,ENV-U09-00174
+,no,no,25.0,País Demo,no,400,despejado,mar,express,8.71,54.5,ENV-U09-00175
+,no,no,32.0,País Demo,no,403,despejado,sáb,estándar,4.46,34.0,ENV-U09-00176
+revisar,no,no,8.0,País Demo,no,412,despejado,jue,estándar,9.61,32.3,ENV-U09-00177
+sin novedad,sí,sí,55.0,País Demo,sí,433,lluvia,mié,estándar,11.01,14.7,ENV-U09-00178
+sin novedad,no,no,4.0,País Demo,sí,410,despejado,jue,express,12.51,43.0,ENV-U09-00179
+revisar,no,no,16.0,País Demo,no,445,despejado,vie,estándar,6.32,40.0,ENV-U09-00180
+,sí,no,54.0,País Demo,no,413,lluvia,mié,estándar,19.75,32.6,ENV-U09-00181
+,no,no,-26.0,País Demo,no,425,despejado,lun,estándar,7.67,28.7,ENV-U09-00182
+revisar,sí,sí,81.0,País Demo,no,410,tormenta,jue,estándar,1.41,57.2,ENV-U09-00183
+revisar,no,sí,20.0,País Demo,no,452,despejado,lun,estándar,8.97,57.2,ENV-U09-00184
+,no,no,-21.0,País Demo,no,432,despejado,lun,express,11.83,7.2,ENV-U09-00185
+sin novedad,sí,sí,47.0,País Demo,no,394,lluvia,vie,express,2.89,17.9,ENV-U09-00186
+revisar,no,no,-26.0,País Demo,sí,451,despejado,sáb,estándar,3.63,22.4,ENV-U09-00187
+,no,no,-21.0,País Demo,no,406,despejado,lun,estándar,2.54,4.5,ENV-U09-00188
+revisar,sí,no,46.0,País Demo,no,403,lluvia,sáb,estándar,5.84,26.5,ENV-U09-00189
+revisar,sí,no,48.0,País Demo,no,432,despejado,sáb,estándar,8.44,52.3,ENV-U09-00190
+sin novedad,no,no,26.0,País Demo,sí,448,despejado,mar,estándar,2.45,22.7,ENV-U09-00191
+revisar,no,no,21.0,País Demo,no,414,despejado,lun,estándar,1.48,16.8,ENV-U09-00192
+,no,no,-2.0,País Demo,no,408,despejado,jue,estándar,8.44,10.8,ENV-U09-00193
+sin novedad,no,no,24.0,País Demo,no,392,despejado,mié,estándar,6.44,38.8,ENV-U09-00194
+,sí,no,85.0,País Demo,no,433,tormenta,jue,estándar,8.12,31.8,ENV-U09-00195
+,no,no,14.0,País Demo,no,431,despejado,jue,estándar,0.49,38.1,ENV-U09-00196
+,sí,sí,47.0,País Demo,no,411,lluvia,jue,estándar,6.16,21.6,ENV-U09-00197
+,no,no,20.0,País Demo,sí,446,despejado,vie,estándar,0.28,25.1,ENV-U09-00198
+revisar,sí,sí,46.0,País Demo,no,411,,mar,estándar,13.39,15.6,ENV-U09-00199
+sin novedad,no,no,27.0,País Demo,sí,420,despejado,sáb,estándar,5.33,41.1,ENV-U09-00200
+revisar,no,no,14.0,País Demo,sí,418,,jue,express,6.35,16.3,ENV-U09-00201
+revisar,no,no,-16.0,País Demo,no,425,despejado,mié,estándar,17.03,18.2,ENV-U09-00202
+sin novedad,no,no,-8.0,País Demo,no,414,despejado,mié,express,3.79,22.7,ENV-U09-00203
+revisar,sí,sí,50.0,País Demo,no,428,lluvia,jue,express,11.93,28.4,ENV-U09-00204
+sin novedad,no,no,-4.0,País Demo,no,435,despejado,mar,estándar,9.25,46.0,ENV-U09-00205
+sin novedad,no,no,16.0,País Demo,sí,384,,jue,express,2.35,24.1,ENV-U09-00206
+sin novedad,no,no,23.0,País Demo,no,417,despejado,jue,estándar,22.03,53.1,ENV-U09-00207
+sin novedad,no,no,3.0,País Demo,no,426,despejado,jue,estándar,1.67,9.1,ENV-U09-00208
+sin novedad,no,no,31.0,País Demo,no,415,despejado,jue,estándar,10.1,38.8,ENV-U09-00209
+,sí,sí,66.0,País Demo,no,392,lluvia,mié,express,6.78,51.1,ENV-U09-00210
+revisar,no,no,-18.0,País Demo,no,422,despejado,jue,express,4.24,24.0,ENV-U09-00211
+,no,no,6.0,País Demo,no,416,despejado,mié,express,13.35,36.8,ENV-U09-00212
+,sí,sí,49.0,País Demo,no,430,despejado,sáb,estándar,8.11,40.9,ENV-U09-00213
+sin novedad,no,no,-12.0,País Demo,no,411,despejado,jue,estándar,3.49,33.9,ENV-U09-00214
+sin novedad,no,no,-30.0,País Demo,no,431,despejado,mié,estándar,9.17,3.9,ENV-U09-00215
+sin novedad,no,no,-4.0,País Demo,no,445,despejado,sáb,estándar,8.21,12.5,ENV-U09-00216
+,no,no,-9.0,País Demo,no,462,despejado,mié,express,7.29,21.9,ENV-U09-00217
+sin novedad,no,no,11.0,País Demo,no,437,despejado,mié,express,18.51,24.2,ENV-U09-00218
+revisar,sí,sí,85.0,País Demo,sí,437,tormenta,mié,estándar,9.39,9.7,ENV-U09-00219
+,no,no,-31.0,País Demo,no,413,despejado,jue,estándar,8.03,8.2,ENV-U09-00220
+,sí,no,44.0,País Demo,sí,425,despejado,jue,estándar,4.01,45.1,ENV-U09-00221
+revisar,no,no,-14.0,País Demo,no,416,despejado,vie,estándar,4.67,25.5,ENV-U09-00222
+revisar,no,no,11.0,País Demo,no,434,despejado,sáb,express,14.41,34.1,ENV-U09-00223
+,no,no,-9.0,País Demo,no,447,,lun,estándar,8.57,35.0,ENV-U09-00224
+revisar,no,no,4.0,País Demo,sí,436,despejado,lun,express,0.25,31.4,ENV-U09-00225
+,no,no,36.0,País Demo,no,430,tormenta,vie,express,9.49,8.1,ENV-U09-00226
+sin novedad,sí,no,94.0,País Demo,no,442,lluvia,jue,express,2.39,73.5,ENV-U09-00227
+revisar,no,no,0.0,País Demo,no,415,despejado,mié,express,3.97,41.5,ENV-U09-00228
+sin novedad,no,no,35.0,País Demo,no,426,lluvia,vie,estándar,14.25,10.9,ENV-U09-00229
+sin novedad,no,no,40.0,País Demo,no,427,tormenta,mié,express,17.47,30.3,ENV-U09-00230
+revisar,no,no,0.0,País Demo,no,400,despejado,mié,estándar,13.13,8.2,ENV-U09-00231
+sin novedad,no,no,-14.0,País Demo,no,434,despejado,sáb,estándar,14.72,50.8,ENV-U09-00232
+revisar,no,no,16.0,País Demo,no,455,lluvia,mié,estándar,16.76,44.6,ENV-U09-00233
+,no,no,9.0,País Demo,no,397,lluvia,sáb,estándar,4.42,4.3,ENV-U09-00234
+,sí,sí,45.0,País Demo,sí,428,despejado,mié,estándar,4.51,30.9,ENV-U09-00235
+,no,no,6.0,País Demo,no,403,despejado,sáb,express,7.43,49.9,ENV-U09-00236
+,no,no,-11.0,País Demo,no,364,despejado,jue,estándar,3.64,30.4,ENV-U09-00237
+,no,no,29.0,País Demo,no,428,lluvia,sáb,estándar,5.7,57.3,ENV-U09-00238
+,no,no,14.0,País Demo,no,431,lluvia,mié,estándar,6.9,35.8,ENV-U09-00239
+,no,no,26.0,País Demo,no,435,despejado,lun,estándar,18.24,31.4,ENV-U09-00240
+,no,no,-12.0,País Demo,no,382,despejado,jue,estándar,3.52,10.8,ENV-U09-00241
+,no,no,12.0,País Demo,no,422,despejado,vie,estándar,8.96,24.1,ENV-U09-00242
+sin novedad,no,no,11.0,País Demo,no,429,lluvia,vie,express,12.06,39.5,ENV-U09-00243
+sin novedad,no,no,23.0,País Demo,no,437,lluvia,mar,estándar,6.35,30.7,ENV-U09-00244
+sin novedad,sí,sí,75.0,País Demo,no,382,tormenta,mar,estándar,6.08,73.7,ENV-U09-00245
+,no,no,1.0,País Demo,no,414,despejado,jue,express,7.26,41.9,ENV-U09-00246
+revisar,no,no,36.0,País Demo,no,436,despejado,sáb,estándar,7.61,35.1,ENV-U09-00247
+revisar,no,no,-44.0,País Demo,no,412,despejado,mar,estándar,1.35,6.1,ENV-U09-00248
+,no,no,8.0,País Demo,no,418,despejado,mié,estándar,4.02,12.7,ENV-U09-00249
+revisar,no,no,-85.0,País Demo,no,400,despejado,mié,estándar,9.77,21.8,ENV-U09-00250
+revisar,sí,no,99.0,País Demo,no,370,tormenta,jue,express,24.98,55.9,ENV-U09-00251
+sin novedad,no,no,23.0,País Demo,no,442,lluvia,mar,estándar,3.55,28.9,ENV-U09-00252
+revisar,no,no,18.0,País Demo,sí,430,despejado,jue,express,7.98,4.0,ENV-U09-00253
+sin novedad,no,sí,33.0,País Demo,no,426,despejado,sáb,express,4.1,33.3,ENV-U09-00254
+,no,no,34.0,País Demo,no,386,,mar,estándar,7.63,69.3,ENV-U09-00255
+,no,no,-6.0,País Demo,no,395,lluvia,jue,express,12.42,23.6,ENV-U09-00256
+revisar,no,no,-33.0,País Demo,no,459,despejado,lun,estándar,6.84,16.4,ENV-U09-00257
+revisar,sí,no,96.0,País Demo,no,424,tormenta,jue,express,2.99,60.7,ENV-U09-00258
+revisar,sí,no,84.0,País Demo,no,421,tormenta,vie,estándar,0.79,26.7,ENV-U09-00259
+sin novedad,no,no,-2.0,País Demo,no,391,despejado,mié,estándar,11.28,53.1,ENV-U09-00260
+revisar,no,no,37.0,País Demo,no,422,despejado,sáb,estándar,9.82,50.9,ENV-U09-00261
+revisar,no,no,-9.0,País Demo,no,417,,mar,express,3.0,26.7,ENV-U09-00262
+revisar,no,no,7.0,País Demo,no,404,despejado,mié,express,3.94,72.9,ENV-U09-00263
+,no,no,-8.0,País Demo,sí,439,despejado,mar,express,7.5,21.4,ENV-U09-00264
+revisar,no,no,-5.0,País Demo,no,420,despejado,vie,estándar,3.98,14.5,ENV-U09-00265
+revisar,no,no,-24.0,País Demo,no,431,despejado,jue,express,2.94,12.1,ENV-U09-00266
+revisar,no,no,31.0,País Demo,no,420,lluvia,mié,estándar,5.66,49.0,ENV-U09-00267
+,no,no,8.0,País Demo,no,441,despejado,mié,express,3.03,34.5,ENV-U09-00268
+sin novedad,sí,no,82.0,País Demo,sí,418,tormenta,mié,express,3.12,51.3,ENV-U09-00269
+revisar,sí,no,100.0,País Demo,sí,391,,sáb,express,11.17,36.3,ENV-U09-00270
+sin novedad,no,no,13.0,País Demo,no,427,despejado,vie,express,14.55,15.8,ENV-U09-00271
+sin novedad,no,no,14.0,País Demo,no,456,lluvia,sáb,express,4.01,37.2,ENV-U09-00272
+revisar,no,no,9.0,País Demo,no,434,despejado,mar,estándar,9.74,35.0,ENV-U09-00273
+revisar,no,no,16.0,País Demo,no,435,lluvia,mar,estándar,2.22,25.2,ENV-U09-00274
+revisar,no,no,27.0,País Demo,no,424,lluvia,mié,estándar,4.14,32.6,ENV-U09-00275
+,no,no,12.0,País Demo,sí,381,despejado,mié,estándar,4.72,46.2,ENV-U09-00276
+sin novedad,no,no,-2.0,País Demo,no,406,despejado,jue,estándar,3.79,50.6,ENV-U09-00277
+sin novedad,no,no,35.0,País Demo,no,422,lluvia,vie,estándar,2.96,25.0,ENV-U09-00278
+sin novedad,no,no,35.0,País Demo,no,421,despejado,lun,estándar,3.99,39.0,ENV-U09-00279
+revisar,no,no,15.0,País Demo,no,434,lluvia,vie,express,5.34,56.5,ENV-U09-00280
+revisar,no,no,29.0,País Demo,no,428,despejado,jue,express,9.6,46.6,ENV-U09-00281
+sin novedad,no,no,32.0,País Demo,sí,405,despejado,sáb,express,0.33,17.9,ENV-U09-00282
+revisar,sí,no,41.0,País Demo,no,420,lluvia,sáb,estándar,13.53,62.0,ENV-U09-00283
+sin novedad,sí,no,124.0,País Demo,no,434,tormenta,vie,estándar,5.87,89.7,ENV-U09-00284
+,no,no,-8.0,País Demo,no,406,,sáb,estándar,14.64,38.1,ENV-U09-00285
+revisar,no,no,-17.0,País Demo,no,433,despejado,mar,estándar,28.28,7.2,ENV-U09-00286
+,no,no,-4.0,País Demo,no,379,despejado,mié,express,3.52,22.3,ENV-U09-00287
+,sí,sí,60.0,País Demo,no,398,lluvia,mié,estándar,15.33,43.2,ENV-U09-00288
+revisar,sí,no,43.0,País Demo,no,393,lluvia,sáb,estándar,11.63,56.9,ENV-U09-00289
+,no,no,26.0,País Demo,no,427,despejado,lun,estándar,2.98,64.7,ENV-U09-00290
+sin novedad,no,no,-18.0,País Demo,no,423,despejado,sáb,estándar,2.88,50.8,ENV-U09-00291
+revisar,sí,no,48.0,País Demo,no,458,despejado,jue,estándar,1.74,56.8,ENV-U09-00292
+revisar,sí,sí,65.0,País Demo,sí,378,,lun,express,4.21,125.1,ENV-U09-00293
+revisar,no,no,26.0,País Demo,no,420,lluvia,mié,express,8.13,38.4,ENV-U09-00294
+revisar,sí,no,46.0,País Demo,no,457,lluvia,mar,estándar,1.58,29.6,ENV-U09-00295
+,no,no,33.0,País Demo,no,411,despejado,vie,express,4.58,13.9,ENV-U09-00296
+revisar,sí,no,82.0,País Demo,no,434,tormenta,mié,estándar,2.11,47.5,ENV-U09-00297
+,sí,no,53.0,País Demo,sí,407,tormenta,jue,express,11.03,19.3,ENV-U09-00298
+,no,no,38.0,País Demo,no,447,lluvia,sáb,estándar,5.71,30.9,ENV-U09-00299
+sin novedad,no,no,-29.0,País Demo,no,436,despejado,mié,express,6.21,34.5,ENV-U09-00300
+,no,no,32.0,País Demo,sí,469,lluvia,sáb,estándar,6.21,22.1,ENV-U09-00301
+sin novedad,no,no,10.0,País Demo,sí,415,lluvia,mar,estándar,4.78,20.9,ENV-U09-00302
+revisar,no,no,-24.0,País Demo,no,412,despejado,sáb,estándar,0.65,26.3,ENV-U09-00303
+sin novedad,sí,sí,60.0,País Demo,no,421,lluvia,lun,estándar,10.93,40.0,ENV-U09-00304
+,no,no,21.0,País Demo,no,406,despejado,jue,estándar,2.9,36.7,ENV-U09-00305
+sin novedad,no,no,-16.0,País Demo,no,442,lluvia,mar,express,7.2,17.1,ENV-U09-00306
+sin novedad,no,no,-24.0,País Demo,no,451,despejado,mar,express,2.53,23.7,ENV-U09-00307
+,no,no,39.0,País Demo,no,388,despejado,sáb,estándar,10.78,44.1,ENV-U09-00308
+sin novedad,no,no,24.0,País Demo,no,357,lluvia,mié,express,3.78,37.3,ENV-U09-00309
+revisar,no,no,-1.0,País Demo,no,444,despejado,lun,express,4.34,43.4,ENV-U09-00310
+sin novedad,no,no,-37.0,País Demo,no,410,despejado,lun,estándar,7.43,11.2,ENV-U09-00311
+,no,no,-9.0,País Demo,no,406,despejado,vie,estándar,2.27,16.6,ENV-U09-00312
+revisar,no,no,-6.0,País Demo,sí,412,despejado,jue,express,22.43,13.5,ENV-U09-00313
+sin novedad,no,no,9.0,País Demo,no,398,despejado,vie,express,11.82,45.0,ENV-U09-00314
+sin novedad,sí,no,45.0,País Demo,sí,422,despejado,mar,estándar,5.45,27.4,ENV-U09-00315
+sin novedad,no,no,-4.0,País Demo,sí,424,lluvia,mar,estándar,4.12,20.7,ENV-U09-00316
+sin novedad,no,no,3.0,País Demo,no,427,despejado,jue,express,3.83,24.9,ENV-U09-00317
+sin novedad,no,no,-1.0,País Demo,no,421,despejado,mar,estándar,13.28,34.7,ENV-U09-00318
+sin novedad,no,no,2.0,País Demo,no,425,lluvia,vie,estándar,13.02,27.1,ENV-U09-00319
+sin novedad,sí,sí,64.0,País Demo,no,407,tormenta,vie,express,12.72,44.8,ENV-U09-00320
+sin novedad,no,sí,10.0,País Demo,no,395,lluvia,mié,estándar,11.84,10.2,ENV-U09-00321
+revisar,no,no,-4.0,País Demo,sí,379,despejado,mié,express,4.47,51.2,ENV-U09-00322
+revisar,no,no,23.0,País Demo,sí,415,despejado,lun,estándar,4.5,19.1,ENV-U09-00323
+,no,no,0.0,País Demo,no,414,despejado,mar,estándar,4.26,59.3,ENV-U09-00324
+,no,no,-9.0,País Demo,no,410,,sáb,estándar,11.57,30.6,ENV-U09-00325
+,no,no,33.0,País Demo,no,396,lluvia,jue,estándar,1.28,39.4,ENV-U09-00326
+sin novedad,no,no,22.0,País Demo,no,421,despejado,vie,estándar,5.67,59.8,ENV-U09-00327
+,no,no,31.0,País Demo,sí,446,despejado,sáb,estándar,3.1,10.4,ENV-U09-00328
+revisar,no,no,20.0,País Demo,no,423,,mar,estándar,11.67,43.0,ENV-U09-00329
+sin novedad,sí,no,53.0,País Demo,no,451,despejado,mié,estándar,10.1,71.4,ENV-U09-00330
+sin novedad,no,no,11.0,País Demo,no,421,despejado,jue,estándar,15.38,29.2,ENV-U09-00331
+revisar,no,no,-10.0,País Demo,no,405,despejado,jue,express,1.81,46.3,ENV-U09-00332
+sin novedad,no,no,-20.0,País Demo,no,451,despejado,jue,estándar,16.97,52.5,ENV-U09-00333
+sin novedad,sí,no,47.0,País Demo,no,428,lluvia,lun,estándar,13.38,51.3,ENV-U09-00334
+,no,no,-23.0,País Demo,no,414,despejado,sáb,estándar,12.09,25.8,ENV-U09-00335
+sin novedad,no,no,7.0,País Demo,no,418,lluvia,mar,express,8.01,32.4,ENV-U09-00336
+sin novedad,no,no,-23.0,País Demo,no,432,despejado,lun,estándar,5.09,43.2,ENV-U09-00337
+revisar,no,no,19.0,País Demo,no,439,lluvia,jue,estándar,14.96,38.8,ENV-U09-00338
+revisar,no,no,32.0,País Demo,sí,450,despejado,mar,estándar,24.74,21.8,ENV-U09-00339
+,no,no,36.0,País Demo,sí,405,lluvia,mar,estándar,3.48,20.8,ENV-U09-00340
+revisar,sí,sí,80.0,País Demo,no,434,tormenta,jue,estándar,6.38,35.3,ENV-U09-00341
+sin novedad,no,no,-8.0,País Demo,no,389,despejado,vie,estándar,1.93,32.8,ENV-U09-00342
+,no,no,-1.0,País Demo,no,414,lluvia,mar,express,9.38,7.3,ENV-U09-00343
+sin novedad,no,no,15.0,País Demo,no,426,lluvia,sáb,estándar,7.27,25.6,ENV-U09-00344
+revisar,sí,no,84.0,País Demo,sí,413,lluvia,lun,estándar,6.67,65.9,ENV-U09-00345
+,no,no,39.0,País Demo,no,457,despejado,lun,estándar,10.31,55.0,ENV-U09-00346
+,no,sí,11.0,País Demo,no,425,despejado,sáb,estándar,18.29,42.6,ENV-U09-00347
+,no,no,7.0,País Demo,no,440,despejado,mié,estándar,13.16,35.3,ENV-U09-00348
+revisar,no,no,28.0,País Demo,no,424,despejado,sáb,estándar,16.9,38.8,ENV-U09-00349
+,no,no,15.0,País Demo,no,388,lluvia,vie,express,3.38,55.9,ENV-U09-00350
+,no,no,-17.0,País Demo,no,395,despejado,vie,estándar,2.44,35.2,ENV-U09-00351
+,sí,no,45.0,País Demo,no,427,lluvia,sáb,express,3.58,53.3,ENV-U09-00352
+revisar,sí,no,48.0,País Demo,no,401,despejado,vie,estándar,3.64,37.5,ENV-U09-00353
+,sí,no,62.0,País Demo,no,436,,lun,estándar,9.45,51.3,ENV-U09-00354
+sin novedad,sí,no,46.0,País Demo,sí,425,despejado,sáb,estándar,20.48,25.1,ENV-U09-00355
+,no,no,-34.0,País Demo,no,433,despejado,sáb,express,4.54,12.5,ENV-U09-00356
+sin novedad,no,no,-3.0,País Demo,no,417,,jue,estándar,7.96,25.4,ENV-U09-00357
+revisar,no,no,-1.0,País Demo,no,413,despejado,jue,estándar,1.86,61.6,ENV-U09-00358
+sin novedad,no,no,40.0,País Demo,sí,413,despejado,vie,express,15.81,69.1,ENV-U09-00359
+,no,no,-14.0,País Demo,sí,443,despejado,sáb,express,0.26,28.6,ENV-U09-00360
+revisar,no,no,34.0,País Demo,no,394,despejado,jue,estándar,2.6,90.5,ENV-U09-00361
+,no,no,26.0,País Demo,no,427,lluvia,jue,express,6.81,13.4,ENV-U09-00362
+revisar,no,no,34.0,País Demo,no,423,lluvia,mié,estándar,3.72,19.1,ENV-U09-00363
+sin novedad,sí,no,52.0,País Demo,sí,402,lluvia,mar,estándar,6.03,12.2,ENV-U09-00364
+sin novedad,sí,no,55.0,País Demo,no,447,lluvia,jue,estándar,5.96,57.7,ENV-U09-00365
+revisar,no,no,21.0,País Demo,no,430,despejado,vie,estándar,15.55,79.6,ENV-U09-00366
+revisar,sí,sí,87.0,País Demo,sí,406,tormenta,jue,estándar,5.42,21.1,ENV-U09-00367
+,no,no,11.0,País Demo,no,401,despejado,mié,estándar,3.72,6.2,ENV-U09-00368
+revisar,no,no,25.0,País Demo,no,452,despejado,vie,estándar,7.56,93.9,ENV-U09-00369
+,no,no,-24.0,País Demo,no,416,despejado,mar,estándar,5.98,29.0,ENV-U09-00370
+revisar,no,no,9.0,País Demo,no,408,despejado,jue,estándar,7.27,46.6,ENV-U09-00371
+revisar,sí,no,116.0,País Demo,sí,417,tormenta,vie,estándar,4.35,84.0,ENV-U09-00372
+revisar,sí,sí,69.0,País Demo,sí,451,despejado,sáb,estándar,4.82,122.1,ENV-U09-00373
+revisar,sí,no,85.0,País Demo,no,457,tormenta,mar,express,6.76,7.7,ENV-U09-00374
+,no,no,-10.0,País Demo,no,435,despejado,mar,express,0.2,41.4,ENV-U09-00375
+revisar,no,no,-13.0,País Demo,no,446,despejado,lun,estándar,5.63,31.0,ENV-U09-00376
+revisar,sí,no,64.0,País Demo,sí,426,lluvia,jue,estándar,2.43,60.1,ENV-U09-00377
+,no,no,8.0,País Demo,sí,403,despejado,mar,estándar,3.04,28.2,ENV-U09-00378
+,no,no,33.0,País Demo,no,422,despejado,lun,estándar,3.71,43.9,ENV-U09-00379
+revisar,no,no,13.0,País Demo,no,435,despejado,vie,estándar,8.52,21.3,ENV-U09-00380
+revisar,no,no,28.0,País Demo,no,431,despejado,vie,estándar,17.3,40.3,ENV-U09-00381
+sin novedad,no,no,-17.0,País Demo,no,387,lluvia,jue,express,41.03,16.2,ENV-U09-00382
+revisar,sí,no,70.0,País Demo,sí,429,lluvia,jue,estándar,16.65,26.8,ENV-U09-00383
+revisar,no,no,19.0,País Demo,no,390,despejado,mié,estándar,6.17,73.1,ENV-U09-00384
+sin novedad,no,no,-4.0,País Demo,no,416,despejado,jue,express,13.83,39.1,ENV-U09-00385
+revisar,no,no,8.0,País Demo,no,395,despejado,sáb,express,2.99,23.2,ENV-U09-00386
+,sí,no,40.0,País Demo,no,420,despejado,jue,estándar,5.34,36.5,ENV-U09-00387
+,sí,no,66.0,País Demo,sí,411,despejado,lun,express,2.9,89.4,ENV-U09-00388
+,no,no,10.0,País Demo,sí,399,,mié,estándar,5.42,8.7,ENV-U09-00389
+sin novedad,no,no,-5.0,País Demo,no,461,despejado,mié,express,17.18,27.1,ENV-U09-00390
+revisar,no,no,-16.0,País Demo,no,413,despejado,jue,estándar,2.98,33.1,ENV-U09-00391
+,no,no,-3.0,País Demo,no,394,despejado,lun,estándar,5.89,34.0,ENV-U09-00392
+,no,no,6.0,País Demo,sí,419,despejado,mar,estándar,1.69,22.5,ENV-U09-00393
+revisar,no,no,16.0,País Demo,no,418,despejado,mié,express,20.1,37.8,ENV-U09-00394
+,sí,no,48.0,País Demo,no,431,despejado,jue,estándar,11.37,36.5,ENV-U09-00395
+revisar,no,no,2.0,País Demo,no,450,despejado,lun,estándar,17.97,25.5,ENV-U09-00396
+sin novedad,no,no,26.0,País Demo,no,400,despejado,jue,express,15.54,86.0,ENV-U09-00397
+revisar,no,no,-1.0,País Demo,no,388,despejado,sáb,express,18.88,16.2,ENV-U09-00398
+sin novedad,no,no,-51.0,País Demo,no,418,despejado,vie,express,10.21,25.5,ENV-U09-00399
+sin novedad,no,no,16.0,País Demo,sí,434,despejado,mar,express,2.78,38.4,ENV-U09-00400
+sin novedad,no,no,1.0,País Demo,sí,434,despejado,sáb,estándar,15.23,21.0,ENV-U09-00401
+,no,no,29.0,País Demo,no,396,despejado,vie,express,4.02,50.8,ENV-U09-00402
+,no,no,-11.0,País Demo,no,463,despejado,lun,estándar,5.74,27.4,ENV-U09-00403
+sin novedad,no,no,24.0,País Demo,no,417,despejado,lun,estándar,6.72,49.3,ENV-U09-00404
+revisar,sí,no,54.0,País Demo,sí,391,,mar,express,11.21,40.8,ENV-U09-00405
+sin novedad,sí,sí,48.0,País Demo,no,450,despejado,mar,estándar,8.4,81.7,ENV-U09-00406
+sin novedad,no,no,-6.0,País Demo,no,433,despejado,mar,express,5.89,44.6,ENV-U09-00407
+revisar,sí,sí,105.0,País Demo,no,417,tormenta,sáb,estándar,1.88,29.0,ENV-U09-00408
+,no,no,1.0,País Demo,no,435,despejado,mié,estándar,5.15,24.1,ENV-U09-00409
+revisar,no,no,29.0,País Demo,no,396,tormenta,vie,express,15.88,31.5,ENV-U09-00410
+,no,no,-13.0,País Demo,no,410,despejado,mar,estándar,4.64,50.4,ENV-U09-00411
+sin novedad,no,no,-13.0,País Demo,no,404,despejado,jue,estándar,18.48,7.0,ENV-U09-00412
+sin novedad,no,no,-16.0,País Demo,no,375,despejado,jue,express,2.51,63.5,ENV-U09-00413
+revisar,sí,sí,82.0,País Demo,sí,403,despejado,mié,estándar,2.16,66.1,ENV-U09-00414
+revisar,no,no,19.0,País Demo,sí,429,despejado,mar,estándar,0.04,35.6,ENV-U09-00415
+revisar,no,no,-4.0,País Demo,no,415,despejado,sáb,express,4.5,38.3,ENV-U09-00416
+revisar,no,no,22.0,País Demo,sí,429,despejado,jue,estándar,4.81,75.2,ENV-U09-00417
+sin novedad,sí,no,46.0,País Demo,no,437,lluvia,mié,estándar,5.78,34.6,ENV-U09-00418
+sin novedad,no,no,4.0,País Demo,no,421,despejado,sáb,estándar,6.18,11.4,ENV-U09-00419
+sin novedad,no,sí,13.0,País Demo,no,464,lluvia,lun,estándar,8.95,50.7,ENV-U09-00420
+revisar,no,no,7.0,País Demo,no,404,despejado,mié,estándar,3.92,20.0,ENV-U09-00421
+,no,no,23.0,País Demo,no,389,lluvia,jue,express,4.26,21.7,ENV-U09-00422
+sin novedad,no,no,-17.0,País Demo,no,358,despejado,vie,express,2.75,58.0,ENV-U09-00423
+revisar,sí,no,68.0,País Demo,no,442,tormenta,lun,estándar,3.9,31.0,ENV-U09-00424
+revisar,sí,no,70.0,País Demo,no,437,tormenta,lun,express,20.89,44.2,ENV-U09-00425
+revisar,no,no,10.0,País Demo,no,428,despejado,sáb,estándar,5.31,42.8,ENV-U09-00426
+,no,no,22.0,País Demo,no,405,lluvia,jue,estándar,6.28,32.7,ENV-U09-00427
+revisar,sí,sí,119.0,País Demo,sí,427,tormenta,lun,estándar,27.53,49.8,ENV-U09-00428
+revisar,sí,sí,44.0,País Demo,sí,391,despejado,vie,estándar,10.88,51.6,ENV-U09-00429
+revisar,no,no,29.0,País Demo,sí,384,despejado,mié,express,9.91,25.2,ENV-U09-00430
+,no,no,21.0,País Demo,no,413,despejado,vie,estándar,6.72,45.6,ENV-U09-00431
+revisar,no,no,4.0,País Demo,no,444,despejado,mié,estándar,5.11,44.2,ENV-U09-00432
+,no,no,38.0,País Demo,no,424,lluvia,sáb,estándar,13.57,39.7,ENV-U09-00433
+,no,no,-5.0,País Demo,no,400,despejado,vie,estándar,5.41,40.5,ENV-U09-00434
+sin novedad,sí,no,61.0,País Demo,no,433,,sáb,estándar,4.76,23.3,ENV-U09-00435
+revisar,sí,no,42.0,País Demo,no,414,tormenta,jue,estándar,1.01,10.1,ENV-U09-00436
+,no,sí,31.0,País Demo,no,414,,lun,estándar,6.63,61.0,ENV-U09-00437
+revisar,no,no,18.0,País Demo,sí,452,despejado,lun,estándar,3.8,43.9,ENV-U09-00438
+revisar,no,no,10.0,País Demo,no,410,lluvia,lun,express,17.99,41.2,ENV-U09-00439
+,no,no,-16.0,País Demo,no,376,despejado,mié,estándar,2.92,61.1,ENV-U09-00440
+revisar,no,no,10.0,País Demo,no,443,despejado,mar,express,3.22,10.8,ENV-U09-00441
+revisar,no,no,30.0,País Demo,no,416,despejado,vie,express,1.84,24.2,ENV-U09-00442
+sin novedad,no,no,23.0,País Demo,no,439,tormenta,lun,express,13.14,28.5,ENV-U09-00443
+sin novedad,sí,no,45.0,País Demo,no,434,despejado,mié,estándar,7.71,112.3,ENV-U09-00444
+sin novedad,no,no,9.0,País Demo,no,425,despejado,mar,express,1.2,29.2,ENV-U09-00445
+,sí,no,56.0,País Demo,no,390,lluvia,mié,estándar,11.01,71.3,ENV-U09-00446
+,no,no,12.0,País Demo,sí,419,despejado,vie,estándar,12.42,32.7,ENV-U09-00447
+revisar,no,no,19.0,País Demo,no,397,despejado,jue,express,10.88,80.8,ENV-U09-00448
+revisar,no,no,-0.0,País Demo,sí,433,despejado,mié,estándar,6.24,48.0,ENV-U09-00449
+sin novedad,no,no,25.0,País Demo,no,428,despejado,lun,estándar,19.97,46.7,ENV-U09-00450
+revisar,no,no,32.0,País Demo,no,417,lluvia,mié,estándar,13.34,15.4,ENV-U09-00451
+revisar,no,no,-23.0,País Demo,no,419,despejado,mié,express,23.33,30.6,ENV-U09-00452
+,sí,sí,41.0,País Demo,no,444,despejado,sáb,estándar,4.87,55.1,ENV-U09-00453
+,no,no,14.0,País Demo,sí,410,despejado,lun,express,1.28,48.3,ENV-U09-00454
+revisar,no,no,-4.0,País Demo,no,415,despejado,jue,express,10.65,28.3,ENV-U09-00455
+revisar,no,no,-1.0,País Demo,no,441,despejado,jue,estándar,6.51,86.3,ENV-U09-00456
+sin novedad,no,no,-4.0,País Demo,no,382,despejado,vie,estándar,2.04,30.5,ENV-U09-00457
+revisar,no,no,-8.0,País Demo,no,387,despejado,sáb,express,5.26,27.1,ENV-U09-00458
+revisar,sí,no,57.0,País Demo,no,432,despejado,mar,estándar,7.32,59.1,ENV-U09-00459
+revisar,no,no,34.0,País Demo,no,427,lluvia,mar,express,14.93,13.1,ENV-U09-00460
+sin novedad,no,sí,11.0,País Demo,sí,444,despejado,jue,estándar,14.02,47.7,ENV-U09-00461
+revisar,no,no,-22.0,País Demo,no,442,despejado,mar,estándar,8.52,14.5,ENV-U09-00462
+sin novedad,no,sí,11.0,País Demo,no,410,,sáb,estándar,3.18,43.2,ENV-U09-00463
+sin novedad,no,no,-24.0,País Demo,no,421,despejado,vie,express,2.85,12.7,ENV-U09-00464
+,no,no,-21.0,País Demo,no,428,despejado,lun,express,12.31,24.9,ENV-U09-00465
+,sí,no,51.0,País Demo,no,420,lluvia,sáb,express,0.89,20.8,ENV-U09-00466
+revisar,no,no,28.0,País Demo,no,442,,mié,estándar,15.32,55.8,ENV-U09-00467
+revisar,no,no,31.0,País Demo,no,402,tormenta,vie,estándar,6.25,8.8,ENV-U09-00468
+,sí,sí,49.0,País Demo,sí,421,despejado,sáb,express,1.76,30.1,ENV-U09-00469
+sin novedad,sí,no,56.0,País Demo,no,376,lluvia,sáb,express,4.14,29.3,ENV-U09-00470
+revisar,no,no,-7.0,País Demo,no,400,despejado,mar,express,15.53,42.7,ENV-U09-00471
+sin novedad,no,no,-12.0,País Demo,no,434,despejado,sáb,estándar,5.93,13.9,ENV-U09-00472
+revisar,sí,no,59.0,País Demo,sí,395,lluvia,sáb,estándar,10.66,27.4,ENV-U09-00473
+revisar,no,no,1.0,País Demo,no,433,despejado,jue,express,7.25,33.1,ENV-U09-00474
+sin novedad,no,no,19.0,País Demo,no,415,lluvia,mar,express,4.58,30.7,ENV-U09-00475
+,sí,sí,70.0,País Demo,sí,398,despejado,sáb,express,12.75,37.8,ENV-U09-00476
+,no,no,38.0,País Demo,no,484,despejado,vie,estándar,1.69,16.7,ENV-U09-00477
+,no,no,7.0,País Demo,no,408,despejado,mar,express,22.23,33.6,ENV-U09-00478
+sin novedad,no,no,-16.0,País Demo,no,423,,mar,express,10.86,28.3,ENV-U09-00479
+sin novedad,no,no,6.0,País Demo,no,428,despejado,vie,estándar,6.88,20.1,ENV-U09-00480
+sin novedad,sí,sí,79.0,País Demo,no,439,tormenta,vie,express,12.75,52.2,ENV-U09-00481
+sin novedad,no,no,3.0,País Demo,no,404,despejado,sáb,estándar,9.57,39.6,ENV-U09-00482
+,no,no,14.0,País Demo,sí,398,despejado,mar,estándar,1.69,33.0,ENV-U09-00483
+,no,no,9.0,País Demo,no,412,despejado,vie,estándar,12.61,27.1,ENV-U09-00484
+,no,no,-31.0,País Demo,no,402,,lun,estándar,0.72,19.3,ENV-U09-00485
+revisar,no,no,3.0,País Demo,no,392,despejado,lun,estándar,13.35,42.4,ENV-U09-00486
+sin novedad,no,no,35.0,País Demo,sí,423,despejado,lun,estándar,3.27,28.8,ENV-U09-00487
+sin novedad,no,no,15.0,País Demo,no,429,despejado,mar,estándar,7.94,84.5,ENV-U09-00488
+,sí,sí,43.0,País Demo,sí,455,despejado,mar,estándar,12.57,21.5,ENV-U09-00489
+,sí,sí,72.0,País Demo,no,393,lluvia,mié,estándar,19.26,38.6,ENV-U09-00490
+sin novedad,no,no,21.0,País Demo,no,404,lluvia,mié,estándar,4.42,34.9,ENV-U09-00491
+,sí,sí,48.0,País Demo,sí,388,despejado,sáb,estándar,2.94,45.5,ENV-U09-00492
+revisar,no,no,34.0,País Demo,sí,387,lluvia,vie,estándar,2.05,14.8,ENV-U09-00493
+sin novedad,no,no,-3.0,País Demo,sí,431,despejado,lun,estándar,1.15,16.6,ENV-U09-00494
+revisar,no,no,25.0,País Demo,sí,407,despejado,sáb,estándar,6.32,21.0,ENV-U09-00495
+sin novedad,no,no,33.0,País Demo,no,395,despejado,vie,estándar,1.6,30.3,ENV-U09-00496
+revisar,sí,no,40.0,País Demo,no,419,lluvia,jue,express,1.92,39.5,ENV-U09-00497
+,no,no,17.0,País Demo,no,452,lluvia,sáb,express,7.32,47.5,ENV-U09-00498
+,sí,no,44.0,País Demo,no,433,tormenta,jue,estándar,3.04,26.0,ENV-U09-00499
+,no,sí,14.0,País Demo,no,443,despejado,jue,estándar,1.89,23.8,ENV-U09-00500
+revisar,sí,no,42.0,País Demo,no,399,despejado,jue,estándar,0.9,89.6,ENV-U09-00501
+sin novedad,no,no,20.0,País Demo,no,426,despejado,mar,estándar,8.54,15.1,ENV-U09-00502
+revisar,no,no,20.0,País Demo,no,406,despejado,vie,express,7.86,72.2,ENV-U09-00503
+,no,no,-6.0,País Demo,no,365,despejado,vie,estándar,5.39,38.7,ENV-U09-00504
+,no,no,-10.0,País Demo,sí,425,despejado,vie,express,14.6,45.6,ENV-U09-00505
+sin novedad,no,no,30.0,País Demo,no,477,despejado,lun,estándar,10.7,25.1,ENV-U09-00506
+sin novedad,no,no,14.0,País Demo,sí,450,despejado,vie,estándar,1.51,22.0,ENV-U09-00507
+revisar,no,no,-0.0,País Demo,no,411,despejado,jue,estándar,5.31,28.0,ENV-U09-00508
+sin novedad,no,no,20.0,País Demo,no,411,despejado,mar,estándar,4.58,33.7,ENV-U09-00509
+revisar,sí,no,76.0,País Demo,no,412,tormenta,sáb,estándar,6.09,40.3,ENV-U09-00510
+revisar,no,no,5.0,País Demo,no,396,despejado,sáb,estándar,15.18,10.4,ENV-U09-00511
+sin novedad,no,no,23.0,País Demo,no,446,lluvia,mar,estándar,3.35,19.3,ENV-U09-00512
+sin novedad,no,sí,38.0,País Demo,no,402,despejado,vie,estándar,5.83,30.1,ENV-U09-00513
+sin novedad,no,no,-26.0,País Demo,no,443,despejado,mar,estándar,16.18,19.3,ENV-U09-00514
+revisar,no,no,-39.0,País Demo,no,416,despejado,mar,estándar,3.71,8.9,ENV-U09-00515
+sin novedad,no,no,32.0,País Demo,no,416,despejado,mar,estándar,6.86,48.6,ENV-U09-00516
+revisar,no,no,21.0,País Demo,no,417,despejado,mar,estándar,2.13,38.4,ENV-U09-00517
+,no,no,12.0,País Demo,no,389,despejado,mar,estándar,5.21,30.9,ENV-U09-00518
+,sí,no,61.0,País Demo,sí,427,lluvia,jue,express,3.96,42.0,ENV-U09-00519
+revisar,no,no,36.0,País Demo,no,414,lluvia,vie,estándar,0.98,37.9,ENV-U09-00520
+sin novedad,sí,no,54.0,País Demo,sí,390,despejado,sáb,express,4.08,73.5,ENV-U09-00521
+sin novedad,no,no,36.0,País Demo,no,424,despejado,lun,express,6.29,83.9,ENV-U09-00522
+revisar,sí,sí,58.0,País Demo,no,445,despejado,vie,estándar,4.88,72.9,ENV-U09-00523
+revisar,no,no,2.0,País Demo,no,435,despejado,lun,express,3.79,36.3,ENV-U09-00524
+revisar,no,no,25.0,País Demo,no,400,despejado,jue,estándar,6.99,64.6,ENV-U09-00525
+revisar,no,no,12.0,País Demo,sí,435,despejado,vie,express,7.19,57.1,ENV-U09-00526
+revisar,no,no,33.0,País Demo,no,449,lluvia,vie,estándar,3.22,23.6,ENV-U09-00527
+,no,no,-10.0,País Demo,no,400,lluvia,vie,estándar,5.46,32.9,ENV-U09-00528
+revisar,no,no,5.0,País Demo,no,381,lluvia,jue,express,11.6,32.1,ENV-U09-00529
+,sí,sí,41.0,País Demo,no,428,despejado,mié,express,0.29,67.3,ENV-U09-00530
+revisar,no,no,17.0,País Demo,no,438,lluvia,vie,express,7.34,41.6,ENV-U09-00531
+revisar,no,no,8.0,País Demo,no,428,despejado,sáb,estándar,4.15,17.4,ENV-U09-00532
+,sí,sí,55.0,País Demo,no,410,lluvia,vie,estándar,4.03,16.3,ENV-U09-00533
+sin novedad,no,no,-52.0,País Demo,no,406,despejado,mié,express,1.21,13.2,ENV-U09-00534
+,no,no,12.0,País Demo,no,451,lluvia,mié,express,2.99,24.6,ENV-U09-00535
+sin novedad,no,no,-20.0,País Demo,no,404,despejado,jue,estándar,6.21,6.4,ENV-U09-00536
+,sí,no,41.0,País Demo,no,431,despejado,jue,estándar,7.08,77.7,ENV-U09-00537
+sin novedad,no,no,-23.0,País Demo,no,411,despejado,mié,estándar,5.48,41.0,ENV-U09-00538
+sin novedad,no,no,5.0,País Demo,no,470,despejado,lun,express,11.7,55.9,ENV-U09-00539
+,no,no,-13.0,País Demo,no,405,despejado,vie,express,9.42,26.4,ENV-U09-00540
+,no,no,20.0,País Demo,sí,403,despejado,lun,estándar,5.61,20.7,ENV-U09-00541
+revisar,no,no,-1.0,País Demo,no,425,lluvia,mar,estándar,8.79,48.9,ENV-U09-00542
+,no,no,16.0,País Demo,no,429,despejado,sáb,estándar,11.01,34.0,ENV-U09-00543
+revisar,no,no,19.0,País Demo,no,412,lluvia,sáb,express,4.1,13.4,ENV-U09-00544
+sin novedad,no,no,-32.0,País Demo,no,398,despejado,mié,express,5.05,24.1,ENV-U09-00545
+revisar,no,no,28.0,País Demo,no,438,despejado,mié,estándar,11.12,57.8,ENV-U09-00546
+,sí,no,64.0,País Demo,no,412,lluvia,jue,estándar,6.1,92.7,ENV-U09-00547
+revisar,sí,no,111.0,País Demo,no,456,tormenta,jue,estándar,28.96,41.5,ENV-U09-00548
+,no,no,27.0,País Demo,no,430,lluvia,mar,estándar,6.31,3.8,ENV-U09-00549
+,no,no,10.0,País Demo,no,434,despejado,sáb,express,2.53,69.4,ENV-U09-00550
+sin novedad,sí,sí,100.0,País Demo,no,428,lluvia,jue,estándar,4.15,32.2,ENV-U09-00551
+,no,no,18.0,País Demo,no,430,,lun,express,5.46,23.0,ENV-U09-00552
+revisar,no,no,-15.0,País Demo,no,425,despejado,jue,estándar,15.31,4.9,ENV-U09-00553
+,no,no,17.0,País Demo,sí,392,despejado,mié,estándar,1.8,38.2,ENV-U09-00554
+revisar,no,no,-15.0,País Demo,no,417,,lun,estándar,2.3,32.0,ENV-U09-00555
+revisar,no,no,-28.0,País Demo,no,439,despejado,mié,estándar,7.1,10.9,ENV-U09-00556
+revisar,no,no,9.0,País Demo,sí,434,despejado,mar,express,3.16,19.3,ENV-U09-00557
+sin novedad,sí,no,65.0,País Demo,sí,449,lluvia,mar,express,5.28,44.4,ENV-U09-00558
+revisar,sí,sí,59.0,País Demo,no,436,lluvia,mar,express,5.24,25.9,ENV-U09-00559
+,sí,no,45.0,País Demo,no,434,tormenta,lun,estándar,7.06,16.5,ENV-U09-00560
+,no,no,-39.0,País Demo,no,420,despejado,mié,estándar,2.72,8.9,ENV-U09-00561
+,no,no,6.0,País Demo,no,423,despejado,mié,estándar,8.44,68.4,ENV-U09-00562
+,sí,sí,49.0,País Demo,no,416,despejado,mar,estándar,7.93,85.9,ENV-U09-00563
+,sí,no,71.0,País Demo,sí,432,lluvia,sáb,express,9.42,50.5,ENV-U09-00564
+sin novedad,sí,sí,59.0,País Demo,sí,412,lluvia,jue,estándar,4.94,16.7,ENV-U09-00565
+revisar,no,no,37.0,País Demo,no,417,despejado,sáb,estándar,2.81,22.6,ENV-U09-00566
+,sí,sí,46.0,País Demo,no,441,despejado,sáb,express,10.92,19.2,ENV-U09-00567
+,no,no,-5.0,País Demo,sí,444,despejado,jue,express,4.7,18.8,ENV-U09-00568
+revisar,no,no,26.0,País Demo,no,382,despejado,mar,estándar,2.16,21.5,ENV-U09-00569
+sin novedad,no,no,34.0,País Demo,sí,396,despejado,mié,express,6.75,89.8,ENV-U09-00570
+revisar,no,no,21.0,País Demo,sí,477,despejado,sáb,estándar,13.42,17.5,ENV-U09-00571
+sin novedad,no,no,-38.0,País Demo,no,438,despejado,vie,express,1.05,23.5,ENV-U09-00572
+revisar,no,no,6.0,País Demo,no,441,despejado,lun,express,4.34,0.6,ENV-U09-00573
+sin novedad,no,no,40.0,País Demo,no,423,lluvia,lun,estándar,5.15,36.2,ENV-U09-00574
+,no,no,-25.0,País Demo,no,447,despejado,mié,estándar,10.44,21.4,ENV-U09-00575
+sin novedad,sí,sí,49.0,País Demo,sí,391,despejado,vie,express,4.58,51.9,ENV-U09-00576
+revisar,no,no,8.0,País Demo,no,372,despejado,mié,express,2.65,55.4,ENV-U09-00577
+sin novedad,sí,no,75.0,País Demo,no,411,lluvia,jue,estándar,1.85,83.4,ENV-U09-00578
+revisar,sí,no,52.0,País Demo,no,415,lluvia,mar,estándar,0.55,59.0,ENV-U09-00579
+sin novedad,no,no,4.0,País Demo,no,409,despejado,jue,estándar,6.4,34.6,ENV-U09-00580
+revisar,sí,no,43.0,País Demo,no,421,lluvia,vie,estándar,8.14,21.7,ENV-U09-00581
+sin novedad,no,no,22.0,País Demo,no,458,,vie,estándar,1.85,36.7,ENV-U09-00582
+sin novedad,no,no,18.0,País Demo,no,417,despejado,lun,express,1.57,52.6,ENV-U09-00583
+sin novedad,sí,no,61.0,País Demo,no,409,lluvia,jue,estándar,4.65,99.9,ENV-U09-00584
+,no,no,19.0,País Demo,sí,442,,jue,estándar,11.24,27.7,ENV-U09-00585
+revisar,no,no,-64.0,País Demo,no,434,despejado,vie,express,12.86,5.7,ENV-U09-00586
+sin novedad,no,no,29.0,País Demo,no,400,lluvia,sáb,estándar,2.61,37.7,ENV-U09-00587
+sin novedad,no,no,-12.0,País Demo,no,380,despejado,mar,estándar,16.55,27.9,ENV-U09-00588
+revisar,no,no,-26.0,País Demo,sí,436,despejado,jue,express,2.52,37.9,ENV-U09-00589
+sin novedad,no,no,-28.0,País Demo,no,452,despejado,vie,express,9.83,34.1,ENV-U09-00590
+sin novedad,no,no,-37.0,País Demo,no,414,despejado,sáb,express,7.92,16.7,ENV-U09-00591
+revisar,sí,no,118.0,País Demo,sí,427,tormenta,jue,estándar,5.15,61.8,ENV-U09-00592
+revisar,sí,sí,55.0,País Demo,no,425,lluvia,jue,estándar,2.41,49.0,ENV-U09-00593
+sin novedad,no,no,-22.0,País Demo,no,387,despejado,mar,express,2.95,12.5,ENV-U09-00594
+sin novedad,no,no,17.0,País Demo,no,429,despejado,mié,estándar,5.07,27.1,ENV-U09-00595
+revisar,sí,no,62.0,País Demo,no,418,lluvia,jue,estándar,0.61,45.5,ENV-U09-00596
+,no,no,-20.0,País Demo,no,439,despejado,jue,estándar,3.76,18.2,ENV-U09-00597
+sin novedad,no,no,-25.0,País Demo,no,413,despejado,mar,express,4.96,40.2,ENV-U09-00598
+,no,no,-41.0,País Demo,no,397,despejado,mar,estándar,7.28,16.1,ENV-U09-00599
+sin novedad,no,no,28.0,País Demo,sí,418,despejado,mié,express,3.14,54.3,ENV-U09-00600
+sin novedad,no,no,-1.0,País Demo,no,430,despejado,mié,estándar,12.81,36.8,ENV-U09-00601
+revisar,no,no,25.0,País Demo,sí,407,despejado,vie,estándar,1.14,39.2,ENV-U09-00602
+,no,no,11.0,País Demo,no,457,despejado,jue,express,11.99,54.1,ENV-U09-00603
+,no,no,22.0,País Demo,no,395,despejado,lun,express,5.29,11.5,ENV-U09-00604
+revisar,no,no,9.0,País Demo,no,423,,vie,estándar,4.55,20.5,ENV-U09-00605
+revisar,no,no,-9.0,País Demo,no,423,despejado,jue,estándar,6.53,33.2,ENV-U09-00606
+sin novedad,no,no,26.0,País Demo,no,408,despejado,sáb,estándar,10.85,49.0,ENV-U09-00607
+revisar,sí,sí,86.0,País Demo,no,427,tormenta,vie,estándar,4.51,51.1,ENV-U09-00608
+,no,no,15.0,País Demo,no,426,despejado,mar,express,3.33,38.6,ENV-U09-00609
+revisar,no,no,13.0,País Demo,no,439,despejado,lun,estándar,3.85,50.3,ENV-U09-00610
+revisar,no,no,14.0,País Demo,no,406,lluvia,mié,estándar,16.05,20.9,ENV-U09-00611
+revisar,sí,no,43.0,País Demo,no,413,despejado,lun,express,8.51,68.2,ENV-U09-00612
+revisar,no,no,22.0,País Demo,sí,411,despejado,jue,estándar,5.81,20.8,ENV-U09-00613
+,no,no,32.0,País Demo,no,389,tormenta,jue,estándar,17.5,26.8,ENV-U09-00614
+sin novedad,no,no,20.0,País Demo,no,446,despejado,lun,express,14.59,32.9,ENV-U09-00615
+sin novedad,no,no,-19.0,País Demo,no,410,,vie,express,6.94,27.0,ENV-U09-00616
+sin novedad,no,no,-15.0,País Demo,sí,426,despejado,vie,estándar,6.71,29.4,ENV-U09-00617
+sin novedad,no,no,-14.0,País Demo,no,396,despejado,mié,express,9.29,34.8,ENV-U09-00618
+revisar,sí,no,78.0,País Demo,sí,407,despejado,sáb,express,7.35,39.2,ENV-U09-00619
+sin novedad,no,no,40.0,País Demo,sí,433,,jue,estándar,2.99,50.6,ENV-U09-00620
+,no,no,6.0,País Demo,no,415,lluvia,mié,estándar,29.83,14.8,ENV-U09-00621
+sin novedad,no,no,-4.0,País Demo,sí,392,despejado,lun,express,4.21,62.0,ENV-U09-00622
+,no,no,25.0,País Demo,sí,435,despejado,jue,estándar,3.31,32.9,ENV-U09-00623
+sin novedad,sí,no,55.0,País Demo,no,414,lluvia,lun,estándar,13.7,80.9,ENV-U09-00624
+,no,no,11.0,País Demo,no,407,lluvia,vie,estándar,5.37,46.6,ENV-U09-00625
+sin novedad,no,no,16.0,País Demo,sí,410,despejado,lun,estándar,1.9,51.3,ENV-U09-00626
+,no,no,-15.0,País Demo,no,412,despejado,jue,express,0.99,20.7,ENV-U09-00627
+,no,no,-10.0,País Demo,no,444,despejado,vie,estándar,11.28,22.8,ENV-U09-00628
+sin novedad,sí,no,45.0,País Demo,no,430,,mié,estándar,7.26,37.5,ENV-U09-00629
+sin novedad,sí,no,91.0,País Demo,sí,455,,lun,estándar,5.43,78.5,ENV-U09-00630
+sin novedad,no,no,9.0,País Demo,no,419,despejado,mar,estándar,7.13,74.7,ENV-U09-00631
+,no,no,21.0,País Demo,no,444,despejado,sáb,estándar,2.91,28.2,ENV-U09-00632
+,no,no,-50.0,País Demo,no,419,despejado,jue,express,10.35,20.6,ENV-U09-00633
+sin novedad,sí,sí,51.0,País Demo,sí,443,despejado,mar,estándar,3.22,57.8,ENV-U09-00634
+sin novedad,no,no,28.0,País Demo,no,409,lluvia,vie,express,6.83,28.6,ENV-U09-00635
+,no,no,20.0,País Demo,no,392,despejado,jue,estándar,7.96,62.1,ENV-U09-00636
+sin novedad,no,no,11.0,País Demo,no,431,despejado,sáb,estándar,12.55,89.3,ENV-U09-00637
+revisar,no,no,16.0,País Demo,no,409,lluvia,mar,estándar,3.55,26.4,ENV-U09-00638
+sin novedad,no,no,23.0,País Demo,no,401,despejado,vie,estándar,3.43,46.3,ENV-U09-00639
+,no,no,16.0,País Demo,no,402,despejado,lun,express,10.9,38.3,ENV-U09-00640
+revisar,no,no,-32.0,País Demo,no,394,despejado,mar,estándar,1.32,8.8,ENV-U09-00641
+sin novedad,sí,sí,118.0,País Demo,sí,416,tormenta,sáb,estándar,6.88,97.1,ENV-U09-00642
+,no,no,14.0,País Demo,no,422,despejado,lun,estándar,3.99,14.2,ENV-U09-00643
+revisar,no,no,1.0,País Demo,no,453,despejado,sáb,express,10.46,30.4,ENV-U09-00644
+sin novedad,no,no,-39.0,País Demo,no,369,despejado,jue,estándar,12.6,15.4,ENV-U09-00645
+sin novedad,sí,sí,67.0,País Demo,sí,415,tormenta,vie,estándar,5.29,30.6,ENV-U09-00646
+revisar,no,no,28.0,País Demo,no,439,despejado,jue,express,5.09,64.2,ENV-U09-00647
+,no,no,13.0,País Demo,no,442,,sáb,express,8.59,29.3,ENV-U09-00648
+revisar,no,no,7.0,País Demo,no,401,despejado,lun,express,7.37,74.5,ENV-U09-00649
+sin novedad,no,no,-2.0,País Demo,no,386,,sáb,estándar,3.78,47.8,ENV-U09-00650
+revisar,no,no,4.0,País Demo,no,423,despejado,vie,estándar,11.45,65.5,ENV-U09-00651
+revisar,sí,no,95.0,País Demo,no,401,tormenta,vie,estándar,3.49,40.0,ENV-U09-00652
+,no,no,37.0,País Demo,no,414,despejado,mié,estándar,6.83,59.3,ENV-U09-00653
+revisar,no,no,20.0,País Demo,no,436,despejado,sáb,express,4.61,53.4,ENV-U09-00654
+revisar,no,no,-5.0,País Demo,no,413,despejado,jue,estándar,9.99,58.9,ENV-U09-00655
+,no,no,-31.0,País Demo,no,399,despejado,vie,estándar,1.81,39.2,ENV-U09-00656
+revisar,sí,no,48.0,País Demo,sí,417,despejado,mar,estándar,9.69,19.6,ENV-U09-00657
+,no,no,-1.0,País Demo,no,402,despejado,mar,estándar,7.44,29.7,ENV-U09-00658
+,no,no,-19.0,País Demo,no,417,despejado,mar,estándar,15.63,31.8,ENV-U09-00659
+,no,no,39.0,País Demo,no,369,lluvia,sáb,express,8.13,56.1,ENV-U09-00660
+revisar,no,no,6.0,País Demo,no,396,despejado,sáb,estándar,7.39,65.3,ENV-U09-00661
+,no,no,32.0,País Demo,sí,456,lluvia,sáb,estándar,12.68,28.0,ENV-U09-00662
+revisar,sí,sí,54.0,País Demo,no,400,lluvia,vie,estándar,8.1,9.5,ENV-U09-00663
+sin novedad,no,no,18.0,País Demo,no,432,despejado,sáb,estándar,4.17,28.1,ENV-U09-00664
+,no,no,11.0,País Demo,no,449,despejado,lun,estándar,5.13,35.6,ENV-U09-00665
+,no,no,17.0,País Demo,sí,418,despejado,vie,express,16.03,34.0,ENV-U09-00666
+sin novedad,no,no,16.0,País Demo,sí,434,despejado,lun,estándar,11.1,15.6,ENV-U09-00667
+sin novedad,no,no,5.0,País Demo,no,450,despejado,vie,estándar,2.66,25.9,ENV-U09-00668
+sin novedad,no,no,7.0,País Demo,sí,405,despejado,mié,estándar,3.07,19.7,ENV-U09-00669
+revisar,sí,sí,41.0,País Demo,no,397,tormenta,jue,estándar,14.82,17.1,ENV-U09-00670
+revisar,no,no,-1.0,País Demo,no,444,despejado,vie,estándar,5.74,33.0,ENV-U09-00671
+revisar,no,no,34.0,País Demo,no,417,despejado,jue,express,1.73,43.8,ENV-U09-00672
+,no,no,34.0,País Demo,no,438,despejado,mar,estándar,12.98,20.0,ENV-U09-00673
+revisar,sí,sí,43.0,País Demo,sí,431,lluvia,jue,estándar,4.34,16.6,ENV-U09-00674
+sin novedad,no,no,26.0,País Demo,no,383,lluvia,lun,estándar,4.96,26.1,ENV-U09-00675
+,no,no,11.0,País Demo,no,402,,mié,estándar,8.76,17.7,ENV-U09-00676
+revisar,no,no,26.0,País Demo,sí,395,despejado,mar,estándar,28.01,38.4,ENV-U09-00677
+,sí,no,53.0,País Demo,no,425,despejado,sáb,express,9.53,101.7,ENV-U09-00678
+revisar,sí,sí,71.0,País Demo,no,444,despejado,vie,estándar,1.81,77.2,ENV-U09-00679
+revisar,no,no,24.0,País Demo,no,419,despejado,mié,estándar,9.95,11.4,ENV-U09-00680
+revisar,sí,no,49.0,País Demo,no,440,lluvia,lun,estándar,11.15,3.7,ENV-U09-00681
+sin novedad,no,no,37.0,País Demo,no,428,despejado,mar,express,2.47,52.8,ENV-U09-00682
+revisar,sí,sí,81.0,País Demo,no,431,tormenta,mié,estándar,4.64,62.9,ENV-U09-00683
+,no,no,34.0,País Demo,no,427,despejado,mié,estándar,11.35,14.3,ENV-U09-00684
+,no,no,-31.0,País Demo,no,418,despejado,lun,express,5.0,4.8,ENV-U09-00685
+,no,no,5.0,País Demo,no,392,despejado,jue,estándar,16.36,32.5,ENV-U09-00686
+sin novedad,sí,no,65.0,País Demo,sí,418,tormenta,jue,estándar,9.69,36.8,ENV-U09-00687
+,no,no,9.0,País Demo,sí,409,lluvia,mié,estándar,5.35,12.4,ENV-U09-00688
+sin novedad,sí,no,79.0,País Demo,sí,429,despejado,sáb,estándar,0.54,69.0,ENV-U09-00689
+sin novedad,sí,sí,41.0,País Demo,no,418,lluvia,lun,estándar,5.12,50.3,ENV-U09-00690
+,sí,sí,65.0,País Demo,no,447,lluvia,sáb,express,9.85,55.3,ENV-U09-00691
+revisar,no,sí,32.0,País Demo,sí,423,lluvia,mié,estándar,4.7,42.3,ENV-U09-00692
+revisar,no,no,-18.0,País Demo,no,448,despejado,vie,express,9.29,16.5,ENV-U09-00693
+sin novedad,sí,sí,131.0,País Demo,no,408,tormenta,lun,express,5.38,122.6,ENV-U09-00694
+sin novedad,no,no,21.0,País Demo,no,441,lluvia,lun,express,12.24,39.1,ENV-U09-00695
+,no,no,19.0,País Demo,no,405,lluvia,vie,express,34.78,58.3,ENV-U09-00696
+revisar,no,no,27.0,País Demo,no,417,despejado,vie,estándar,29.54,45.5,ENV-U09-00697
+revisar,no,no,25.0,País Demo,no,428,lluvia,mar,express,5.98,12.4,ENV-U09-00698
+,no,no,1.0,País Demo,no,421,despejado,jue,estándar,9.02,32.2,ENV-U09-00699
+,no,no,34.0,País Demo,no,380,despejado,lun,estándar,4.71,53.8,ENV-U09-00700
+sin novedad,no,no,9.0,País Demo,no,397,lluvia,mié,express,8.83,74.0,ENV-U09-00701
+sin novedad,no,no,8.0,País Demo,sí,443,despejado,mar,estándar,25.64,42.5,ENV-U09-00702
+revisar,no,no,23.0,País Demo,no,459,despejado,jue,estándar,9.7,31.8,ENV-U09-00703
+revisar,sí,no,41.0,País Demo,no,406,despejado,jue,express,15.14,71.1,ENV-U09-00704
+,no,no,-25.0,País Demo,no,407,despejado,vie,express,4.54,39.7,ENV-U09-00705
+,no,no,0.0,País Demo,no,410,despejado,vie,express,20.51,15.3,ENV-U09-00706
+revisar,no,no,24.0,País Demo,no,385,despejado,vie,express,12.69,39.6,ENV-U09-00707
+revisar,sí,sí,43.0,País Demo,no,461,lluvia,sáb,estándar,1.75,19.3,ENV-U09-00708
+,no,no,19.0,País Demo,no,438,despejado,sáb,express,2.23,30.5,ENV-U09-00709
+sin novedad,no,no,7.0,País Demo,no,416,despejado,sáb,estándar,2.43,51.2,ENV-U09-00710
+revisar,no,no,22.0,País Demo,no,424,despejado,mar,estándar,5.72,29.0,ENV-U09-00711
+,no,no,0.0,País Demo,no,442,,mié,estándar,5.04,16.6,ENV-U09-00712
+sin novedad,sí,no,47.0,País Demo,no,439,lluvia,vie,estándar,11.49,92.8,ENV-U09-00713
+revisar,no,no,18.0,País Demo,no,414,lluvia,jue,estándar,2.49,44.6,ENV-U09-00714
+,no,no,21.0,País Demo,sí,404,despejado,mar,estándar,7.87,13.0,ENV-U09-00715
+revisar,no,no,-12.0,País Demo,no,441,despejado,lun,estándar,8.46,16.0,ENV-U09-00716
+,no,no,27.0,País Demo,no,459,despejado,lun,express,3.34,60.4,ENV-U09-00717
+revisar,no,no,-9.0,País Demo,no,382,despejado,vie,estándar,14.36,41.8,ENV-U09-00718
+sin novedad,sí,no,61.0,País Demo,sí,383,despejado,vie,estándar,9.89,97.8,ENV-U09-00719
+revisar,no,no,-17.0,País Demo,sí,433,,mar,estándar,3.57,15.8,ENV-U09-00720
+sin novedad,no,no,29.0,País Demo,no,437,,sáb,estándar,15.36,58.8,ENV-U09-00721
+revisar,no,no,-31.0,País Demo,no,425,despejado,mié,estándar,1.98,21.6,ENV-U09-00722
+sin novedad,no,no,9.0,País Demo,no,384,despejado,jue,estándar,20.1,28.5,ENV-U09-00723
+,no,no,18.0,País Demo,no,428,despejado,mié,express,7.07,42.3,ENV-U09-00724
+sin novedad,no,no,-17.0,País Demo,sí,385,despejado,lun,estándar,17.05,5.5,ENV-U09-00725
+sin novedad,no,no,12.0,País Demo,sí,429,despejado,jue,estándar,27.92,29.6,ENV-U09-00726
+revisar,no,no,31.0,País Demo,no,387,lluvia,mar,estándar,5.61,17.5,ENV-U09-00727
+,no,no,6.0,País Demo,no,450,despejado,jue,estándar,16.57,23.5,ENV-U09-00728
+sin novedad,no,no,28.0,País Demo,no,429,lluvia,mié,express,6.5,12.8,ENV-U09-00729
+revisar,no,no,-13.0,País Demo,no,412,despejado,mié,express,3.41,28.0,ENV-U09-00730
+revisar,no,no,8.0,País Demo,no,416,lluvia,vie,estándar,8.69,31.1,ENV-U09-00731
+revisar,no,no,7.0,País Demo,sí,408,despejado,mar,estándar,10.3,11.8,ENV-U09-00732
+,no,no,18.0,País Demo,no,419,despejado,jue,estándar,9.48,53.1,ENV-U09-00733
+,no,no,13.0,País Demo,no,425,lluvia,vie,express,8.83,32.4,ENV-U09-00734
+,sí,no,46.0,País Demo,no,462,lluvia,mié,estándar,5.07,37.9,ENV-U09-00735
+sin novedad,sí,sí,95.0,País Demo,no,430,lluvia,lun,estándar,18.45,116.5,ENV-U09-00736
+sin novedad,no,no,32.0,País Demo,no,401,despejado,mar,estándar,10.71,57.7,ENV-U09-00737
+sin novedad,no,no,8.0,País Demo,no,423,lluvia,mié,estándar,3.81,2.2,ENV-U09-00738
+,no,no,33.0,País Demo,no,417,lluvia,jue,estándar,6.46,21.2,ENV-U09-00739
+revisar,no,no,18.0,País Demo,no,432,despejado,mié,estándar,2.0,33.7,ENV-U09-00740
+revisar,no,no,-47.0,País Demo,no,390,despejado,lun,estándar,2.28,12.9,ENV-U09-00741
+sin novedad,no,no,26.0,País Demo,no,432,lluvia,lun,estándar,20.19,40.4,ENV-U09-00742
+sin novedad,no,no,34.0,País Demo,no,430,despejado,sáb,estándar,7.53,25.1,ENV-U09-00743
+sin novedad,no,no,-28.0,País Demo,no,437,despejado,vie,express,9.88,22.2,ENV-U09-00744
+revisar,no,no,-0.0,País Demo,no,422,lluvia,lun,estándar,8.62,14.7,ENV-U09-00745
+,no,no,-4.0,País Demo,sí,415,despejado,mié,estándar,3.52,38.5,ENV-U09-00746
+sin novedad,no,no,24.0,País Demo,no,415,lluvia,vie,estándar,6.59,17.2,ENV-U09-00747
+sin novedad,no,no,21.0,País Demo,no,420,despejado,vie,estándar,6.16,58.7,ENV-U09-00748
+,sí,no,56.0,País Demo,no,416,despejado,sáb,estándar,3.2,23.4,ENV-U09-00749
+revisar,no,no,8.0,País Demo,no,405,despejado,mié,estándar,11.4,18.2,ENV-U09-00750
+sin novedad,no,no,-1.0,País Demo,sí,453,despejado,vie,estándar,5.04,13.9,ENV-U09-00751
+,no,no,15.0,País Demo,sí,404,despejado,mar,express,9.33,32.6,ENV-U09-00752
+sin novedad,sí,no,76.0,País Demo,no,424,despejado,vie,express,6.71,136.6,ENV-U09-00753
+sin novedad,no,no,3.0,País Demo,no,420,despejado,mar,estándar,1.46,38.7,ENV-U09-00754
+,sí,no,63.0,País Demo,no,429,tormenta,mié,estándar,5.62,33.0,ENV-U09-00755
+revisar,sí,sí,50.0,País Demo,no,438,lluvia,vie,estándar,9.82,44.1,ENV-U09-00756
+sin novedad,no,no,-23.0,País Demo,no,415,despejado,vie,express,10.56,31.1,ENV-U09-00757
+sin novedad,no,no,3.0,País Demo,no,407,despejado,mié,estándar,19.6,51.0,ENV-U09-00758
+,no,no,-3.0,País Demo,no,430,despejado,mar,estándar,3.51,59.2,ENV-U09-00759
+revisar,no,no,25.0,País Demo,no,403,lluvia,mié,estándar,8.81,19.3,ENV-U09-00760
+,sí,sí,71.0,País Demo,no,430,lluvia,mar,express,7.14,61.7,ENV-U09-00761
+,sí,no,77.0,País Demo,no,413,despejado,mar,estándar,6.82,114.2,ENV-U09-00762
+,sí,no,58.0,País Demo,no,394,lluvia,lun,estándar,5.21,72.7,ENV-U09-00763
+revisar,no,no,-15.0,País Demo,no,437,despejado,lun,estándar,10.53,26.8,ENV-U09-00764
+sin novedad,no,no,39.0,País Demo,no,403,lluvia,mar,estándar,31.01,35.0,ENV-U09-00765
+sin novedad,sí,no,43.0,País Demo,no,395,lluvia,sáb,estándar,7.19,75.6,ENV-U09-00766
+,no,no,16.0,País Demo,no,414,despejado,mar,express,16.5,55.4,ENV-U09-00767
+,no,no,-29.0,País Demo,no,390,despejado,mié,express,7.06,22.5,ENV-U09-00768
+revisar,no,no,5.0,País Demo,sí,416,despejado,jue,estándar,14.58,35.5,ENV-U09-00769
+revisar,sí,no,54.0,País Demo,sí,389,despejado,sáb,estándar,9.11,18.5,ENV-U09-00770
+,no,no,10.0,País Demo,no,484,despejado,jue,estándar,3.85,43.0,ENV-U09-00771
+revisar,no,no,33.0,País Demo,sí,438,lluvia,vie,estándar,4.75,18.5,ENV-U09-00772
+revisar,no,no,19.0,País Demo,no,405,despejado,sáb,express,1.85,49.0,ENV-U09-00773
+,sí,no,51.0,País Demo,no,436,lluvia,vie,estándar,7.04,68.1,ENV-U09-00774
+sin novedad,sí,no,76.0,País Demo,no,396,lluvia,mié,estándar,10.71,129.2,ENV-U09-00775
+,sí,no,48.0,País Demo,sí,438,lluvia,mié,estándar,9.98,48.9,ENV-U09-00776
+sin novedad,no,no,-19.0,País Demo,no,389,despejado,vie,express,10.5,28.4,ENV-U09-00777
+revisar,no,no,37.0,País Demo,no,432,despejado,vie,estándar,2.92,52.8,ENV-U09-00778
+revisar,no,no,30.0,País Demo,sí,416,despejado,lun,estándar,7.31,29.0,ENV-U09-00779
+sin novedad,no,no,30.0,País Demo,sí,417,despejado,lun,express,16.81,85.3,ENV-U09-00780
+sin novedad,no,no,-19.0,País Demo,no,420,despejado,vie,express,3.05,78.4,ENV-U09-00781
+,no,no,-17.0,País Demo,no,442,despejado,lun,estándar,0.72,25.7,ENV-U09-00782
+revisar,no,no,24.0,País Demo,no,433,despejado,mié,estándar,2.96,25.8,ENV-U09-00783
+sin novedad,sí,no,42.0,País Demo,sí,423,lluvia,mar,estándar,1.01,18.7,ENV-U09-00784
+revisar,no,no,25.0,País Demo,no,411,despejado,sáb,estándar,4.45,43.5,ENV-U09-00785
+sin novedad,no,no,28.0,País Demo,sí,406,lluvia,vie,estándar,6.68,14.2,ENV-U09-00786
+revisar,no,no,-5.0,País Demo,no,433,despejado,sáb,express,4.48,61.8,ENV-U09-00787
+sin novedad,no,no,-16.0,País Demo,sí,441,despejado,lun,estándar,9.35,15.8,ENV-U09-00788
+,no,no,14.0,País Demo,no,381,despejado,sáb,estándar,13.68,47.0,ENV-U09-00789
+sin novedad,sí,no,79.0,País Demo,sí,441,despejado,sáb,estándar,9.41,43.1,ENV-U09-00790
+sin novedad,no,no,29.0,País Demo,sí,442,lluvia,mié,estándar,8.52,24.1,ENV-U09-00791
+,no,no,-12.0,País Demo,no,396,despejado,jue,estándar,17.8,22.5,ENV-U09-00792
+sin novedad,no,no,27.0,País Demo,no,410,despejado,sáb,estándar,15.65,49.8,ENV-U09-00793
+sin novedad,no,no,21.0,País Demo,sí,413,despejado,sáb,estándar,4.12,51.4,ENV-U09-00794
+sin novedad,no,no,40.0,País Demo,no,453,despejado,mié,estándar,1.37,48.7,ENV-U09-00795
+sin novedad,no,no,-18.0,País Demo,no,417,despejado,sáb,estándar,9.49,21.0,ENV-U09-00796
+,no,no,23.0,País Demo,no,426,despejado,jue,estándar,17.31,17.3,ENV-U09-00797
+,no,no,34.0,País Demo,no,432,lluvia,vie,estándar,7.97,25.5,ENV-U09-00798
+revisar,no,no,30.0,País Demo,no,386,despejado,lun,express,5.86,47.8,ENV-U09-00799
+sin novedad,no,no,-48.0,País Demo,no,404,despejado,mar,express,14.85,20.9,ENV-U09-00800
+,sí,sí,44.0,País Demo,sí,378,lluvia,lun,estándar,10.52,15.1,ENV-U09-00801
+revisar,sí,no,75.0,País Demo,no,392,despejado,sáb,express,9.06,93.4,ENV-U09-00802
+sin novedad,no,no,29.0,País Demo,no,445,despejado,jue,estándar,19.6,60.7,ENV-U09-00803
+,no,no,-1.0,País Demo,no,416,despejado,jue,estándar,19.39,30.3,ENV-U09-00804
+revisar,no,no,-8.0,País Demo,no,421,despejado,mar,estándar,10.64,39.9,ENV-U09-00805
+revisar,no,no,-31.0,País Demo,no,409,despejado,jue,express,4.96,22.3,ENV-U09-00806
+,sí,no,52.0,País Demo,no,410,tormenta,mar,estándar,2.51,38.3,ENV-U09-00807
+sin novedad,no,no,-8.0,País Demo,no,400,despejado,jue,estándar,6.76,45.1,ENV-U09-00808
+,no,no,18.0,País Demo,no,417,lluvia,lun,estándar,0.92,17.7,ENV-U09-00809
+,sí,no,41.0,País Demo,no,409,lluvia,lun,estándar,31.89,14.0,ENV-U09-00810
+sin novedad,no,no,30.0,País Demo,sí,426,despejado,lun,estándar,4.66,88.5,ENV-U09-00811
+revisar,no,no,-41.0,País Demo,no,432,despejado,sáb,estándar,5.78,17.2,ENV-U09-00812
+,sí,no,67.0,País Demo,no,415,lluvia,vie,estándar,5.23,38.8,ENV-U09-00813
+revisar,sí,sí,56.0,País Demo,no,463,lluvia,mar,estándar,7.11,47.3,ENV-U09-00814
+sin novedad,no,no,4.0,País Demo,sí,397,lluvia,vie,express,13.14,16.2,ENV-U09-00815
+,no,no,8.0,País Demo,no,412,despejado,sáb,estándar,10.78,21.0,ENV-U09-00816
+revisar,no,no,30.0,País Demo,no,398,despejado,mar,estándar,5.62,82.3,ENV-U09-00817
+,no,no,-8.0,País Demo,no,427,despejado,lun,estándar,17.84,73.0,ENV-U09-00818
+sin novedad,no,no,15.0,País Demo,sí,413,despejado,lun,express,9.91,57.5,ENV-U09-00819
+sin novedad,no,no,-46.0,País Demo,no,392,despejado,jue,express,12.52,32.9,ENV-U09-00820
+sin novedad,no,no,28.0,País Demo,sí,419,despejado,mar,estándar,6.31,40.5,ENV-U09-00821
+sin novedad,no,no,6.0,País Demo,no,405,despejado,jue,estándar,3.39,36.5,ENV-U09-00822
+,no,no,-7.0,País Demo,no,397,despejado,vie,estándar,4.71,28.1,ENV-U09-00823
+,sí,sí,82.0,País Demo,no,418,tormenta,mié,estándar,1.8,28.8,ENV-U09-00824
+,sí,sí,62.0,País Demo,sí,481,despejado,sáb,express,7.93,72.5,ENV-U09-00825
+sin novedad,no,no,0.0,País Demo,no,373,despejado,mar,estándar,10.18,24.3,ENV-U09-00826
+,no,no,-28.0,País Demo,no,416,despejado,lun,estándar,5.51,27.6,ENV-U09-00827
+,no,no,-9.0,País Demo,sí,392,despejado,jue,express,9.93,37.1,ENV-U09-00828
+revisar,sí,no,52.0,País Demo,no,436,lluvia,mié,estándar,15.08,37.8,ENV-U09-00829
+revisar,no,no,3.0,País Demo,sí,418,despejado,sáb,estándar,11.81,33.6,ENV-U09-00830
+sin novedad,no,no,26.0,País Demo,sí,445,,jue,estándar,16.24,42.7,ENV-U09-00831
+sin novedad,no,no,2.0,País Demo,no,433,despejado,mié,estándar,8.82,36.2,ENV-U09-00832
+sin novedad,no,no,-20.0,País Demo,no,415,despejado,jue,express,8.06,68.4,ENV-U09-00833
+sin novedad,no,no,12.0,País Demo,sí,402,despejado,vie,estándar,6.76,41.4,ENV-U09-00834
+revisar,no,no,36.0,País Demo,no,455,tormenta,sáb,express,11.36,11.1,ENV-U09-00835
+,no,no,30.0,País Demo,no,440,lluvia,lun,estándar,10.02,43.1,ENV-U09-00836
+sin novedad,no,no,9.0,País Demo,sí,423,despejado,vie,estándar,4.06,19.8,ENV-U09-00837
+sin novedad,sí,no,45.0,País Demo,no,399,tormenta,mié,express,7.64,23.5,ENV-U09-00838
+sin novedad,no,no,16.0,País Demo,no,420,despejado,vie,estándar,13.27,23.6,ENV-U09-00839
+sin novedad,no,no,9.0,País Demo,sí,427,despejado,jue,express,7.23,23.3,ENV-U09-00840
+,sí,sí,45.0,País Demo,sí,390,despejado,sáb,estándar,7.37,18.4,ENV-U09-00841
+sin novedad,no,no,-18.0,País Demo,no,400,despejado,vie,estándar,4.57,14.3,ENV-U09-00842
+revisar,no,no,-14.0,País Demo,no,376,,mié,estándar,10.36,38.1,ENV-U09-00843
+sin novedad,sí,no,73.0,País Demo,no,445,tormenta,vie,estándar,6.24,67.2,ENV-U09-00844
+revisar,sí,no,41.0,País Demo,no,408,lluvia,sáb,express,15.71,36.1,ENV-U09-00845
+,no,no,2.0,País Demo,no,436,despejado,vie,estándar,2.47,39.1,ENV-U09-00846
+,no,no,19.0,País Demo,sí,412,lluvia,mar,express,7.21,11.9,ENV-U09-00847
+,sí,no,59.0,País Demo,no,449,lluvia,lun,estándar,15.11,32.4,ENV-U09-00848
+sin novedad,no,no,-4.0,País Demo,no,415,despejado,jue,express,10.67,26.4,ENV-U09-00849
+revisar,no,no,13.0,País Demo,no,434,lluvia,sáb,estándar,21.77,11.6,ENV-U09-00850
+,no,no,20.0,País Demo,no,426,lluvia,mar,express,18.81,37.4,ENV-U09-00851
+revisar,sí,no,44.0,País Demo,no,404,lluvia,lun,express,4.23,41.0,ENV-U09-00852
+revisar,no,no,1.0,País Demo,no,432,despejado,sáb,estándar,5.85,15.8,ENV-U09-00853
+sin novedad,no,no,23.0,País Demo,no,454,despejado,mar,express,5.35,63.1,ENV-U09-00854
+sin novedad,no,no,15.0,País Demo,no,457,despejado,sáb,estándar,6.61,48.8,ENV-U09-00855
+sin novedad,no,no,-23.0,País Demo,no,413,lluvia,mar,express,11.15,18.3,ENV-U09-00856
+sin novedad,no,no,25.0,País Demo,no,405,lluvia,jue,express,19.79,15.2,ENV-U09-00857
+,no,no,25.0,País Demo,no,395,lluvia,lun,estándar,13.42,25.7,ENV-U09-00858
+,sí,sí,47.0,País Demo,sí,403,lluvia,lun,estándar,3.86,18.1,ENV-U09-00859
+,no,no,15.0,País Demo,no,409,despejado,mié,estándar,13.21,56.4,ENV-U09-00860
+sin novedad,no,no,24.0,País Demo,no,439,despejado,sáb,estándar,8.28,30.9,ENV-U09-00861
+sin novedad,no,no,7.0,País Demo,sí,422,despejado,vie,express,19.46,32.7,ENV-U09-00862
+sin novedad,no,no,-12.0,País Demo,no,411,despejado,mié,express,5.54,38.6,ENV-U09-00863
+revisar,no,no,8.0,País Demo,no,409,despejado,mié,express,17.58,39.4,ENV-U09-00864
+sin novedad,no,no,15.0,País Demo,no,436,despejado,mar,estándar,6.63,29.8,ENV-U09-00865
+revisar,no,no,37.0,País Demo,sí,394,despejado,lun,estándar,3.45,45.8,ENV-U09-00866
+revisar,no,no,-3.0,País Demo,no,430,despejado,sáb,estándar,19.02,20.6,ENV-U09-00867
+revisar,no,no,26.0,País Demo,no,438,despejado,vie,estándar,15.16,16.5,ENV-U09-00868
+,sí,no,61.0,País Demo,no,443,tormenta,mar,estándar,9.42,37.2,ENV-U09-00869
+,sí,sí,85.0,País Demo,sí,427,tormenta,mié,express,9.31,35.2,ENV-U09-00870
+,no,no,-9.0,País Demo,no,419,despejado,vie,estándar,9.01,25.3,ENV-U09-00871
+sin novedad,no,no,-0.0,País Demo,no,434,,mié,estándar,12.36,29.0,ENV-U09-00872
+sin novedad,no,no,-5.0,País Demo,no,413,despejado,jue,estándar,4.41,29.5,ENV-U09-00873
+,no,no,37.0,País Demo,no,428,lluvia,sáb,estándar,8.52,21.1,ENV-U09-00874
+sin novedad,no,no,-26.0,País Demo,no,432,despejado,vie,express,9.86,34.6,ENV-U09-00875
+,no,no,15.0,País Demo,no,448,,jue,estándar,7.41,41.7,ENV-U09-00876
+,no,no,-30.0,País Demo,no,421,despejado,lun,express,6.87,19.9,ENV-U09-00877
+,sí,no,79.0,País Demo,sí,459,despejado,vie,estándar,3.5,23.3,ENV-U09-00878
+sin novedad,no,no,16.0,País Demo,no,419,lluvia,mar,estándar,0.37,48.1,ENV-U09-00879
+revisar,no,no,16.0,País Demo,no,406,lluvia,vie,estándar,4.16,5.3,ENV-U09-00880
+sin novedad,no,no,7.0,País Demo,no,425,despejado,sáb,estándar,12.2,6.5,ENV-U09-00881
+sin novedad,no,no,-61.0,País Demo,no,418,despejado,vie,express,9.25,21.9,ENV-U09-00882
+sin novedad,no,no,-32.0,País Demo,no,424,despejado,lun,estándar,15.72,22.9,ENV-U09-00883
+sin novedad,no,no,-28.0,País Demo,sí,410,despejado,lun,express,16.02,10.9,ENV-U09-00884
+,no,no,10.0,País Demo,no,432,despejado,mié,estándar,9.3,21.9,ENV-U09-00885
+revisar,no,no,7.0,País Demo,no,415,,jue,estándar,17.18,79.0,ENV-U09-00886
+sin novedad,no,no,32.0,País Demo,no,410,despejado,mié,express,11.4,68.8,ENV-U09-00887
+sin novedad,no,no,-26.0,País Demo,no,422,despejado,mié,express,11.92,36.9,ENV-U09-00888
+revisar,sí,no,63.0,País Demo,no,410,tormenta,lun,express,4.6,20.7,ENV-U09-00889
+,sí,no,53.0,País Demo,no,420,lluvia,mar,estándar,15.33,37.9,ENV-U09-00890
+sin novedad,sí,no,120.0,País Demo,sí,391,tormenta,sáb,estándar,5.56,36.2,ENV-U09-00891
+sin novedad,sí,sí,91.0,País Demo,sí,410,tormenta,mié,estándar,12.97,31.9,ENV-U09-00892
+sin novedad,no,no,26.0,País Demo,sí,419,despejado,vie,estándar,5.95,27.3,ENV-U09-00893
+revisar,no,no,-17.0,País Demo,no,405,despejado,mié,express,3.04,33.3,ENV-U09-00894
+sin novedad,no,no,-35.0,País Demo,no,426,despejado,jue,express,6.87,38.8,ENV-U09-00895
+,sí,sí,44.0,País Demo,no,414,despejado,vie,estándar,3.04,50.6,ENV-U09-00896
+revisar,no,no,25.0,País Demo,sí,452,despejado,lun,express,4.72,57.2,ENV-U09-00897
+sin novedad,no,no,-30.0,País Demo,sí,423,despejado,sáb,express,8.5,16.6,ENV-U09-00898
+,no,no,-18.0,País Demo,no,447,despejado,mié,express,10.05,10.8,ENV-U09-00899
+revisar,sí,no,48.0,País Demo,sí,393,lluvia,mar,estándar,3.61,22.1,ENV-U09-00900
+,sí,sí,70.0,País Demo,sí,377,,mié,estándar,5.97,21.0,ENV-U09-00901
+,no,no,4.0,País Demo,no,439,despejado,mar,express,7.2,66.3,ENV-U09-00902
+revisar,no,no,32.0,País Demo,no,450,despejado,sáb,express,5.0,27.3,ENV-U09-00903
+,no,no,3.0,País Demo,no,421,despejado,jue,estándar,22.46,33.3,ENV-U09-00904
+sin novedad,no,no,12.0,País Demo,sí,402,tormenta,mié,express,8.66,16.0,ENV-U09-00905
+revisar,sí,no,63.0,País Demo,no,429,tormenta,jue,express,7.95,39.8,ENV-U09-00906
+,no,no,23.0,País Demo,no,411,lluvia,mié,estándar,1.15,34.4,ENV-U09-00907
+,no,no,21.0,País Demo,no,430,lluvia,mié,estándar,10.1,30.5,ENV-U09-00908
+sin novedad,no,no,11.0,País Demo,no,415,,sáb,estándar,4.31,47.5,ENV-U09-00909
+,no,no,0.0,País Demo,sí,435,despejado,mar,estándar,2.53,29.6,ENV-U09-00910
+revisar,no,no,30.0,País Demo,no,432,despejado,sáb,express,3.56,73.6,ENV-U09-00911
+revisar,no,no,3.0,País Demo,no,423,despejado,jue,express,9.26,16.6,ENV-U09-00912
+sin novedad,no,no,12.0,País Demo,no,381,lluvia,mié,estándar,4.69,40.0,ENV-U09-00913
+revisar,no,no,-11.0,País Demo,sí,450,despejado,lun,express,4.25,6.6,ENV-U09-00914
+sin novedad,no,no,-6.0,País Demo,no,442,despejado,jue,estándar,12.18,1.9,ENV-U09-00915
+sin novedad,no,no,-33.0,País Demo,no,421,lluvia,mié,express,5.3,34.2,ENV-U09-00916
+sin novedad,no,no,32.0,País Demo,sí,444,despejado,mié,express,14.92,33.3,ENV-U09-00917
+sin novedad,sí,no,45.0,País Demo,no,441,,lun,estándar,12.97,36.9,ENV-U09-00918
+revisar,no,no,-21.0,País Demo,no,422,despejado,mié,estándar,4.52,11.1,ENV-U09-00919
+,sí,sí,50.0,País Demo,sí,418,despejado,jue,estándar,2.27,78.9,ENV-U09-00920
+sin novedad,no,no,-5.0,País Demo,sí,401,despejado,sáb,express,6.96,15.7,ENV-U09-00921
+sin novedad,no,no,18.0,País Demo,no,431,despejado,vie,estándar,9.1,33.4,ENV-U09-00922
+revisar,no,no,4.0,País Demo,sí,402,despejado,mar,express,7.05,29.8,ENV-U09-00923
+,no,sí,34.0,País Demo,no,440,despejado,lun,estándar,7.54,72.2,ENV-U09-00924
+revisar,sí,sí,62.0,País Demo,no,425,lluvia,jue,estándar,5.97,44.4,ENV-U09-00925
+sin novedad,no,no,12.0,País Demo,no,448,despejado,mar,express,6.11,17.0,ENV-U09-00926
+sin novedad,sí,no,97.0,País Demo,no,412,despejado,lun,express,3.96,125.9,ENV-U09-00927
+revisar,no,no,12.0,País Demo,no,394,despejado,mié,estándar,7.61,59.2,ENV-U09-00928
+sin novedad,no,no,-2.0,País Demo,sí,427,despejado,jue,estándar,4.89,35.9,ENV-U09-00929
+revisar,no,no,21.0,País Demo,no,389,despejado,mié,estándar,5.37,17.6,ENV-U09-00930
+,no,no,16.0,País Demo,no,443,despejado,sáb,estándar,4.97,50.8,ENV-U09-00931
+revisar,no,no,15.0,País Demo,no,404,despejado,mié,estándar,22.66,19.5,ENV-U09-00932
+,no,no,18.0,País Demo,no,421,despejado,vie,express,6.63,91.0,ENV-U09-00933
+sin novedad,no,no,8.0,País Demo,sí,429,despejado,mar,estándar,7.0,5.2,ENV-U09-00934
+sin novedad,sí,sí,57.0,País Demo,no,424,despejado,mar,estándar,1.47,128.8,ENV-U09-00935
+,no,no,17.0,País Demo,sí,409,despejado,sáb,estándar,6.19,37.5,ENV-U09-00936
+sin novedad,no,no,15.0,País Demo,no,449,lluvia,mar,estándar,1.35,41.6,ENV-U09-00937
+sin novedad,no,no,20.0,País Demo,no,398,despejado,mié,estándar,4.77,22.3,ENV-U09-00938
+revisar,no,no,2.0,País Demo,sí,432,despejado,jue,estándar,22.81,32.6,ENV-U09-00939
+revisar,no,no,-20.0,País Demo,no,469,despejado,lun,estándar,9.96,9.7,ENV-U09-00940
+revisar,no,no,-2.0,País Demo,sí,406,lluvia,mar,express,5.89,18.3,ENV-U09-00941
+,no,no,12.0,País Demo,sí,454,lluvia,lun,estándar,4.47,21.1,ENV-U09-00942
+,no,no,39.0,País Demo,no,411,lluvia,sáb,estándar,6.05,17.2,ENV-U09-00943
+revisar,no,no,23.0,País Demo,no,422,lluvia,jue,estándar,15.81,25.6,ENV-U09-00944
+sin novedad,sí,sí,82.0,País Demo,sí,441,lluvia,vie,estándar,5.23,69.9,ENV-U09-00945
+revisar,sí,no,42.0,País Demo,no,449,despejado,lun,express,11.22,65.3,ENV-U09-00946
+,no,no,1.0,País Demo,no,429,lluvia,lun,express,27.34,25.4,ENV-U09-00947
+,no,no,-9.0,País Demo,no,424,despejado,mié,express,4.66,11.1,ENV-U09-00948
+,no,no,1.0,País Demo,no,393,lluvia,jue,estándar,3.88,29.6,ENV-U09-00949
+revisar,sí,no,69.0,País Demo,no,432,lluvia,sáb,express,3.4,25.1,ENV-U09-00950
+sin novedad,no,no,21.0,País Demo,no,433,despejado,sáb,estándar,15.66,44.3,ENV-U09-00951
+revisar,sí,no,42.0,País Demo,sí,422,despejado,mar,express,7.93,42.9,ENV-U09-00952
+revisar,no,no,17.0,País Demo,no,401,despejado,vie,estándar,0.92,39.8,ENV-U09-00953
+,no,no,25.0,País Demo,no,446,lluvia,sáb,estándar,17.5,16.3,ENV-U09-00954
+sin novedad,sí,sí,41.0,País Demo,no,392,despejado,lun,estándar,12.99,59.6,ENV-U09-00955
+,no,no,14.0,País Demo,sí,423,despejado,sáb,estándar,0.94,26.4,ENV-U09-00956
+,no,no,-19.0,País Demo,no,450,despejado,vie,express,1.98,17.9,ENV-U09-00957
+sin novedad,no,no,-3.0,País Demo,no,417,despejado,jue,estándar,5.92,23.0,ENV-U09-00958
+sin novedad,no,no,-12.0,País Demo,no,384,despejado,mié,express,7.54,20.8,ENV-U09-00959
+revisar,sí,sí,45.0,País Demo,no,420,despejado,lun,express,5.5,63.1,ENV-U09-00960
+revisar,no,no,-26.0,País Demo,no,416,despejado,mar,estándar,3.36,14.5,ENV-U09-00961
+,no,no,-43.0,País Demo,no,434,despejado,lun,estándar,3.97,27.9,ENV-U09-00962
+sin novedad,no,no,36.0,País Demo,no,444,lluvia,sáb,estándar,11.35,25.0,ENV-U09-00963
+revisar,no,no,-41.0,País Demo,no,433,despejado,vie,express,8.21,11.0,ENV-U09-00964
+revisar,no,no,13.0,País Demo,sí,412,despejado,mié,estándar,9.3,43.1,ENV-U09-00965
+,no,no,-26.0,País Demo,no,423,despejado,mié,express,14.6,42.1,ENV-U09-00966
+sin novedad,no,no,37.0,País Demo,no,404,despejado,lun,express,19.25,55.0,ENV-U09-00967
+revisar,no,no,-5.0,País Demo,no,412,despejado,vie,express,8.13,35.6,ENV-U09-00968
+revisar,no,no,-11.0,País Demo,sí,443,despejado,lun,express,13.36,20.7,ENV-U09-00969
+revisar,no,no,-1.0,País Demo,no,419,despejado,mié,estándar,5.25,25.7,ENV-U09-00970
+,no,no,27.0,País Demo,no,450,despejado,jue,estándar,5.05,49.8,ENV-U09-00971
+revisar,sí,sí,55.0,País Demo,sí,415,despejado,vie,estándar,13.52,42.1,ENV-U09-00972
+,no,no,-23.0,País Demo,no,407,despejado,jue,express,3.66,14.2,ENV-U09-00973
+sin novedad,no,no,1.0,País Demo,no,408,despejado,mié,estándar,6.81,35.7,ENV-U09-00974
+,sí,sí,52.0,País Demo,no,418,despejado,lun,estándar,13.95,53.0,ENV-U09-00975
+revisar,no,no,12.0,País Demo,sí,405,,sáb,express,6.82,34.2,ENV-U09-00976
+revisar,no,sí,-24.0,País Demo,no,442,despejado,lun,express,10.52,21.9,ENV-U09-00977
+sin novedad,no,no,-7.0,País Demo,sí,391,despejado,lun,estándar,2.92,8.3,ENV-U09-00978
+revisar,no,no,31.0,País Demo,no,403,despejado,lun,estándar,2.56,66.3,ENV-U09-00979
+revisar,no,no,14.0,País Demo,no,421,despejado,mié,estándar,1.01,79.2,ENV-U09-00980
+revisar,no,no,-40.0,País Demo,no,412,despejado,mar,estándar,12.96,20.5,ENV-U09-00981
+,no,no,-21.0,País Demo,no,430,despejado,vie,estándar,4.23,21.2,ENV-U09-00982
+revisar,no,no,-2.0,País Demo,no,401,despejado,mar,estándar,4.16,29.1,ENV-U09-00983
+,no,no,-28.0,País Demo,no,457,,mar,estándar,1.95,19.0,ENV-U09-00984
+revisar,no,no,24.0,País Demo,sí,455,despejado,jue,estándar,12.37,19.2,ENV-U09-00985
+sin novedad,no,no,32.0,País Demo,sí,402,despejado,vie,estándar,6.89,69.7,ENV-U09-00986
+sin novedad,no,no,6.0,País Demo,no,404,despejado,jue,express,2.34,40.0,ENV-U09-00987
+sin novedad,no,no,27.0,País Demo,no,457,despejado,jue,express,3.67,55.9,ENV-U09-00988
+,no,no,19.0,País Demo,sí,434,despejado,sáb,estándar,29.29,38.5,ENV-U09-00989
+,sí,no,53.0,País Demo,sí,430,despejado,jue,estándar,22.71,73.2,ENV-U09-00990
+,no,sí,0.0,País Demo,no,463,lluvia,jue,express,8.28,21.8,ENV-U09-00991
+sin novedad,sí,sí,49.0,País Demo,sí,428,despejado,sáb,estándar,10.51,54.5,ENV-U09-00992
+revisar,sí,no,42.0,País Demo,no,355,tormenta,vie,estándar,3.54,7.3,ENV-U09-00993
+sin novedad,sí,sí,44.0,País Demo,no,440,,lun,estándar,2.29,27.0,ENV-U09-00994
+revisar,no,no,11.0,País Demo,sí,405,despejado,jue,express,21.75,29.2,ENV-U09-00995
+sin novedad,no,no,31.0,País Demo,sí,386,despejado,jue,estándar,3.7,41.5,ENV-U09-00996
+revisar,sí,no,41.0,País Demo,no,416,despejado,jue,estándar,7.57,68.6,ENV-U09-00997
+sin novedad,no,no,-15.0,País Demo,no,417,despejado,jue,estándar,9.26,52.9,ENV-U09-00998
+,no,no,4.0,País Demo,sí,428,despejado,mié,express,8.09,41.3,ENV-U09-00999

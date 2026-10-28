@@ -1,0 +1,55 @@
+[build-system]
+requires = ["setuptools==80.9.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "proyecto-goal-settings"
+version = "0.9.0"
+description = "Estudio de analítica de datos e IA para objetivos anuales de diseño de producto."
+readme = "README.md"
+requires-python = ">=3.12,<3.15"
+license = "LicenseRef-Proprietary"
+license-files = ["LICENSE"]
+dependencies = [
+    "joblib==1.6.0",
+    "numpy==2.5.3",
+    "pandas==3.0.6",
+    "pydantic==2.12.5",
+    "requests==2.34.2",
+    "scikit-learn==1.9.1",
+    "streamlit==1.65.0",
+]
+
+[project.optional-dependencies]
+sdlc = [
+    "cryptography==50.0.2",
+]
+dev = [
+    "cryptography==50.0.2",
+    "pytest==9.1.1",
+    "ruff==0.16.8",
+]
+
+[tool.setuptools.packages.find]
+include = ["app*", "core*"]
+
+[tool.setuptools.package-data]
+"core.db.migrations" = ["*.sql"]
+
+[tool.pytest.ini_options]
+addopts = "-ra --strict-config --strict-markers"
+testpaths = ["tests"]
+pythonpath = ["."]
+
+[tool.ruff]
+target-version = "py312"
+line-length = 100
+extend-exclude = ["runtime", "*.md"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+line-ending = "auto"

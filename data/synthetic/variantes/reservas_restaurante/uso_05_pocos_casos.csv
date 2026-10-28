@@ -1,0 +1,21 @@
+id_reserva,dias_anticipacion,personas_mesa,dia_semana,turno,canal_reserva,cliente_frecuente,cancelaciones_previas,pronostico_lluvia,confirmo_recordatorio,cadena,propina_registrada,minutos_espera_mesa,no_asistio
+RES-U05-00000,21,2,mié,almuerzo,app,sí,0,no,no,Restaurantes Demo,5597.0,24,no
+RES-U05-00001,25,2,dom,cena,app,no,0,no,sí,Restaurantes Demo,1758.0,33,no
+RES-U05-00002,14,4,dom,cena,web,no,0,sí,no,Restaurantes Demo,13145.0,26,no
+RES-U05-00003,24,1,mié,almuerzo,web,no,0,no,no,Restaurantes Demo,8307.0,30,no
+RES-U05-00004,21,4,lun,cena,teléfono,sí,1,no,sí,Restaurantes Demo,12158.0,16,no
+RES-U05-00005,7,5,dom,almuerzo,app,no,0,no,sí,Restaurantes Demo,7134.0,38,no
+RES-U05-00006,6,3,vie,cena,teléfono,sí,0,no,sí,Restaurantes Demo,7262.0,26,no
+RES-U05-00007,15,4,jue,cena,app,no,0,no,sí,Restaurantes Demo,5425.0,15,no
+RES-U05-00008,10,5,vie,almuerzo,app,no,0,no,sí,Restaurantes Demo,7621.0,8,no
+RES-U05-00009,6,4,lun,almuerzo,web,sí,1,no,no,Restaurantes Demo,3691.0,39,no
+RES-U05-00010,1,2,lun,almuerzo,app,no,1,no,sí,Restaurantes Demo,3074.0,28,no
+RES-U05-00011,16,2,vie,cena,teléfono,no,1,no,sí,Restaurantes Demo,1262.0,34,no
+RES-U05-00012,17,2,dom,cena,web,no,0,no,sí,Restaurantes Demo,75.0,12,no
+RES-U05-00013,25,2,lun,almuerzo,app,sí,2,no,sí,Restaurantes Demo,3717.0,14,no
+RES-U05-00014,9,2,mié,cena,app,no,1,sí,no,Restaurantes Demo,8788.0,11,no
+RES-U05-00015,6,4,mié,cena,app,no,1,no,sí,Restaurantes Demo,4767.0,23,no
+RES-U05-00016,21,3,mar,cena,teléfono,sí,0,no,no,Restaurantes Demo,11496.0,28,no
+RES-U05-00017,30,2,lun,cena,teléfono,sí,1,no,no,Restaurantes Demo,1237.0,1,no
+RES-U05-00018,9,2,sáb,cena,teléfono,no,0,no,sí,Restaurantes Demo,0.0,0,sí
+RES-U05-00019,1,2,sáb,almuerzo,app,sí,1,no,sí,Restaurantes Demo,7534.0,1,no

@@ -1,0 +1,1001 @@
+observacion_operador,falla_maquina,horas_detenida_post_falla,planta,turno_noche,desgaste_herramienta_min,torque_nm,velocidad_rpm,temperatura_proceso_c,temperatura_aire_c,tipo_maquina,id_maquina
+revisar,no,0.0,Planta Demo,sí,53,49.0,1620.0,34.7,24.3,C,MAQ-U09-00000
+revisar,no,0.0,Planta Demo,no,184,34.3,1599.0,36.1,26.9,B,MAQ-U09-00001
+revisar,no,0.0,Planta Demo,no,51,27.4,1376.0,39.7,27.5,A,MAQ-U09-00002
+sin novedad,no,0.0,Planta Demo,no,173,31.1,1606.0,33.3,24.4,C,MAQ-U09-00003
+revisar,no,0.0,Planta Demo,sí,143,49.6,1456.0,36.7,26.7,A,MAQ-U09-00004
+,no,0.0,Planta Demo,no,120,53.6,1551.0,38.5,27.3,A,MAQ-U09-00005
+revisar,no,0.0,Planta Demo,no,78,52.1,1447.0,34.6,24.3,A,MAQ-U09-00006
+,no,0.0,Planta Demo,no,64,47.8,1222.0,37.2,26.2,B,MAQ-U09-00007
+sin novedad,no,0.0,Planta Demo,sí,127,31.3,1727.0,35.4,24.8,A,MAQ-U09-00008
+,no,0.0,Planta Demo,sí,52,41.7,1373.0,35.2,25.7,A,MAQ-U09-00009
+sin novedad,no,0.0,Planta Demo,no,156,31.8,1592.0,37.8,27.3,A,MAQ-U09-00010
+,no,0.0,Planta Demo,no,166,34.4,1737.0,31.5,22.8,C,MAQ-U09-00011
+sin novedad,no,0.0,Planta Demo,sí,64,51.8,1093.0,38.7,27.8,B,MAQ-U09-00012
+,no,0.0,Planta Demo,no,167,44.8,1567.0,33.2,22.4,C,MAQ-U09-00013
+,no,0.0,Planta Demo,sí,124,43.9,1691.0,36.2,25.9,C,MAQ-U09-00014
+sin novedad,no,0.0,Planta Demo,sí,116,26.1,1046.0,32.4,24.5,B,MAQ-U09-00015
+sin novedad,no,0.0,Planta Demo,no,173,34.8,1319.0,34.4,23.9,A,MAQ-U09-00016
+,no,0.0,Planta Demo,no,146,42.4,1547.0,34.9,25.6,A,MAQ-U09-00017
+revisar,no,0.0,Planta Demo,no,58,27.9,1383.0,35.4,25.5,A,MAQ-U09-00018
+sin novedad,no,0.0,Planta Demo,sí,86,49.1,1377.0,36.8,26.2,C,MAQ-U09-00019
+revisar,no,0.0,Planta Demo,sí,197,28.9,1410.0,34.3,25.3,B,MAQ-U09-00020
+revisar,sí,12.8,Planta Demo,no,98,44.4,1555.0,33.6,24.4,C,MAQ-U09-00021
+revisar,no,0.0,Planta Demo,no,166,38.8,1687.0,39.4,30.1,A,MAQ-U09-00022
+,no,0.0,Planta Demo,no,191,43.8,1448.0,34.0,24.0,A,MAQ-U09-00023
+sin novedad,no,0.0,Planta Demo,sí,45,42.8,1464.0,31.9,21.9,B,MAQ-U09-00024
+sin novedad,no,0.0,Planta Demo,sí,60,49.4,1089.0,34.7,24.1,B,MAQ-U09-00025
+,no,0.0,Planta Demo,no,43,54.2,1122.0,31.3,22.7,B,MAQ-U09-00026
+sin novedad,no,0.0,Planta Demo,no,247,30.4,1432.0,33.6,23.4,C,MAQ-U09-00027
+sin novedad,no,0.0,Planta Demo,no,141,45.1,1665.0,36.3,26.0,C,MAQ-U09-00028
+revisar,no,0.0,Planta Demo,sí,89,34.5,1651.0,31.5,23.0,A,MAQ-U09-00029
+,sí,13.6,Planta Demo,no,191,28.9,1711.0,39.5,28.0,C,MAQ-U09-00030
+sin novedad,no,0.0,Planta Demo,sí,63,39.2,1467.0,35.6,26.0,A,MAQ-U09-00031
+sin novedad,no,0.0,Planta Demo,no,106,33.9,1611.0,37.0,26.4,C,MAQ-U09-00032
+revisar,no,0.0,Planta Demo,no,57,39.4,1092.0,34.8,26.0,A,MAQ-U09-00033
+revisar,no,0.0,Planta Demo,no,44,28.6,1691.0,31.8,24.0,A,MAQ-U09-00034
+sin novedad,sí,4.6,Planta Demo,sí,102,52.3,1340.0,37.8,27.0,A,MAQ-U09-00035
+,sí,0.4,Planta Demo,no,140,26.4,1367.0,36.9,26.0,A,MAQ-U09-00036
+revisar,no,0.0,Planta Demo,no,214,41.1,1529.0,32.0,23.4,B,MAQ-U09-00037
+revisar,no,0.0,Planta Demo,no,221,40.7,1788.0,34.9,24.4,C,MAQ-U09-00038
+,sí,0.9,Planta Demo,no,190,49.2,1203.0,34.9,25.3,B,MAQ-U09-00039
+revisar,no,0.0,Planta Demo,no,57,42.6,1325.0,36.3,25.8,A,MAQ-U09-00040
+,no,0.0,Planta Demo,sí,131,42.9,1455.0,38.7,27.4,A,MAQ-U09-00041
+sin novedad,no,0.0,Planta Demo,sí,63,46.7,1646.0,36.1,25.4,A,MAQ-U09-00042
+revisar,no,0.0,Planta Demo,no,121,44.2,1445.0,37.1,24.8,A,MAQ-U09-00043
+revisar,no,0.0,Planta Demo,sí,86,46.1,1460.0,32.3,23.2,A,MAQ-U09-00044
+sin novedad,no,0.0,Planta Demo,no,63,48.3,,34.1,24.2,A,MAQ-U09-00045
+,no,0.0,Planta Demo,no,21,50.8,1371.0,36.9,25.4,A,MAQ-U09-00046
+revisar,no,0.0,Planta Demo,sí,198,49.1,1570.0,32.7,21.6,A,MAQ-U09-00047
+revisar,no,0.0,Planta Demo,no,84,38.9,1222.0,38.0,28.0,A,MAQ-U09-00048
+,no,0.0,Planta Demo,sí,178,30.2,,32.1,22.3,B,MAQ-U09-00049
+revisar,no,0.0,Planta Demo,no,75,46.4,1361.0,31.9,21.9,B,MAQ-U09-00050
+revisar,sí,2.6,Planta Demo,no,185,40.4,1528.0,33.3,22.4,A,MAQ-U09-00051
+,sí,16.0,Planta Demo,no,240,49.2,1233.0,33.8,23.2,B,MAQ-U09-00052
+sin novedad,no,0.0,Planta Demo,no,174,29.3,1562.0,34.6,26.1,A,MAQ-U09-00053
+,no,0.0,Planta Demo,sí,60,50.5,1260.0,35.8,25.3,A,MAQ-U09-00054
+sin novedad,no,0.0,Planta Demo,no,220,52.5,1616.0,37.7,27.9,A,MAQ-U09-00055
+,no,0.0,Planta Demo,no,79,42.6,1316.0,35.3,26.3,C,MAQ-U09-00056
+,sí,7.0,Planta Demo,no,212,41.3,1840.0,32.1,23.1,A,MAQ-U09-00057
+,no,0.0,Planta Demo,no,93,41.3,1481.0,33.2,22.0,B,MAQ-U09-00058
+sin novedad,sí,6.3,Planta Demo,sí,61,43.3,1261.0,36.6,26.0,A,MAQ-U09-00059
+,no,0.0,Planta Demo,no,219,35.4,1558.0,35.0,25.7,B,MAQ-U09-00060
+revisar,no,0.0,Planta Demo,sí,237,44.8,1569.0,34.3,24.8,B,MAQ-U09-00061
+sin novedad,no,0.0,Planta Demo,no,122,34.0,1728.0,33.9,24.5,B,MAQ-U09-00062
+sin novedad,no,0.0,Planta Demo,no,104,26.6,1628.0,37.5,28.0,B,MAQ-U09-00063
+,no,0.0,Planta Demo,no,5,50.3,1412.0,33.6,24.0,A,MAQ-U09-00064
+sin novedad,sí,4.6,Planta Demo,no,203,46.8,1905.0,34.7,23.0,A,MAQ-U09-00065
+revisar,no,0.0,Planta Demo,sí,145,28.2,1624.0,35.2,24.9,A,MAQ-U09-00066
+revisar,no,0.0,Planta Demo,no,126,30.7,1489.0,36.6,26.3,B,MAQ-U09-00067
+,no,0.0,Planta Demo,no,171,48.9,1780.0,34.7,24.1,A,MAQ-U09-00068
+,no,0.0,Planta Demo,sí,7,49.6,1488.0,34.1,26.0,C,MAQ-U09-00069
+,no,0.0,Planta Demo,no,5,53.2,1387.0,38.3,29.3,A,MAQ-U09-00070
+revisar,no,0.0,Planta Demo,no,83,40.7,1550.0,36.1,24.6,A,MAQ-U09-00071
+,no,0.0,Planta Demo,no,160,28.4,1540.0,36.8,26.3,C,MAQ-U09-00072
+revisar,sí,12.7,Planta Demo,sí,64,31.7,1422.0,34.4,25.8,B,MAQ-U09-00073
+,no,0.0,Planta Demo,sí,47,44.0,1415.0,36.1,25.9,A,MAQ-U09-00074
+sin novedad,no,0.0,Planta Demo,no,152,21.3,1678.0,32.9,22.5,B,MAQ-U09-00075
+sin novedad,no,0.0,Planta Demo,no,113,29.2,1609.0,34.7,23.1,B,MAQ-U09-00076
+revisar,no,0.0,Planta Demo,no,209,26.1,1401.0,36.8,28.3,C,MAQ-U09-00077
+sin novedad,no,0.0,Planta Demo,no,104,42.2,1357.0,37.3,26.5,B,MAQ-U09-00078
+,no,0.0,Planta Demo,sí,85,34.1,1172.0,34.3,24.3,A,MAQ-U09-00079
+sin novedad,no,0.0,Planta Demo,sí,217,39.5,1744.0,34.6,24.5,A,MAQ-U09-00080
+revisar,no,0.0,Planta Demo,no,185,27.2,,35.8,26.1,A,MAQ-U09-00081
+sin novedad,sí,0.7,Planta Demo,no,168,40.2,1293.0,34.0,25.1,A,MAQ-U09-00082
+,no,0.0,Planta Demo,no,57,36.6,1452.0,32.5,24.1,B,MAQ-U09-00083
+revisar,no,0.0,Planta Demo,no,92,60.3,1450.0,35.7,26.0,B,MAQ-U09-00084
+sin novedad,no,0.0,Planta Demo,no,45,38.1,1227.0,31.1,21.7,A,MAQ-U09-00085
+,no,0.0,Planta Demo,no,122,47.5,1437.0,35.4,25.6,A,MAQ-U09-00086
+sin novedad,no,0.0,Planta Demo,sí,232,39.5,1653.0,36.4,26.7,C,MAQ-U09-00087
+revisar,no,0.0,Planta Demo,no,171,39.6,1389.0,41.1,31.0,A,MAQ-U09-00088
+,no,0.0,Planta Demo,sí,1,30.0,1642.0,36.8,27.9,C,MAQ-U09-00089
+sin novedad,no,0.0,Planta Demo,no,171,10.5,1479.0,33.5,23.3,B,MAQ-U09-00090
+revisar,no,0.0,Planta Demo,sí,26,48.0,1429.0,33.6,22.3,B,MAQ-U09-00091
+revisar,no,0.0,Planta Demo,sí,63,40.9,1504.0,39.3,28.1,A,MAQ-U09-00092
+,sí,2.1,Planta Demo,no,243,49.7,1492.0,37.0,27.5,C,MAQ-U09-00093
+,no,0.0,Planta Demo,no,153,47.6,1725.0,37.0,26.5,B,MAQ-U09-00094
+,sí,9.3,Planta Demo,no,207,54.4,1417.0,33.5,23.0,A,MAQ-U09-00095
+sin novedad,sí,2.9,Planta Demo,no,242,39.6,1451.0,39.3,28.8,A,MAQ-U09-00096
+,no,0.0,Planta Demo,no,20,28.8,1511.0,37.6,25.4,A,MAQ-U09-00097
+sin novedad,no,0.0,Planta Demo,no,223,46.0,1303.0,36.2,26.8,B,MAQ-U09-00098
+,no,0.0,Planta Demo,no,34,45.5,1756.0,37.7,27.6,B,MAQ-U09-00099
+revisar,no,0.0,Planta Demo,no,71,58.9,1421.0,35.1,24.4,C,MAQ-U09-00100
+,no,0.0,Planta Demo,sí,240,44.7,1624.0,32.9,22.9,C,MAQ-U09-00101
+,no,0.0,Planta Demo,no,169,38.1,1546.0,32.8,22.9,C,MAQ-U09-00102
+sin novedad,no,0.0,Planta Demo,sí,27,30.7,1366.0,33.7,24.5,B,MAQ-U09-00103
+sin novedad,no,0.0,Planta Demo,sí,21,48.0,1578.0,30.5,21.6,B,MAQ-U09-00104
+sin novedad,sí,2.3,Planta Demo,no,225,50.2,1523.0,36.5,26.4,A,MAQ-U09-00105
+,no,0.0,Planta Demo,sí,48,49.6,1714.0,35.5,25.6,A,MAQ-U09-00106
+,no,0.0,Planta Demo,sí,227,25.0,1672.0,35.6,25.7,A,MAQ-U09-00107
+sin novedad,no,0.0,Planta Demo,sí,211,38.8,,36.5,26.4,A,MAQ-U09-00108
+revisar,sí,9.2,Planta Demo,sí,177,42.1,1626.0,38.7,26.9,B,MAQ-U09-00109
+sin novedad,no,0.0,Planta Demo,no,149,56.5,1480.0,32.1,22.4,C,MAQ-U09-00110
+,no,0.0,Planta Demo,sí,135,31.3,1599.0,32.0,23.1,A,MAQ-U09-00111
+revisar,no,0.0,Planta Demo,no,133,55.7,1725.0,32.7,21.4,B,MAQ-U09-00112
+sin novedad,no,0.0,Planta Demo,no,231,49.8,,37.0,27.4,B,MAQ-U09-00113
+revisar,no,0.0,Planta Demo,no,9,54.1,1122.0,34.6,24.0,B,MAQ-U09-00114
+revisar,no,0.0,Planta Demo,no,127,30.1,1505.0,36.2,26.6,A,MAQ-U09-00115
+,no,0.0,Planta Demo,no,155,55.3,1441.0,34.5,24.8,B,MAQ-U09-00116
+sin novedad,no,0.0,Planta Demo,sí,203,50.2,1556.0,34.7,23.3,B,MAQ-U09-00117
+sin novedad,no,0.0,Planta Demo,no,132,50.1,1413.0,39.4,27.0,B,MAQ-U09-00118
+,no,0.0,Planta Demo,sí,56,38.6,1251.0,34.1,24.3,B,MAQ-U09-00119
+,no,0.0,Planta Demo,no,103,53.4,1496.0,36.0,26.8,A,MAQ-U09-00120
+sin novedad,sí,6.7,Planta Demo,no,154,52.9,1692.0,34.7,24.2,C,MAQ-U09-00121
+sin novedad,no,0.0,Planta Demo,sí,31,31.3,,34.0,24.1,A,MAQ-U09-00122
+sin novedad,no,0.0,Planta Demo,no,90,49.2,1583.0,35.9,25.3,B,MAQ-U09-00123
+revisar,no,0.0,Planta Demo,no,192,34.6,1814.0,35.7,26.6,B,MAQ-U09-00124
+revisar,no,0.0,Planta Demo,no,145,50.1,1846.0,31.4,22.3,A,MAQ-U09-00125
+revisar,no,0.0,Planta Demo,no,14,48.2,1136.0,32.2,22.0,A,MAQ-U09-00126
+revisar,no,0.0,Planta Demo,sí,146,47.4,1467.0,34.6,25.7,A,MAQ-U09-00127
+,no,0.0,Planta Demo,no,108,60.9,1552.0,37.2,28.5,B,MAQ-U09-00128
+,no,0.0,Planta Demo,no,31,26.8,1404.0,34.3,25.6,A,MAQ-U09-00129
+sin novedad,no,0.0,Planta Demo,no,121,47.1,,34.6,24.6,B,MAQ-U09-00130
+,no,0.0,Planta Demo,no,25,35.0,1437.0,37.7,27.1,B,MAQ-U09-00131
+sin novedad,no,0.0,Planta Demo,no,141,55.0,1435.0,34.8,24.1,B,MAQ-U09-00132
+sin novedad,no,0.0,Planta Demo,no,210,31.5,1483.0,35.8,25.8,A,MAQ-U09-00133
+revisar,sí,2.8,Planta Demo,sí,181,61.3,,36.4,25.6,C,MAQ-U09-00134
+sin novedad,no,0.0,Planta Demo,no,168,42.8,1773.0,34.8,25.7,C,MAQ-U09-00135
+sin novedad,sí,6.3,Planta Demo,sí,141,39.1,1452.0,33.4,25.1,A,MAQ-U09-00136
+sin novedad,sí,17.8,Planta Demo,no,30,43.9,1148.0,34.2,25.0,C,MAQ-U09-00137
+sin novedad,no,0.0,Planta Demo,sí,80,24.8,1693.0,29.6,22.5,A,MAQ-U09-00138
+revisar,no,0.0,Planta Demo,no,121,45.1,1244.0,34.8,23.1,B,MAQ-U09-00139
+,no,0.0,Planta Demo,no,131,44.4,1306.0,36.3,26.6,B,MAQ-U09-00140
+revisar,no,0.0,Planta Demo,no,128,41.9,1292.0,38.9,27.2,B,MAQ-U09-00141
+sin novedad,sí,7.2,Planta Demo,sí,225,52.9,1267.0,37.9,26.0,A,MAQ-U09-00142
+revisar,no,0.0,Planta Demo,sí,120,24.2,1363.0,35.5,24.5,A,MAQ-U09-00143
+revisar,no,0.0,Planta Demo,no,60,44.5,1533.0,32.8,24.2,A,MAQ-U09-00144
+,no,0.0,Planta Demo,no,137,22.8,1292.0,33.5,22.1,A,MAQ-U09-00145
+,no,0.0,Planta Demo,no,173,33.6,1306.0,38.5,28.5,B,MAQ-U09-00146
+,sí,2.2,Planta Demo,sí,248,37.6,1266.0,37.9,26.3,C,MAQ-U09-00147
+,no,0.0,Planta Demo,no,37,26.7,1136.0,35.6,25.5,A,MAQ-U09-00148
+sin novedad,no,0.0,Planta Demo,no,130,52.5,1537.0,35.6,23.8,C,MAQ-U09-00149
+revisar,sí,3.6,Planta Demo,sí,224,20.6,1477.0,36.3,26.6,A,MAQ-U09-00150
+sin novedad,sí,5.0,Planta Demo,no,238,56.4,1562.0,36.6,25.2,A,MAQ-U09-00151
+sin novedad,no,0.0,Planta Demo,no,169,27.0,1296.0,39.7,29.9,C,MAQ-U09-00152
+,no,0.0,Planta Demo,no,105,29.9,1632.0,31.7,19.7,A,MAQ-U09-00153
+,no,0.0,Planta Demo,no,129,44.9,,33.9,25.8,C,MAQ-U09-00154
+,sí,2.2,Planta Demo,no,249,28.5,1480.0,33.8,24.3,A,MAQ-U09-00155
+sin novedad,no,0.0,Planta Demo,no,233,35.9,1254.0,34.3,25.1,A,MAQ-U09-00156
+revisar,no,0.0,Planta Demo,sí,26,29.8,1483.0,37.5,25.7,C,MAQ-U09-00157
+,no,0.0,Planta Demo,no,217,30.6,1826.0,35.0,26.0,A,MAQ-U09-00158
+revisar,no,0.0,Planta Demo,no,82,31.3,1578.0,31.9,22.2,A,MAQ-U09-00159
+sin novedad,no,0.0,Planta Demo,sí,162,42.4,1363.0,35.9,23.9,C,MAQ-U09-00160
+revisar,no,0.0,Planta Demo,no,60,35.8,1315.0,36.7,27.7,A,MAQ-U09-00161
+sin novedad,no,0.0,Planta Demo,no,79,49.5,1697.0,36.6,26.7,B,MAQ-U09-00162
+,sí,6.5,Planta Demo,no,227,33.8,1477.0,36.1,24.8,A,MAQ-U09-00163
+sin novedad,no,0.0,Planta Demo,no,3,34.6,1519.0,34.9,24.5,A,MAQ-U09-00164
+revisar,sí,9.2,Planta Demo,no,144,46.5,1576.0,34.9,25.8,B,MAQ-U09-00165
+sin novedad,no,0.0,Planta Demo,no,47,53.9,1495.0,33.4,22.8,A,MAQ-U09-00166
+,no,0.0,Planta Demo,no,53,39.1,1167.0,32.8,23.1,A,MAQ-U09-00167
+,sí,6.5,Planta Demo,sí,221,35.1,1086.0,34.4,25.4,A,MAQ-U09-00168
+,no,0.0,Planta Demo,no,55,35.0,,33.3,23.4,C,MAQ-U09-00169
+sin novedad,no,0.0,Planta Demo,no,183,40.9,1633.0,35.0,23.9,B,MAQ-U09-00170
+sin novedad,no,0.0,Planta Demo,no,187,43.7,1415.0,37.9,27.4,B,MAQ-U09-00171
+revisar,no,0.0,Planta Demo,sí,11,37.0,1278.0,37.4,27.8,B,MAQ-U09-00172
+revisar,no,0.0,Planta Demo,no,25,46.7,1437.0,32.6,22.9,B,MAQ-U09-00173
+,no,0.0,Planta Demo,sí,177,40.5,1682.0,36.5,27.7,A,MAQ-U09-00174
+revisar,no,0.0,Planta Demo,sí,105,29.1,1219.0,32.8,24.2,A,MAQ-U09-00175
+sin novedad,sí,2.4,Planta Demo,no,204,49.7,1516.0,35.4,24.4,A,MAQ-U09-00176
+revisar,no,0.0,Planta Demo,sí,224,48.1,1379.0,36.0,26.0,B,MAQ-U09-00177
+sin novedad,no,0.0,Planta Demo,no,192,34.9,,34.0,24.1,B,MAQ-U09-00178
+revisar,no,0.0,Planta Demo,sí,179,49.0,1551.0,34.3,24.9,B,MAQ-U09-00179
+revisar,no,0.0,Planta Demo,sí,119,48.2,1533.0,36.4,24.9,A,MAQ-U09-00180
+revisar,no,0.0,Planta Demo,no,75,41.9,1372.0,35.3,24.1,C,MAQ-U09-00181
+sin novedad,no,0.0,Planta Demo,sí,119,36.8,,33.6,24.5,C,MAQ-U09-00182
+sin novedad,no,0.0,Planta Demo,no,210,48.9,,39.0,28.5,B,MAQ-U09-00183
+sin novedad,no,0.0,Planta Demo,no,58,36.7,1627.0,36.4,25.4,A,MAQ-U09-00184
+sin novedad,no,0.0,Planta Demo,sí,10,20.8,1582.0,36.1,27.6,A,MAQ-U09-00185
+revisar,no,0.0,Planta Demo,no,45,41.8,1685.0,33.1,23.0,A,MAQ-U09-00186
+sin novedad,no,0.0,Planta Demo,no,107,31.6,,36.7,25.7,A,MAQ-U09-00187
+,no,0.0,Planta Demo,no,42,28.4,1450.0,37.5,29.2,C,MAQ-U09-00188
+sin novedad,sí,6.1,Planta Demo,no,164,40.0,,32.6,22.7,C,MAQ-U09-00189
+,no,0.0,Planta Demo,sí,96,33.6,1527.0,34.3,23.4,B,MAQ-U09-00190
+sin novedad,no,0.0,Planta Demo,no,40,39.8,1467.0,33.6,24.2,A,MAQ-U09-00191
+sin novedad,no,0.0,Planta Demo,no,140,36.3,1363.0,30.7,20.9,A,MAQ-U09-00192
+sin novedad,sí,3.4,Planta Demo,no,246,25.1,1241.0,32.1,22.6,B,MAQ-U09-00193
+revisar,sí,5.7,Planta Demo,sí,200,43.9,1350.0,37.1,25.9,A,MAQ-U09-00194
+sin novedad,no,0.0,Planta Demo,sí,68,50.8,1595.0,33.6,24.0,B,MAQ-U09-00195
+,no,0.0,Planta Demo,no,123,45.9,1676.0,34.3,24.3,A,MAQ-U09-00196
+revisar,no,0.0,Planta Demo,no,89,34.4,1629.0,35.7,25.6,A,MAQ-U09-00197
+,no,0.0,Planta Demo,no,129,35.4,1651.0,31.5,23.5,A,MAQ-U09-00198
+,no,0.0,Planta Demo,no,43,47.1,1933.0,36.4,26.4,A,MAQ-U09-00199
+,no,0.0,Planta Demo,no,146,32.5,,32.5,23.6,A,MAQ-U09-00200
+revisar,no,0.0,Planta Demo,no,221,44.8,1477.0,34.5,22.7,C,MAQ-U09-00201
+sin novedad,no,0.0,Planta Demo,sí,177,32.4,1561.0,35.1,23.5,B,MAQ-U09-00202
+sin novedad,no,0.0,Planta Demo,no,165,24.0,1413.0,36.3,26.3,C,MAQ-U09-00203
+revisar,no,0.0,Planta Demo,no,71,41.5,1499.0,36.4,26.7,A,MAQ-U09-00204
+revisar,no,0.0,Planta Demo,sí,16,29.5,,30.6,22.5,B,MAQ-U09-00205
+sin novedad,no,0.0,Planta Demo,no,86,34.9,1259.0,37.3,26.4,B,MAQ-U09-00206
+revisar,no,0.0,Planta Demo,sí,92,18.3,1601.0,33.0,24.0,A,MAQ-U09-00207
+revisar,no,0.0,Planta Demo,no,114,54.9,1621.0,35.7,25.2,A,MAQ-U09-00208
+revisar,sí,6.8,Planta Demo,sí,172,38.7,1110.0,34.4,25.0,A,MAQ-U09-00209
+revisar,no,0.0,Planta Demo,no,160,41.7,1574.0,37.6,26.9,C,MAQ-U09-00210
+revisar,no,0.0,Planta Demo,no,23,38.1,1411.0,36.2,25.5,B,MAQ-U09-00211
+revisar,no,0.0,Planta Demo,sí,53,23.8,1279.0,34.6,24.9,A,MAQ-U09-00212
+revisar,no,0.0,Planta Demo,sí,124,40.3,1563.0,35.0,25.1,B,MAQ-U09-00213
+revisar,no,0.0,Planta Demo,no,92,28.3,1385.0,37.0,26.7,A,MAQ-U09-00214
+sin novedad,no,0.0,Planta Demo,sí,166,37.8,1571.0,34.8,24.8,B,MAQ-U09-00215
+sin novedad,no,0.0,Planta Demo,no,60,25.6,1362.0,37.5,27.1,A,MAQ-U09-00216
+,no,0.0,Planta Demo,sí,241,38.1,2010.0,34.7,24.4,A,MAQ-U09-00217
+revisar,no,0.0,Planta Demo,no,27,29.6,1362.0,34.7,24.1,A,MAQ-U09-00218
+sin novedad,no,0.0,Planta Demo,no,10,49.5,1322.0,35.9,27.3,A,MAQ-U09-00219
+,no,0.0,Planta Demo,no,26,53.6,1115.0,34.9,25.5,C,MAQ-U09-00220
+revisar,no,0.0,Planta Demo,sí,44,40.1,1600.0,36.3,24.5,C,MAQ-U09-00221
+sin novedad,no,0.0,Planta Demo,sí,215,33.6,1664.0,33.3,23.4,A,MAQ-U09-00222
+revisar,no,0.0,Planta Demo,sí,183,53.4,1752.0,34.1,25.7,B,MAQ-U09-00223
+revisar,no,0.0,Planta Demo,no,44,39.0,1443.0,34.1,23.1,A,MAQ-U09-00224
+sin novedad,no,0.0,Planta Demo,no,179,50.0,1644.0,34.9,25.3,A,MAQ-U09-00225
+revisar,no,0.0,Planta Demo,sí,6,49.2,1774.0,34.8,25.2,A,MAQ-U09-00226
+,no,0.0,Planta Demo,no,177,46.1,1506.0,37.5,26.6,C,MAQ-U09-00227
+revisar,no,0.0,Planta Demo,no,243,47.0,1713.0,31.7,21.9,A,MAQ-U09-00228
+revisar,no,0.0,Planta Demo,no,46,35.0,1769.0,32.0,22.3,A,MAQ-U09-00229
+revisar,sí,4.0,Planta Demo,no,181,40.6,1329.0,36.9,26.4,A,MAQ-U09-00230
+revisar,no,0.0,Planta Demo,no,37,34.8,1509.0,34.6,25.3,C,MAQ-U09-00231
+,no,0.0,Planta Demo,no,207,43.8,1411.0,33.4,23.9,A,MAQ-U09-00232
+,no,0.0,Planta Demo,no,162,39.6,1403.0,35.7,26.0,A,MAQ-U09-00233
+revisar,no,0.0,Planta Demo,sí,197,30.2,1507.0,32.1,22.1,B,MAQ-U09-00234
+revisar,no,0.0,Planta Demo,sí,69,53.8,1679.0,32.3,22.5,A,MAQ-U09-00235
+sin novedad,sí,6.3,Planta Demo,sí,222,29.9,1492.0,35.3,25.3,B,MAQ-U09-00236
+,no,0.0,Planta Demo,no,222,38.8,1601.0,35.3,24.7,A,MAQ-U09-00237
+,no,0.0,Planta Demo,sí,54,37.1,1242.0,36.2,24.3,B,MAQ-U09-00238
+revisar,sí,1.0,Planta Demo,no,233,55.8,1576.0,35.6,26.7,C,MAQ-U09-00239
+,no,0.0,Planta Demo,sí,40,18.1,1320.0,36.5,27.5,B,MAQ-U09-00240
+,no,0.0,Planta Demo,no,157,39.4,1653.0,34.7,24.1,A,MAQ-U09-00241
+,sí,2.5,Planta Demo,no,130,43.4,1465.0,32.2,20.0,B,MAQ-U09-00242
+,no,0.0,Planta Demo,sí,223,54.5,1708.0,35.3,26.8,B,MAQ-U09-00243
+sin novedad,no,0.0,Planta Demo,no,44,34.2,1409.0,35.6,26.2,A,MAQ-U09-00244
+sin novedad,no,0.0,Planta Demo,no,199,46.5,1481.0,29.1,19.3,A,MAQ-U09-00245
+revisar,no,0.0,Planta Demo,no,240,38.2,1564.0,34.2,24.5,B,MAQ-U09-00246
+revisar,sí,5.2,Planta Demo,no,187,45.7,1600.0,35.5,25.0,A,MAQ-U09-00247
+sin novedad,no,0.0,Planta Demo,sí,103,55.7,1802.0,29.3,20.7,B,MAQ-U09-00248
+sin novedad,no,0.0,Planta Demo,no,61,45.2,1535.0,30.5,21.0,B,MAQ-U09-00249
+revisar,sí,3.1,Planta Demo,no,199,40.2,,37.6,27.2,A,MAQ-U09-00250
+revisar,sí,9.1,Planta Demo,no,231,42.8,1622.0,31.4,23.0,A,MAQ-U09-00251
+,no,0.0,Planta Demo,no,2,45.4,1830.0,36.9,26.8,A,MAQ-U09-00252
+,no,0.0,Planta Demo,no,32,41.7,1653.0,29.7,21.1,A,MAQ-U09-00253
+,no,0.0,Planta Demo,no,219,46.5,1356.0,34.1,23.5,A,MAQ-U09-00254
+,no,0.0,Planta Demo,no,99,58.9,1614.0,34.9,24.4,C,MAQ-U09-00255
+sin novedad,no,0.0,Planta Demo,no,188,33.6,1887.0,35.7,24.4,A,MAQ-U09-00256
+,no,0.0,Planta Demo,no,15,51.0,1588.0,34.0,24.9,B,MAQ-U09-00257
+,no,0.0,Planta Demo,sí,25,54.8,1507.0,34.4,25.1,B,MAQ-U09-00258
+revisar,no,0.0,Planta Demo,sí,50,47.3,1594.0,34.8,25.7,B,MAQ-U09-00259
+revisar,no,0.0,Planta Demo,no,41,47.2,1601.0,37.2,26.7,A,MAQ-U09-00260
+revisar,no,0.0,Planta Demo,no,169,31.8,1672.0,33.3,23.3,A,MAQ-U09-00261
+,no,0.0,Planta Demo,no,49,43.9,1420.0,36.1,25.6,B,MAQ-U09-00262
+,no,0.0,Planta Demo,no,220,42.3,1556.0,34.5,25.1,A,MAQ-U09-00263
+,no,0.0,Planta Demo,sí,109,29.0,1411.0,33.1,23.1,B,MAQ-U09-00264
+sin novedad,no,0.0,Planta Demo,no,119,36.7,1410.0,34.5,24.6,C,MAQ-U09-00265
+,no,0.0,Planta Demo,no,142,35.0,1470.0,31.6,20.6,A,MAQ-U09-00266
+revisar,no,0.0,Planta Demo,sí,248,40.7,1553.0,34.9,24.2,A,MAQ-U09-00267
+revisar,no,0.0,Planta Demo,sí,207,32.7,,38.8,27.8,C,MAQ-U09-00268
+,no,0.0,Planta Demo,no,14,34.9,,36.5,25.5,B,MAQ-U09-00269
+sin novedad,no,0.0,Planta Demo,sí,115,43.3,1375.0,38.7,27.7,C,MAQ-U09-00270
+revisar,no,0.0,Planta Demo,no,118,55.4,,34.5,24.5,A,MAQ-U09-00271
+revisar,no,0.0,Planta Demo,no,178,36.2,1513.0,31.3,21.8,A,MAQ-U09-00272
+sin novedad,no,0.0,Planta Demo,no,190,59.9,1489.0,34.5,23.9,B,MAQ-U09-00273
+,no,0.0,Planta Demo,no,177,40.0,1537.0,34.8,25.6,A,MAQ-U09-00274
+revisar,no,0.0,Planta Demo,no,165,40.9,1381.0,35.2,25.7,B,MAQ-U09-00275
+revisar,no,0.0,Planta Demo,sí,96,45.2,1786.0,34.9,25.7,B,MAQ-U09-00276
+revisar,no,0.0,Planta Demo,sí,54,42.1,1395.0,33.8,25.8,B,MAQ-U09-00277
+revisar,no,0.0,Planta Demo,no,19,49.6,1844.0,32.7,23.1,A,MAQ-U09-00278
+,no,0.0,Planta Demo,sí,99,41.3,1278.0,39.2,28.4,B,MAQ-U09-00279
+sin novedad,no,0.0,Planta Demo,sí,37,37.9,1401.0,35.7,25.4,C,MAQ-U09-00280
+revisar,sí,5.8,Planta Demo,no,155,27.7,1325.0,35.5,25.5,B,MAQ-U09-00281
+,no,0.0,Planta Demo,no,23,50.2,1338.0,37.9,27.9,A,MAQ-U09-00282
+sin novedad,sí,0.3,Planta Demo,sí,201,48.2,1502.0,30.8,21.6,A,MAQ-U09-00283
+,no,0.0,Planta Demo,no,110,23.7,1406.0,35.1,22.8,C,MAQ-U09-00284
+sin novedad,sí,8.0,Planta Demo,sí,210,56.9,1620.0,37.8,26.7,A,MAQ-U09-00285
+revisar,no,0.0,Planta Demo,no,87,49.6,1458.0,34.2,24.8,B,MAQ-U09-00286
+,no,0.0,Planta Demo,no,84,29.8,1526.0,31.6,22.0,A,MAQ-U09-00287
+,sí,10.3,Planta Demo,no,227,46.4,1465.0,36.6,26.4,A,MAQ-U09-00288
+,no,0.0,Planta Demo,no,156,35.9,1617.0,34.0,24.1,A,MAQ-U09-00289
+revisar,sí,3.2,Planta Demo,sí,200,23.3,1630.0,32.7,23.5,C,MAQ-U09-00290
+sin novedad,no,0.0,Planta Demo,sí,199,35.0,1511.0,34.7,23.9,A,MAQ-U09-00291
+sin novedad,no,0.0,Planta Demo,no,67,53.3,1717.0,30.7,20.4,A,MAQ-U09-00292
+sin novedad,no,0.0,Planta Demo,no,67,38.2,1427.0,32.9,24.0,B,MAQ-U09-00293
+revisar,no,0.0,Planta Demo,no,3,47.9,1648.0,31.7,22.0,A,MAQ-U09-00294
+revisar,no,0.0,Planta Demo,sí,117,53.5,1574.0,32.6,21.8,C,MAQ-U09-00295
+revisar,no,0.0,Planta Demo,no,152,40.0,1284.0,36.8,27.4,B,MAQ-U09-00296
+,sí,9.2,Planta Demo,sí,219,37.0,1679.0,35.0,24.5,A,MAQ-U09-00297
+revisar,no,0.0,Planta Demo,sí,89,65.8,1547.0,35.7,25.3,B,MAQ-U09-00298
+revisar,sí,3.2,Planta Demo,sí,209,28.1,1534.0,35.9,25.0,A,MAQ-U09-00299
+,no,0.0,Planta Demo,no,75,36.6,1317.0,33.0,24.3,B,MAQ-U09-00300
+revisar,no,0.0,Planta Demo,no,138,42.0,1521.0,35.8,24.8,C,MAQ-U09-00301
+revisar,no,0.0,Planta Demo,sí,59,49.4,1374.0,32.4,23.7,A,MAQ-U09-00302
+sin novedad,no,0.0,Planta Demo,sí,32,44.5,1486.0,37.9,26.5,A,MAQ-U09-00303
+sin novedad,no,0.0,Planta Demo,sí,220,62.1,1555.0,33.6,22.0,A,MAQ-U09-00304
+sin novedad,sí,4.9,Planta Demo,no,119,32.1,1438.0,37.6,26.4,A,MAQ-U09-00305
+sin novedad,no,0.0,Planta Demo,no,11,46.3,1437.0,35.0,23.9,A,MAQ-U09-00306
+,sí,8.0,Planta Demo,sí,176,35.6,1124.0,34.3,24.5,C,MAQ-U09-00307
+,no,0.0,Planta Demo,no,109,36.9,1532.0,34.8,24.8,C,MAQ-U09-00308
+,no,0.0,Planta Demo,sí,205,31.5,1283.0,36.6,27.2,B,MAQ-U09-00309
+,sí,1.5,Planta Demo,sí,242,33.8,1505.0,31.5,21.3,A,MAQ-U09-00310
+revisar,no,0.0,Planta Demo,no,121,36.2,1465.0,33.2,23.7,A,MAQ-U09-00311
+,no,0.0,Planta Demo,sí,155,51.1,1614.0,31.2,20.1,B,MAQ-U09-00312
+,no,0.0,Planta Demo,no,94,32.4,1309.0,33.9,24.8,B,MAQ-U09-00313
+,no,0.0,Planta Demo,sí,183,29.5,1482.0,35.7,25.2,A,MAQ-U09-00314
+sin novedad,no,0.0,Planta Demo,sí,220,36.6,1340.0,36.6,26.3,B,MAQ-U09-00315
+revisar,no,0.0,Planta Demo,sí,226,29.4,1859.0,35.8,24.9,A,MAQ-U09-00316
+revisar,no,0.0,Planta Demo,sí,228,49.6,1803.0,33.0,23.9,A,MAQ-U09-00317
+revisar,no,0.0,Planta Demo,sí,193,39.2,1446.0,31.3,21.6,B,MAQ-U09-00318
+sin novedad,no,0.0,Planta Demo,no,43,46.9,,34.3,23.4,B,MAQ-U09-00319
+revisar,no,0.0,Planta Demo,no,17,49.6,1576.0,33.5,24.4,A,MAQ-U09-00320
+,no,0.0,Planta Demo,no,221,44.3,1081.0,32.8,23.7,A,MAQ-U09-00321
+,no,0.0,Planta Demo,no,48,53.4,1368.0,35.3,25.8,B,MAQ-U09-00322
+revisar,no,0.0,Planta Demo,no,147,40.3,1538.0,36.5,26.5,C,MAQ-U09-00323
+sin novedad,sí,12.4,Planta Demo,sí,138,45.2,1518.0,33.2,24.6,A,MAQ-U09-00324
+revisar,no,0.0,Planta Demo,no,0,54.8,1566.0,36.1,26.8,B,MAQ-U09-00325
+sin novedad,no,0.0,Planta Demo,sí,111,38.2,1718.0,30.9,21.0,C,MAQ-U09-00326
+revisar,no,0.0,Planta Demo,sí,101,46.2,1437.0,36.3,26.2,A,MAQ-U09-00327
+,no,0.0,Planta Demo,sí,126,37.2,1689.0,36.5,26.1,A,MAQ-U09-00328
+,no,0.0,Planta Demo,sí,74,40.4,1899.0,34.4,25.3,A,MAQ-U09-00329
+revisar,no,0.0,Planta Demo,no,103,47.4,1611.0,34.9,25.0,A,MAQ-U09-00330
+revisar,no,0.0,Planta Demo,no,134,42.9,1675.0,34.3,25.4,A,MAQ-U09-00331
+revisar,no,0.0,Planta Demo,no,12,50.5,1573.0,35.9,25.9,B,MAQ-U09-00332
+revisar,sí,2.5,Planta Demo,sí,147,39.4,1433.0,31.9,23.9,A,MAQ-U09-00333
+sin novedad,no,0.0,Planta Demo,no,50,41.4,1261.0,36.4,25.1,A,MAQ-U09-00334
+revisar,no,0.0,Planta Demo,no,22,32.9,1579.0,36.2,26.4,A,MAQ-U09-00335
+sin novedad,no,0.0,Planta Demo,no,126,41.8,1912.0,38.1,26.4,A,MAQ-U09-00336
+revisar,sí,5.2,Planta Demo,sí,196,47.2,1518.0,34.3,24.0,C,MAQ-U09-00337
+,no,0.0,Planta Demo,no,27,44.0,1682.0,35.2,24.2,A,MAQ-U09-00338
+sin novedad,no,0.0,Planta Demo,sí,191,48.0,1494.0,30.5,21.8,B,MAQ-U09-00339
+,no,0.0,Planta Demo,sí,137,34.0,1523.0,39.2,28.1,A,MAQ-U09-00340
+revisar,no,0.0,Planta Demo,sí,37,46.8,1542.0,36.7,27.4,B,MAQ-U09-00341
+revisar,no,0.0,Planta Demo,no,138,43.5,1504.0,36.9,26.3,B,MAQ-U09-00342
+sin novedad,no,0.0,Planta Demo,sí,29,41.1,1576.0,36.3,24.4,C,MAQ-U09-00343
+sin novedad,sí,12.2,Planta Demo,no,212,47.8,1146.0,36.8,26.7,A,MAQ-U09-00344
+sin novedad,no,0.0,Planta Demo,sí,223,43.4,1543.0,33.0,23.9,A,MAQ-U09-00345
+,sí,8.7,Planta Demo,no,244,46.6,,35.6,25.9,B,MAQ-U09-00346
+revisar,no,0.0,Planta Demo,sí,148,49.4,1576.0,37.0,26.3,B,MAQ-U09-00347
+sin novedad,no,0.0,Planta Demo,sí,208,32.2,1799.0,34.5,25.3,B,MAQ-U09-00348
+sin novedad,no,0.0,Planta Demo,sí,152,37.5,1590.0,35.5,25.5,B,MAQ-U09-00349
+revisar,no,0.0,Planta Demo,sí,80,41.6,1588.0,34.2,23.7,C,MAQ-U09-00350
+,no,0.0,Planta Demo,no,179,37.2,1573.0,33.5,22.0,B,MAQ-U09-00351
+revisar,no,0.0,Planta Demo,sí,203,46.5,1338.0,36.7,26.7,A,MAQ-U09-00352
+revisar,no,0.0,Planta Demo,no,54,50.1,1403.0,35.3,26.5,B,MAQ-U09-00353
+revisar,no,0.0,Planta Demo,sí,59,28.9,1304.0,36.6,25.7,A,MAQ-U09-00354
+revisar,no,0.0,Planta Demo,no,5,37.1,,37.4,26.9,B,MAQ-U09-00355
+revisar,sí,7.2,Planta Demo,no,214,59.1,1402.0,32.9,22.9,A,MAQ-U09-00356
+sin novedad,no,0.0,Planta Demo,sí,11,39.0,1739.0,32.7,24.2,C,MAQ-U09-00357
+,no,0.0,Planta Demo,no,78,59.1,1314.0,37.7,25.5,C,MAQ-U09-00358
+revisar,no,0.0,Planta Demo,no,79,44.9,1542.0,36.8,26.5,A,MAQ-U09-00359
+sin novedad,no,0.0,Planta Demo,no,203,48.3,1462.0,34.3,26.0,B,MAQ-U09-00360
+,no,0.0,Planta Demo,sí,2,41.9,1520.0,37.9,25.9,A,MAQ-U09-00361
+sin novedad,no,0.0,Planta Demo,no,155,39.4,1587.0,32.6,23.3,B,MAQ-U09-00362
+sin novedad,no,0.0,Planta Demo,no,32,44.7,1421.0,38.1,26.0,A,MAQ-U09-00363
+revisar,no,0.0,Planta Demo,sí,76,41.4,1081.0,36.8,26.4,A,MAQ-U09-00364
+revisar,no,0.0,Planta Demo,sí,13,50.7,1415.0,37.2,28.0,B,MAQ-U09-00365
+sin novedad,no,0.0,Planta Demo,no,221,40.0,1192.0,35.3,23.4,C,MAQ-U09-00366
+,sí,0.5,Planta Demo,no,211,41.8,1296.0,31.9,21.5,B,MAQ-U09-00367
+,no,0.0,Planta Demo,no,143,17.6,1463.0,34.3,24.3,A,MAQ-U09-00368
+revisar,no,0.0,Planta Demo,sí,132,49.8,1242.0,39.2,29.3,B,MAQ-U09-00369
+revisar,no,0.0,Planta Demo,no,47,20.8,1230.0,33.7,25.5,B,MAQ-U09-00370
+revisar,no,0.0,Planta Demo,no,239,39.7,1613.0,37.7,27.5,B,MAQ-U09-00371
+,no,0.0,Planta Demo,no,125,43.3,1785.0,34.6,23.0,B,MAQ-U09-00372
+,no,0.0,Planta Demo,sí,129,39.9,1748.0,33.3,23.7,C,MAQ-U09-00373
+revisar,no,0.0,Planta Demo,sí,218,38.6,1696.0,33.7,22.5,A,MAQ-U09-00374
+,no,0.0,Planta Demo,sí,29,36.3,1403.0,33.1,22.4,C,MAQ-U09-00375
+revisar,sí,8.8,Planta Demo,no,238,42.5,1439.0,33.6,24.6,A,MAQ-U09-00376
+sin novedad,no,0.0,Planta Demo,sí,213,42.9,1215.0,31.6,21.7,A,MAQ-U09-00377
+revisar,sí,1.3,Planta Demo,no,229,41.7,1709.0,34.7,24.0,B,MAQ-U09-00378
+revisar,no,0.0,Planta Demo,no,59,21.4,1449.0,36.8,26.1,A,MAQ-U09-00379
+,sí,7.6,Planta Demo,no,164,47.2,1186.0,34.4,25.8,B,MAQ-U09-00380
+sin novedad,no,0.0,Planta Demo,no,72,34.9,1254.0,38.1,26.3,B,MAQ-U09-00381
+sin novedad,sí,7.8,Planta Demo,no,187,20.8,1572.0,34.0,24.9,C,MAQ-U09-00382
+,sí,11.1,Planta Demo,no,237,35.5,1422.0,35.8,25.0,B,MAQ-U09-00383
+,no,0.0,Planta Demo,no,138,40.7,1645.0,36.6,26.1,A,MAQ-U09-00384
+revisar,no,0.0,Planta Demo,no,186,44.0,1229.0,33.7,23.8,B,MAQ-U09-00385
+revisar,no,0.0,Planta Demo,no,3,42.8,1231.0,33.9,22.2,B,MAQ-U09-00386
+,no,0.0,Planta Demo,no,211,28.7,1391.0,38.4,27.5,B,MAQ-U09-00387
+sin novedad,no,0.0,Planta Demo,no,176,42.1,1750.0,34.8,25.0,A,MAQ-U09-00388
+sin novedad,sí,9.2,Planta Demo,no,153,32.7,1631.0,33.6,24.6,A,MAQ-U09-00389
+,no,0.0,Planta Demo,no,206,41.6,1796.0,37.3,25.1,B,MAQ-U09-00390
+sin novedad,no,0.0,Planta Demo,sí,22,37.1,1652.0,35.9,26.2,B,MAQ-U09-00391
+revisar,no,0.0,Planta Demo,sí,207,39.1,1420.0,34.4,25.2,C,MAQ-U09-00392
+revisar,no,0.0,Planta Demo,sí,10,39.3,1727.0,35.8,25.1,B,MAQ-U09-00393
+sin novedad,no,0.0,Planta Demo,no,240,32.2,1302.0,36.2,26.2,C,MAQ-U09-00394
+sin novedad,sí,11.0,Planta Demo,sí,206,39.1,1372.0,37.7,27.7,A,MAQ-U09-00395
+revisar,sí,10.7,Planta Demo,no,226,37.4,1530.0,30.4,22.0,A,MAQ-U09-00396
+,no,0.0,Planta Demo,no,67,35.6,1425.0,35.9,25.8,A,MAQ-U09-00397
+sin novedad,sí,5.5,Planta Demo,sí,162,34.0,1462.0,34.0,23.4,B,MAQ-U09-00398
+,no,0.0,Planta Demo,no,2,31.4,1578.0,34.7,23.4,B,MAQ-U09-00399
+sin novedad,no,0.0,Planta Demo,no,44,57.2,1337.0,32.9,23.6,A,MAQ-U09-00400
+sin novedad,no,0.0,Planta Demo,no,196,43.1,1461.0,33.6,23.8,A,MAQ-U09-00401
+,no,0.0,Planta Demo,sí,147,44.3,1376.0,34.2,23.5,A,MAQ-U09-00402
+sin novedad,no,0.0,Planta Demo,no,224,21.1,1508.0,34.5,25.9,C,MAQ-U09-00403
+revisar,no,0.0,Planta Demo,no,21,51.6,1591.0,33.0,23.1,B,MAQ-U09-00404
+revisar,no,0.0,Planta Demo,sí,97,25.5,,37.2,27.7,B,MAQ-U09-00405
+sin novedad,no,0.0,Planta Demo,no,239,38.9,1259.0,36.6,26.4,B,MAQ-U09-00406
+sin novedad,no,0.0,Planta Demo,no,166,38.1,1521.0,32.9,24.6,A,MAQ-U09-00407
+revisar,no,0.0,Planta Demo,no,141,30.9,1572.0,36.4,26.7,A,MAQ-U09-00408
+revisar,no,0.0,Planta Demo,no,139,36.0,1683.0,34.6,24.3,C,MAQ-U09-00409
+,no,0.0,Planta Demo,sí,138,41.1,1311.0,33.7,23.0,A,MAQ-U09-00410
+revisar,sí,4.2,Planta Demo,sí,175,53.7,,35.8,26.2,C,MAQ-U09-00411
+revisar,no,0.0,Planta Demo,sí,23,55.4,1420.0,34.1,24.2,B,MAQ-U09-00412
+revisar,no,0.0,Planta Demo,sí,232,26.1,1561.0,37.6,28.5,C,MAQ-U09-00413
+sin novedad,sí,3.4,Planta Demo,no,206,51.8,1398.0,38.9,28.3,A,MAQ-U09-00414
+,no,0.0,Planta Demo,no,79,33.0,1309.0,35.3,26.2,A,MAQ-U09-00415
+sin novedad,no,0.0,Planta Demo,sí,4,43.1,1411.0,37.4,27.6,A,MAQ-U09-00416
+revisar,no,0.0,Planta Demo,no,40,36.4,1584.0,38.7,28.9,A,MAQ-U09-00417
+sin novedad,no,0.0,Planta Demo,sí,130,31.2,1800.0,36.4,26.7,A,MAQ-U09-00418
+,no,0.0,Planta Demo,sí,132,37.6,1438.0,32.1,22.0,C,MAQ-U09-00419
+sin novedad,no,0.0,Planta Demo,no,193,41.2,1479.0,34.8,25.2,B,MAQ-U09-00420
+sin novedad,no,0.0,Planta Demo,no,87,36.9,1372.0,33.9,23.4,A,MAQ-U09-00421
+,no,0.0,Planta Demo,sí,70,59.4,1170.0,34.9,26.1,A,MAQ-U09-00422
+,no,0.0,Planta Demo,no,48,32.4,1482.0,31.3,20.2,C,MAQ-U09-00423
+revisar,no,0.0,Planta Demo,sí,92,41.5,1298.0,34.5,24.8,B,MAQ-U09-00424
+sin novedad,no,0.0,Planta Demo,sí,60,51.5,,33.8,24.4,A,MAQ-U09-00425
+sin novedad,sí,0.3,Planta Demo,sí,226,33.4,1364.0,32.5,22.4,A,MAQ-U09-00426
+revisar,no,0.0,Planta Demo,no,16,35.1,1653.0,35.5,26.4,C,MAQ-U09-00427
+,no,0.0,Planta Demo,no,177,30.2,1315.0,35.1,25.6,A,MAQ-U09-00428
+,sí,13.5,Planta Demo,sí,78,47.0,1102.0,32.9,24.4,A,MAQ-U09-00429
+sin novedad,no,0.0,Planta Demo,no,81,53.2,1509.0,33.6,25.4,A,MAQ-U09-00430
+,sí,17.4,Planta Demo,no,197,36.5,1154.0,33.4,23.0,B,MAQ-U09-00431
+,no,0.0,Planta Demo,sí,80,38.7,1492.0,37.3,28.5,A,MAQ-U09-00432
+sin novedad,no,0.0,Planta Demo,sí,5,52.4,1289.0,37.1,26.2,B,MAQ-U09-00433
+revisar,no,0.0,Planta Demo,no,59,48.7,1358.0,30.2,21.4,A,MAQ-U09-00434
+revisar,no,0.0,Planta Demo,no,10,44.1,1227.0,36.2,25.1,A,MAQ-U09-00435
+,sí,4.6,Planta Demo,no,199,44.0,1375.0,36.4,26.6,A,MAQ-U09-00436
+,no,0.0,Planta Demo,no,234,40.9,1326.0,37.3,25.9,A,MAQ-U09-00437
+revisar,no,0.0,Planta Demo,sí,91,46.0,1543.0,33.7,22.8,B,MAQ-U09-00438
+sin novedad,no,0.0,Planta Demo,no,41,44.3,1592.0,32.5,24.8,A,MAQ-U09-00439
+revisar,no,0.0,Planta Demo,no,55,49.0,1763.0,31.6,21.2,A,MAQ-U09-00440
+revisar,no,0.0,Planta Demo,no,208,46.5,1457.0,33.8,23.6,A,MAQ-U09-00441
+sin novedad,no,0.0,Planta Demo,sí,210,26.4,1500.0,36.3,25.7,C,MAQ-U09-00442
+revisar,no,0.0,Planta Demo,no,10,40.0,1664.0,31.5,22.1,A,MAQ-U09-00443
+sin novedad,no,0.0,Planta Demo,no,38,53.0,1606.0,29.8,17.7,A,MAQ-U09-00444
+revisar,no,0.0,Planta Demo,no,83,31.4,1850.0,34.2,25.1,B,MAQ-U09-00445
+revisar,no,0.0,Planta Demo,no,114,37.2,1456.0,33.1,23.9,B,MAQ-U09-00446
+,no,0.0,Planta Demo,no,168,30.6,1491.0,37.8,26.2,A,MAQ-U09-00447
+revisar,no,0.0,Planta Demo,no,84,39.3,1749.0,35.1,25.4,A,MAQ-U09-00448
+,no,0.0,Planta Demo,no,69,31.2,1670.0,34.1,23.8,C,MAQ-U09-00449
+sin novedad,no,0.0,Planta Demo,sí,164,41.0,1585.0,33.4,24.6,C,MAQ-U09-00450
+revisar,no,0.0,Planta Demo,no,183,26.0,1578.0,37.4,26.3,B,MAQ-U09-00451
+,no,0.0,Planta Demo,no,0,41.4,1459.0,39.4,28.8,A,MAQ-U09-00452
+sin novedad,no,0.0,Planta Demo,sí,140,36.8,1366.0,34.5,24.6,B,MAQ-U09-00453
+sin novedad,no,0.0,Planta Demo,sí,29,47.9,,35.8,26.6,A,MAQ-U09-00454
+sin novedad,no,0.0,Planta Demo,no,148,44.4,1444.0,35.0,24.8,B,MAQ-U09-00455
+revisar,no,0.0,Planta Demo,no,234,36.7,1388.0,33.1,23.3,B,MAQ-U09-00456
+,no,0.0,Planta Demo,sí,193,29.3,1392.0,30.6,21.9,B,MAQ-U09-00457
+revisar,no,0.0,Planta Demo,no,103,32.4,1492.0,32.5,23.8,A,MAQ-U09-00458
+revisar,no,0.0,Planta Demo,no,132,33.4,1546.0,37.7,28.3,B,MAQ-U09-00459
+revisar,no,0.0,Planta Demo,no,224,44.1,1701.0,34.0,24.0,A,MAQ-U09-00460
+revisar,no,0.0,Planta Demo,sí,12,43.5,1191.0,33.7,23.0,B,MAQ-U09-00461
+sin novedad,no,0.0,Planta Demo,sí,188,35.8,1632.0,32.3,22.9,C,MAQ-U09-00462
+sin novedad,no,0.0,Planta Demo,no,122,49.5,1463.0,34.0,24.5,B,MAQ-U09-00463
+revisar,no,0.0,Planta Demo,no,62,48.8,1733.0,35.0,24.2,A,MAQ-U09-00464
+,no,0.0,Planta Demo,no,82,20.2,1466.0,32.1,22.2,A,MAQ-U09-00465
+revisar,no,0.0,Planta Demo,sí,109,43.5,1814.0,37.1,27.2,C,MAQ-U09-00466
+sin novedad,sí,3.6,Planta Demo,sí,222,37.5,1519.0,34.7,24.9,B,MAQ-U09-00467
+,no,0.0,Planta Demo,no,134,35.0,1756.0,36.3,25.8,C,MAQ-U09-00468
+sin novedad,sí,4.2,Planta Demo,no,196,44.3,1738.0,33.0,24.7,A,MAQ-U09-00469
+,no,0.0,Planta Demo,no,44,42.4,1670.0,37.1,26.9,A,MAQ-U09-00470
+,sí,8.6,Planta Demo,no,184,51.9,1410.0,34.0,25.3,C,MAQ-U09-00471
+revisar,no,0.0,Planta Demo,sí,205,35.3,1475.0,31.4,23.0,C,MAQ-U09-00472
+sin novedad,no,0.0,Planta Demo,sí,143,48.8,1536.0,36.7,25.6,A,MAQ-U09-00473
+revisar,sí,14.9,Planta Demo,sí,191,46.5,1455.0,32.4,22.5,C,MAQ-U09-00474
+,no,0.0,Planta Demo,no,7,37.1,1607.0,35.1,25.1,A,MAQ-U09-00475
+,no,0.0,Planta Demo,no,79,40.1,1516.0,32.8,23.5,C,MAQ-U09-00476
+,no,0.0,Planta Demo,no,83,52.2,1403.0,38.7,26.4,A,MAQ-U09-00477
+sin novedad,sí,4.0,Planta Demo,no,226,47.1,1302.0,35.2,25.7,C,MAQ-U09-00478
+revisar,no,0.0,Planta Demo,no,115,35.9,1688.0,34.1,24.9,C,MAQ-U09-00479
+,no,0.0,Planta Demo,no,90,54.2,1658.0,36.3,25.0,A,MAQ-U09-00480
+,no,0.0,Planta Demo,sí,96,28.7,1549.0,33.0,22.8,A,MAQ-U09-00481
+revisar,no,0.0,Planta Demo,no,86,37.3,1406.0,33.9,23.3,A,MAQ-U09-00482
+,no,0.0,Planta Demo,no,247,31.0,1581.0,36.7,27.3,C,MAQ-U09-00483
+sin novedad,no,0.0,Planta Demo,sí,10,36.0,1688.0,38.9,29.0,C,MAQ-U09-00484
+revisar,no,0.0,Planta Demo,no,74,11.4,1186.0,36.3,23.6,B,MAQ-U09-00485
+,no,0.0,Planta Demo,sí,75,37.9,1058.0,34.6,23.8,B,MAQ-U09-00486
+revisar,no,0.0,Planta Demo,no,62,56.9,1718.0,35.5,25.1,B,MAQ-U09-00487
+revisar,no,0.0,Planta Demo,no,178,28.6,,32.8,21.2,B,MAQ-U09-00488
+revisar,no,0.0,Planta Demo,sí,106,39.7,1546.0,35.4,23.9,A,MAQ-U09-00489
+sin novedad,no,0.0,Planta Demo,sí,190,27.2,1558.0,34.8,25.5,A,MAQ-U09-00490
+revisar,no,0.0,Planta Demo,no,177,46.9,1608.0,37.1,24.9,A,MAQ-U09-00491
+,no,0.0,Planta Demo,no,155,38.5,1483.0,31.6,21.0,A,MAQ-U09-00492
+sin novedad,no,0.0,Planta Demo,sí,115,30.9,1535.0,37.6,27.3,B,MAQ-U09-00493
+revisar,no,0.0,Planta Demo,sí,227,31.9,1472.0,36.1,25.4,B,MAQ-U09-00494
+,no,0.0,Planta Demo,sí,116,41.4,1645.0,37.2,26.4,B,MAQ-U09-00495
+sin novedad,no,0.0,Planta Demo,no,72,53.2,1701.0,38.4,28.4,C,MAQ-U09-00496
+,sí,3.7,Planta Demo,sí,244,62.0,1729.0,34.4,24.4,A,MAQ-U09-00497
+revisar,no,0.0,Planta Demo,no,228,39.9,1643.0,36.3,26.2,A,MAQ-U09-00498
+sin novedad,sí,3.7,Planta Demo,no,234,50.0,1561.0,39.1,28.7,C,MAQ-U09-00499
+sin novedad,no,0.0,Planta Demo,no,88,28.3,1396.0,40.1,26.9,A,MAQ-U09-00500
+sin novedad,no,0.0,Planta Demo,no,157,15.8,1615.0,34.1,26.1,A,MAQ-U09-00501
+revisar,no,0.0,Planta Demo,no,223,40.6,1487.0,34.3,22.0,A,MAQ-U09-00502
+,no,0.0,Planta Demo,no,41,29.5,1359.0,33.9,25.7,C,MAQ-U09-00503
+sin novedad,no,0.0,Planta Demo,sí,218,35.7,1578.0,34.1,23.2,C,MAQ-U09-00504
+revisar,no,0.0,Planta Demo,sí,76,39.3,1309.0,35.2,26.5,B,MAQ-U09-00505
+revisar,sí,2.8,Planta Demo,no,146,43.1,1661.0,31.8,22.4,B,MAQ-U09-00506
+sin novedad,no,0.0,Planta Demo,sí,238,50.5,1574.0,36.2,25.8,C,MAQ-U09-00507
+revisar,no,0.0,Planta Demo,sí,123,48.8,1657.0,32.6,23.8,A,MAQ-U09-00508
+revisar,sí,4.7,Planta Demo,no,103,62.0,1403.0,37.3,26.8,C,MAQ-U09-00509
+revisar,no,0.0,Planta Demo,sí,33,37.1,1387.0,33.3,23.7,A,MAQ-U09-00510
+sin novedad,no,0.0,Planta Demo,no,189,49.4,1447.0,32.7,23.0,A,MAQ-U09-00511
+revisar,no,0.0,Planta Demo,no,147,29.9,1692.0,37.7,25.6,C,MAQ-U09-00512
+sin novedad,sí,1.5,Planta Demo,sí,161,41.4,1363.0,35.6,25.7,A,MAQ-U09-00513
+,no,0.0,Planta Demo,no,60,33.5,1633.0,30.9,20.9,B,MAQ-U09-00514
+sin novedad,no,0.0,Planta Demo,no,207,27.5,1336.0,37.3,27.4,B,MAQ-U09-00515
+,no,0.0,Planta Demo,no,139,45.1,,34.6,25.3,B,MAQ-U09-00516
+,sí,9.6,Planta Demo,no,231,34.7,1317.0,36.8,26.7,A,MAQ-U09-00517
+sin novedad,no,0.0,Planta Demo,no,190,33.3,1760.0,36.7,26.1,B,MAQ-U09-00518
+sin novedad,no,0.0,Planta Demo,sí,76,42.3,1511.0,32.6,22.7,A,MAQ-U09-00519
+,no,0.0,Planta Demo,no,6,48.3,1588.0,38.6,28.2,A,MAQ-U09-00520
+revisar,no,0.0,Planta Demo,sí,20,51.7,1790.0,33.3,24.5,B,MAQ-U09-00521
+sin novedad,no,0.0,Planta Demo,no,100,44.7,1351.0,36.5,25.8,B,MAQ-U09-00522
+sin novedad,no,0.0,Planta Demo,no,227,30.8,1736.0,33.5,25.4,B,MAQ-U09-00523
+,no,0.0,Planta Demo,no,36,25.5,1553.0,34.7,23.2,C,MAQ-U09-00524
+revisar,sí,1.4,Planta Demo,no,35,46.9,1081.0,34.9,25.9,A,MAQ-U09-00525
+sin novedad,no,0.0,Planta Demo,no,227,42.3,1109.0,34.9,25.3,A,MAQ-U09-00526
+,no,0.0,Planta Demo,no,141,46.5,1374.0,34.8,24.7,C,MAQ-U09-00527
+sin novedad,no,0.0,Planta Demo,no,57,56.0,1770.0,38.1,28.9,B,MAQ-U09-00528
+,no,0.0,Planta Demo,sí,60,51.6,1626.0,34.4,24.8,A,MAQ-U09-00529
+revisar,no,0.0,Planta Demo,sí,204,51.7,1653.0,36.5,27.8,A,MAQ-U09-00530
+,no,0.0,Planta Demo,no,140,22.2,1463.0,34.9,24.9,A,MAQ-U09-00531
+,no,0.0,Planta Demo,no,130,12.2,1091.0,34.4,24.5,B,MAQ-U09-00532
+,no,0.0,Planta Demo,sí,116,47.6,1761.0,34.2,23.9,C,MAQ-U09-00533
+revisar,no,0.0,Planta Demo,sí,128,44.1,1479.0,36.8,27.0,A,MAQ-U09-00534
+sin novedad,sí,11.3,Planta Demo,no,228,51.4,,34.5,24.9,A,MAQ-U09-00535
+,sí,7.4,Planta Demo,no,241,47.1,,31.7,22.5,C,MAQ-U09-00536
+,sí,3.1,Planta Demo,no,198,32.1,1461.0,35.1,23.9,C,MAQ-U09-00537
+,no,0.0,Planta Demo,no,18,37.2,1426.0,33.2,23.8,A,MAQ-U09-00538
+,no,0.0,Planta Demo,sí,194,67.7,1573.0,33.5,24.2,A,MAQ-U09-00539
+,no,0.0,Planta Demo,no,17,42.4,1704.0,37.2,28.2,C,MAQ-U09-00540
+sin novedad,no,0.0,Planta Demo,sí,151,29.1,1602.0,35.2,24.2,A,MAQ-U09-00541
+revisar,no,0.0,Planta Demo,no,170,44.9,1361.0,36.7,26.3,C,MAQ-U09-00542
+revisar,no,0.0,Planta Demo,no,158,25.1,1445.0,36.8,24.5,A,MAQ-U09-00543
+sin novedad,no,0.0,Planta Demo,no,112,44.9,1584.0,33.1,22.4,A,MAQ-U09-00544
+,no,0.0,Planta Demo,sí,207,41.2,1417.0,39.1,26.9,B,MAQ-U09-00545
+sin novedad,no,0.0,Planta Demo,no,35,36.9,1488.0,34.2,23.2,A,MAQ-U09-00546
+,sí,3.9,Planta Demo,no,157,31.6,1749.0,32.4,25.3,B,MAQ-U09-00547
+sin novedad,no,0.0,Planta Demo,sí,84,39.1,1454.0,34.4,24.2,B,MAQ-U09-00548
+revisar,no,0.0,Planta Demo,sí,194,31.6,1346.0,38.4,27.2,A,MAQ-U09-00549
+sin novedad,no,0.0,Planta Demo,no,55,33.1,1382.0,33.6,23.1,B,MAQ-U09-00550
+sin novedad,no,0.0,Planta Demo,no,48,30.5,1307.0,33.8,24.6,A,MAQ-U09-00551
+sin novedad,no,0.0,Planta Demo,sí,220,39.2,1150.0,32.3,22.7,B,MAQ-U09-00552
+revisar,no,0.0,Planta Demo,no,74,42.1,1607.0,35.4,26.6,A,MAQ-U09-00553
+revisar,no,0.0,Planta Demo,no,249,33.2,1596.0,37.0,27.9,A,MAQ-U09-00554
+revisar,no,0.0,Planta Demo,no,24,30.6,1548.0,31.5,21.4,A,MAQ-U09-00555
+sin novedad,no,0.0,Planta Demo,sí,176,11.4,1578.0,34.5,24.3,C,MAQ-U09-00556
+,no,0.0,Planta Demo,no,168,32.3,1333.0,34.1,24.7,A,MAQ-U09-00557
+,no,0.0,Planta Demo,sí,183,43.7,1843.0,36.9,26.5,B,MAQ-U09-00558
+sin novedad,no,0.0,Planta Demo,sí,220,23.3,1638.0,34.3,24.5,A,MAQ-U09-00559
+,no,0.0,Planta Demo,no,18,34.2,1761.0,33.5,24.9,B,MAQ-U09-00560
+sin novedad,no,0.0,Planta Demo,sí,28,49.1,1604.0,35.0,24.1,A,MAQ-U09-00561
+,sí,2.5,Planta Demo,no,249,47.7,1492.0,33.4,23.6,A,MAQ-U09-00562
+revisar,no,0.0,Planta Demo,no,201,35.3,1794.0,34.6,24.0,A,MAQ-U09-00563
+sin novedad,no,0.0,Planta Demo,no,226,35.4,1537.0,34.2,21.9,B,MAQ-U09-00564
+revisar,no,0.0,Planta Demo,no,200,23.3,1369.0,33.5,23.7,A,MAQ-U09-00565
+,no,0.0,Planta Demo,no,195,54.8,1313.0,36.7,25.8,A,MAQ-U09-00566
+sin novedad,no,0.0,Planta Demo,sí,20,51.9,1410.0,37.3,26.5,C,MAQ-U09-00567
+sin novedad,no,0.0,Planta Demo,no,208,46.6,1378.0,33.1,22.9,A,MAQ-U09-00568
+sin novedad,no,0.0,Planta Demo,no,217,16.3,1342.0,33.4,23.7,B,MAQ-U09-00569
+sin novedad,no,0.0,Planta Demo,no,100,42.7,1742.0,35.0,26.3,C,MAQ-U09-00570
+revisar,no,0.0,Planta Demo,no,67,41.8,1773.0,36.8,25.6,A,MAQ-U09-00571
+,no,0.0,Planta Demo,no,166,43.4,,37.0,27.2,A,MAQ-U09-00572
+revisar,sí,5.8,Planta Demo,sí,242,42.2,1497.0,38.1,28.1,A,MAQ-U09-00573
+revisar,no,0.0,Planta Demo,no,16,49.8,1514.0,34.8,24.4,B,MAQ-U09-00574
+sin novedad,no,0.0,Planta Demo,no,164,32.9,1259.0,33.1,23.3,B,MAQ-U09-00575
+sin novedad,no,0.0,Planta Demo,no,114,48.5,1535.0,39.4,30.3,C,MAQ-U09-00576
+revisar,no,0.0,Planta Demo,no,233,43.6,1305.0,32.7,21.6,C,MAQ-U09-00577
+sin novedad,no,0.0,Planta Demo,no,49,43.8,1525.0,35.5,25.5,A,MAQ-U09-00578
+sin novedad,no,0.0,Planta Demo,sí,217,40.0,1451.0,32.8,23.0,B,MAQ-U09-00579
+,no,0.0,Planta Demo,no,106,47.2,1760.0,34.2,22.8,A,MAQ-U09-00580
+sin novedad,no,0.0,Planta Demo,no,144,30.2,1305.0,35.2,24.8,C,MAQ-U09-00581
+,no,0.0,Planta Demo,no,5,23.9,1374.0,38.7,28.0,C,MAQ-U09-00582
+revisar,no,0.0,Planta Demo,no,160,50.7,1680.0,36.5,25.3,C,MAQ-U09-00583
+sin novedad,no,0.0,Planta Demo,sí,61,44.6,,39.1,27.5,B,MAQ-U09-00584
+,no,0.0,Planta Demo,sí,107,31.1,1285.0,36.3,25.6,A,MAQ-U09-00585
+revisar,no,0.0,Planta Demo,no,245,36.3,1573.0,33.9,22.5,A,MAQ-U09-00586
+,no,0.0,Planta Demo,no,199,31.7,1630.0,34.6,25.5,B,MAQ-U09-00587
+revisar,no,0.0,Planta Demo,no,223,36.8,1668.0,32.1,21.9,A,MAQ-U09-00588
+revisar,no,0.0,Planta Demo,no,99,15.8,1311.0,33.2,23.8,C,MAQ-U09-00589
+sin novedad,no,0.0,Planta Demo,no,134,45.1,1557.0,38.2,27.0,C,MAQ-U09-00590
+,sí,4.2,Planta Demo,no,211,49.9,1094.0,36.8,26.2,B,MAQ-U09-00591
+,no,0.0,Planta Demo,no,123,43.8,1601.0,34.6,24.6,A,MAQ-U09-00592
+,no,0.0,Planta Demo,no,212,38.5,1279.0,35.2,24.7,B,MAQ-U09-00593
+sin novedad,no,0.0,Planta Demo,no,215,26.4,1433.0,39.0,27.4,B,MAQ-U09-00594
+revisar,no,0.0,Planta Demo,no,148,50.7,1346.0,32.5,24.3,A,MAQ-U09-00595
+sin novedad,no,0.0,Planta Demo,no,79,39.6,1194.0,30.7,22.3,A,MAQ-U09-00596
+sin novedad,no,0.0,Planta Demo,sí,56,50.5,,38.5,27.8,B,MAQ-U09-00597
+sin novedad,sí,4.3,Planta Demo,sí,228,44.6,1752.0,35.0,24.3,C,MAQ-U09-00598
+sin novedad,sí,4.6,Planta Demo,sí,195,49.7,1332.0,35.3,25.7,C,MAQ-U09-00599
+,no,0.0,Planta Demo,no,143,8.3,1684.0,34.9,24.4,C,MAQ-U09-00600
+,no,0.0,Planta Demo,sí,224,43.6,1337.0,35.2,24.9,C,MAQ-U09-00601
+,no,0.0,Planta Demo,sí,114,29.2,1166.0,31.7,22.2,A,MAQ-U09-00602
+sin novedad,no,0.0,Planta Demo,sí,88,39.3,1610.0,35.7,24.8,B,MAQ-U09-00603
+revisar,no,0.0,Planta Demo,sí,139,29.1,1707.0,36.0,25.9,B,MAQ-U09-00604
+,no,0.0,Planta Demo,no,123,55.8,1322.0,37.1,26.3,C,MAQ-U09-00605
+revisar,sí,1.9,Planta Demo,no,197,38.3,1247.0,41.3,30.7,A,MAQ-U09-00606
+sin novedad,no,0.0,Planta Demo,no,50,30.8,1326.0,36.0,25.8,B,MAQ-U09-00607
+revisar,no,0.0,Planta Demo,no,188,42.9,1469.0,36.0,26.5,C,MAQ-U09-00608
+revisar,sí,12.9,Planta Demo,sí,97,34.1,1235.0,34.2,25.9,B,MAQ-U09-00609
+sin novedad,no,0.0,Planta Demo,no,84,39.8,1580.0,31.6,21.2,B,MAQ-U09-00610
+,sí,5.6,Planta Demo,no,47,46.1,1572.0,33.8,23.6,A,MAQ-U09-00611
+revisar,no,0.0,Planta Demo,sí,106,44.6,1406.0,34.2,25.3,A,MAQ-U09-00612
+revisar,no,0.0,Planta Demo,no,175,38.1,889.0,34.2,24.5,A,MAQ-U09-00613
+,no,0.0,Planta Demo,no,225,31.0,1557.0,34.5,24.1,A,MAQ-U09-00614
+,no,0.0,Planta Demo,no,179,35.6,1812.0,33.9,23.7,C,MAQ-U09-00615
+revisar,no,0.0,Planta Demo,no,146,39.1,1559.0,36.0,25.0,A,MAQ-U09-00616
+revisar,no,0.0,Planta Demo,sí,176,43.1,1572.0,33.8,23.4,B,MAQ-U09-00617
+sin novedad,no,0.0,Planta Demo,no,154,31.5,1453.0,35.2,24.6,B,MAQ-U09-00618
+,no,0.0,Planta Demo,sí,80,52.2,1533.0,35.5,25.5,A,MAQ-U09-00619
+revisar,no,0.0,Planta Demo,no,37,30.2,1627.0,31.6,21.8,A,MAQ-U09-00620
+sin novedad,no,0.0,Planta Demo,no,170,56.9,1819.0,32.6,22.5,A,MAQ-U09-00621
+sin novedad,no,0.0,Planta Demo,no,90,53.2,1637.0,33.9,24.8,B,MAQ-U09-00622
+,sí,6.0,Planta Demo,sí,234,50.5,1232.0,34.4,23.5,A,MAQ-U09-00623
+,no,0.0,Planta Demo,no,86,36.3,1183.0,36.4,26.4,A,MAQ-U09-00624
+,no,0.0,Planta Demo,no,201,32.4,1464.0,33.6,22.7,A,MAQ-U09-00625
+revisar,sí,3.8,Planta Demo,sí,167,39.5,1449.0,37.7,26.4,A,MAQ-U09-00626
+,sí,9.8,Planta Demo,no,222,47.0,1438.0,34.9,24.4,C,MAQ-U09-00627
+revisar,no,0.0,Planta Demo,sí,73,55.6,1360.0,35.6,26.5,A,MAQ-U09-00628
+revisar,no,0.0,Planta Demo,no,102,33.7,1578.0,31.7,23.0,B,MAQ-U09-00629
+sin novedad,no,0.0,Planta Demo,sí,112,48.2,1420.0,36.8,26.3,B,MAQ-U09-00630
+revisar,no,0.0,Planta Demo,no,176,29.3,1406.0,35.8,26.8,B,MAQ-U09-00631
+,no,0.0,Planta Demo,sí,91,44.5,1340.0,38.6,28.4,B,MAQ-U09-00632
+sin novedad,no,0.0,Planta Demo,no,173,33.8,1628.0,32.7,24.6,A,MAQ-U09-00633
+,no,0.0,Planta Demo,sí,223,54.2,1564.0,35.6,24.5,C,MAQ-U09-00634
+sin novedad,no,0.0,Planta Demo,no,172,55.8,1680.0,36.3,25.5,A,MAQ-U09-00635
+,sí,1.4,Planta Demo,no,168,41.5,1567.0,37.8,27.5,A,MAQ-U09-00636
+,sí,12.8,Planta Demo,no,187,50.0,1641.0,33.5,23.2,A,MAQ-U09-00637
+sin novedad,no,0.0,Planta Demo,sí,77,38.3,1791.0,35.1,26.0,A,MAQ-U09-00638
+sin novedad,no,0.0,Planta Demo,sí,102,33.4,1475.0,34.0,25.0,B,MAQ-U09-00639
+revisar,no,0.0,Planta Demo,sí,220,43.4,1649.0,32.7,22.8,A,MAQ-U09-00640
+,no,0.0,Planta Demo,no,127,51.2,949.0,33.6,24.3,B,MAQ-U09-00641
+sin novedad,no,0.0,Planta Demo,sí,13,42.2,1287.0,39.4,28.8,B,MAQ-U09-00642
+sin novedad,no,0.0,Planta Demo,no,78,43.5,1244.0,34.3,23.8,A,MAQ-U09-00643
+revisar,no,0.0,Planta Demo,no,219,29.1,1798.0,35.7,24.4,B,MAQ-U09-00644
+,sí,9.0,Planta Demo,no,20,23.0,1362.0,36.4,25.7,A,MAQ-U09-00645
+sin novedad,no,0.0,Planta Demo,sí,72,31.2,1560.0,36.4,26.1,A,MAQ-U09-00646
+revisar,sí,4.6,Planta Demo,no,235,41.1,1234.0,34.0,24.8,A,MAQ-U09-00647
+revisar,no,0.0,Planta Demo,no,208,43.0,1488.0,34.6,23.1,B,MAQ-U09-00648
+revisar,no,0.0,Planta Demo,no,144,56.2,1410.0,34.1,23.3,A,MAQ-U09-00649
+,no,0.0,Planta Demo,sí,29,43.4,1894.0,36.6,26.3,B,MAQ-U09-00650
+sin novedad,no,0.0,Planta Demo,sí,82,34.5,1536.0,31.0,20.4,A,MAQ-U09-00651
+,no,0.0,Planta Demo,no,23,34.2,1377.0,37.5,27.5,B,MAQ-U09-00652
+sin novedad,no,0.0,Planta Demo,no,20,48.0,1719.0,35.8,25.5,C,MAQ-U09-00653
+,no,0.0,Planta Demo,sí,57,48.5,1687.0,35.5,25.7,A,MAQ-U09-00654
+sin novedad,sí,8.9,Planta Demo,no,196,47.1,1724.0,39.0,28.3,A,MAQ-U09-00655
+,no,0.0,Planta Demo,no,96,25.0,1557.0,36.6,27.6,C,MAQ-U09-00656
+,no,0.0,Planta Demo,no,218,45.8,1680.0,38.2,27.3,A,MAQ-U09-00657
+revisar,no,0.0,Planta Demo,no,146,45.9,1551.0,35.5,26.2,A,MAQ-U09-00658
+revisar,no,0.0,Planta Demo,no,220,62.2,1908.0,37.9,29.1,B,MAQ-U09-00659
+,sí,2.2,Planta Demo,no,208,28.7,1792.0,35.1,25.0,A,MAQ-U09-00660
+sin novedad,no,0.0,Planta Demo,no,238,24.4,1418.0,35.6,25.3,A,MAQ-U09-00661
+sin novedad,sí,6.0,Planta Demo,no,199,33.3,1482.0,37.7,26.9,B,MAQ-U09-00662
+revisar,no,0.0,Planta Demo,no,222,24.8,1192.0,36.7,26.2,A,MAQ-U09-00663
+revisar,no,0.0,Planta Demo,no,57,36.7,1395.0,32.7,21.7,B,MAQ-U09-00664
+revisar,no,0.0,Planta Demo,no,62,32.2,1402.0,34.9,24.0,B,MAQ-U09-00665
+revisar,no,0.0,Planta Demo,no,190,32.9,1492.0,33.2,22.2,C,MAQ-U09-00666
+revisar,no,0.0,Planta Demo,sí,42,41.7,,34.3,25.0,C,MAQ-U09-00667
+,no,0.0,Planta Demo,sí,17,34.8,1526.0,34.7,23.9,A,MAQ-U09-00668
+revisar,no,0.0,Planta Demo,no,233,18.5,1748.0,37.9,26.2,C,MAQ-U09-00669
+sin novedad,sí,20.1,Planta Demo,sí,137,36.2,1291.0,35.8,25.6,A,MAQ-U09-00670
+revisar,no,0.0,Planta Demo,no,167,45.0,1875.0,33.9,24.7,A,MAQ-U09-00671
+sin novedad,no,0.0,Planta Demo,no,82,35.2,1475.0,33.1,23.3,A,MAQ-U09-00672
+sin novedad,sí,1.6,Planta Demo,sí,189,50.3,1538.0,36.7,26.1,C,MAQ-U09-00673
+revisar,no,0.0,Planta Demo,no,41,40.0,,33.7,22.8,C,MAQ-U09-00674
+,no,0.0,Planta Demo,no,162,38.3,1563.0,35.3,23.3,C,MAQ-U09-00675
+sin novedad,no,0.0,Planta Demo,no,246,35.6,1366.0,39.0,27.2,A,MAQ-U09-00676
+,no,0.0,Planta Demo,no,155,45.0,1538.0,34.9,25.3,B,MAQ-U09-00677
+sin novedad,no,0.0,Planta Demo,no,14,40.9,1463.0,36.6,27.2,B,MAQ-U09-00678
+revisar,sí,3.5,Planta Demo,sí,213,52.6,1645.0,34.4,24.1,A,MAQ-U09-00679
+,no,0.0,Planta Demo,no,209,31.1,1636.0,35.4,25.2,A,MAQ-U09-00680
+revisar,no,0.0,Planta Demo,no,165,48.5,1233.0,31.1,23.5,B,MAQ-U09-00681
+revisar,no,0.0,Planta Demo,no,139,41.1,1475.0,35.5,25.8,A,MAQ-U09-00682
+revisar,no,0.0,Planta Demo,no,224,44.5,1218.0,36.3,25.7,C,MAQ-U09-00683
+sin novedad,no,0.0,Planta Demo,no,107,29.5,1668.0,35.3,25.5,B,MAQ-U09-00684
+sin novedad,no,0.0,Planta Demo,sí,103,50.9,1416.0,33.6,25.2,A,MAQ-U09-00685
+sin novedad,no,0.0,Planta Demo,no,101,39.8,1730.0,30.2,21.1,B,MAQ-U09-00686
+revisar,no,0.0,Planta Demo,sí,178,42.7,1045.0,35.0,22.7,B,MAQ-U09-00687
+revisar,no,0.0,Planta Demo,sí,65,41.3,1539.0,35.2,25.3,B,MAQ-U09-00688
+revisar,no,0.0,Planta Demo,no,105,33.8,,30.7,20.6,A,MAQ-U09-00689
+sin novedad,no,0.0,Planta Demo,no,135,47.8,1671.0,34.7,23.6,B,MAQ-U09-00690
+revisar,no,0.0,Planta Demo,sí,50,51.0,1525.0,35.5,24.8,B,MAQ-U09-00691
+sin novedad,no,0.0,Planta Demo,no,101,34.3,1563.0,31.9,22.7,C,MAQ-U09-00692
+,no,0.0,Planta Demo,no,219,36.2,1406.0,36.4,24.8,A,MAQ-U09-00693
+sin novedad,no,0.0,Planta Demo,sí,4,43.2,1318.0,35.6,24.9,B,MAQ-U09-00694
+sin novedad,no,0.0,Planta Demo,no,48,31.1,1407.0,35.3,25.6,C,MAQ-U09-00695
+revisar,no,0.0,Planta Demo,sí,90,38.6,1571.0,36.2,25.8,A,MAQ-U09-00696
+sin novedad,no,0.0,Planta Demo,no,80,37.1,1495.0,34.4,23.6,A,MAQ-U09-00697
+,no,0.0,Planta Demo,no,72,52.6,1749.0,32.5,21.9,A,MAQ-U09-00698
+sin novedad,sí,1.5,Planta Demo,no,91,58.8,1480.0,37.0,25.9,A,MAQ-U09-00699
+,no,0.0,Planta Demo,no,191,31.2,1432.0,31.8,21.7,A,MAQ-U09-00700
+sin novedad,sí,3.7,Planta Demo,sí,243,48.5,1314.0,36.5,26.0,B,MAQ-U09-00701
+revisar,no,0.0,Planta Demo,sí,180,21.5,1369.0,33.1,23.4,B,MAQ-U09-00702
+revisar,no,0.0,Planta Demo,sí,54,40.5,1912.0,31.8,22.3,A,MAQ-U09-00703
+revisar,no,0.0,Planta Demo,no,125,34.5,1379.0,37.6,26.6,B,MAQ-U09-00704
+,no,0.0,Planta Demo,sí,98,17.6,1697.0,36.7,25.0,A,MAQ-U09-00705
+sin novedad,no,0.0,Planta Demo,no,69,33.6,1162.0,37.1,27.4,A,MAQ-U09-00706
+sin novedad,no,0.0,Planta Demo,sí,7,31.6,,32.7,22.3,A,MAQ-U09-00707
+,no,0.0,Planta Demo,no,85,39.0,1859.0,34.3,25.6,A,MAQ-U09-00708
+sin novedad,no,0.0,Planta Demo,sí,155,41.3,1331.0,34.8,24.0,A,MAQ-U09-00709
+revisar,no,0.0,Planta Demo,sí,52,33.7,1850.0,34.1,24.9,B,MAQ-U09-00710
+,sí,4.5,Planta Demo,sí,211,42.5,1407.0,33.0,22.7,A,MAQ-U09-00711
+,no,0.0,Planta Demo,sí,142,49.8,1281.0,33.3,23.9,A,MAQ-U09-00712
+revisar,no,0.0,Planta Demo,sí,212,33.0,1686.0,31.8,22.7,A,MAQ-U09-00713
+,no,0.0,Planta Demo,no,55,25.4,1312.0,38.2,28.9,B,MAQ-U09-00714
+,no,0.0,Planta Demo,no,24,46.3,1653.0,38.0,28.0,A,MAQ-U09-00715
+,no,0.0,Planta Demo,sí,135,53.6,1085.0,32.2,21.8,A,MAQ-U09-00716
+sin novedad,no,0.0,Planta Demo,no,97,27.2,1652.0,32.7,22.5,A,MAQ-U09-00717
+revisar,no,0.0,Planta Demo,sí,240,34.6,1447.0,33.5,22.4,A,MAQ-U09-00718
+sin novedad,no,0.0,Planta Demo,sí,6,40.8,1437.0,36.7,26.4,A,MAQ-U09-00719
+revisar,sí,9.5,Planta Demo,no,217,29.5,1500.0,33.8,23.8,A,MAQ-U09-00720
+revisar,no,0.0,Planta Demo,no,56,37.0,1710.0,32.6,22.0,A,MAQ-U09-00721
+sin novedad,no,0.0,Planta Demo,no,224,33.6,1567.0,35.7,25.7,B,MAQ-U09-00722
+revisar,no,0.0,Planta Demo,no,160,39.9,1532.0,33.6,23.7,A,MAQ-U09-00723
+sin novedad,no,0.0,Planta Demo,no,31,33.0,1489.0,34.3,24.4,A,MAQ-U09-00724
+revisar,no,0.0,Planta Demo,no,137,48.1,1161.0,34.9,25.3,B,MAQ-U09-00725
+,no,0.0,Planta Demo,no,76,39.2,1678.0,37.9,26.6,B,MAQ-U09-00726
+,no,0.0,Planta Demo,no,77,28.7,1427.0,35.6,25.3,A,MAQ-U09-00727
+,no,0.0,Planta Demo,sí,4,45.0,1596.0,35.8,25.6,A,MAQ-U09-00728
+sin novedad,no,0.0,Planta Demo,no,92,44.0,1328.0,35.2,25.2,A,MAQ-U09-00729
+,no,0.0,Planta Demo,no,172,43.7,1523.0,35.9,24.6,A,MAQ-U09-00730
+,sí,16.3,Planta Demo,no,146,37.1,1513.0,34.6,25.1,B,MAQ-U09-00731
+,sí,3.6,Planta Demo,sí,204,35.3,1222.0,33.8,23.6,C,MAQ-U09-00732
+sin novedad,no,0.0,Planta Demo,no,102,36.7,1571.0,35.3,25.0,C,MAQ-U09-00733
+,no,0.0,Planta Demo,no,3,44.9,1767.0,34.5,25.5,B,MAQ-U09-00734
+,no,0.0,Planta Demo,sí,92,56.3,1554.0,30.0,20.1,C,MAQ-U09-00735
+revisar,no,0.0,Planta Demo,no,4,27.4,1513.0,36.2,25.6,B,MAQ-U09-00736
+,no,0.0,Planta Demo,no,204,35.9,1887.0,40.7,28.6,C,MAQ-U09-00737
+,no,0.0,Planta Demo,sí,56,29.4,1722.0,34.5,24.2,A,MAQ-U09-00738
+,no,0.0,Planta Demo,no,76,31.2,1554.0,30.9,21.7,A,MAQ-U09-00739
+sin novedad,no,0.0,Planta Demo,no,24,27.3,1673.0,36.7,26.4,A,MAQ-U09-00740
+revisar,no,0.0,Planta Demo,no,110,38.5,1587.0,35.0,25.1,A,MAQ-U09-00741
+,sí,10.2,Planta Demo,no,175,57.5,1289.0,32.5,22.8,A,MAQ-U09-00742
+sin novedad,no,0.0,Planta Demo,no,167,41.2,1410.0,34.5,23.9,A,MAQ-U09-00743
+sin novedad,sí,4.5,Planta Demo,no,190,61.0,1357.0,35.5,24.5,A,MAQ-U09-00744
+revisar,no,0.0,Planta Demo,no,182,38.3,1644.0,37.6,26.8,A,MAQ-U09-00745
+sin novedad,sí,7.3,Planta Demo,sí,165,46.1,1511.0,33.7,23.5,C,MAQ-U09-00746
+,no,0.0,Planta Demo,no,104,41.9,1622.0,35.9,26.1,A,MAQ-U09-00747
+sin novedad,sí,4.2,Planta Demo,no,238,48.1,1404.0,35.8,24.6,C,MAQ-U09-00748
+sin novedad,no,0.0,Planta Demo,no,142,26.7,1487.0,36.2,25.9,B,MAQ-U09-00749
+,sí,2.5,Planta Demo,no,86,42.8,1471.0,35.0,26.7,A,MAQ-U09-00750
+sin novedad,no,0.0,Planta Demo,sí,155,35.2,1683.0,33.7,24.3,A,MAQ-U09-00751
+,no,0.0,Planta Demo,sí,96,24.6,1488.0,32.8,25.0,B,MAQ-U09-00752
+,no,0.0,Planta Demo,no,84,46.8,1157.0,30.0,22.2,A,MAQ-U09-00753
+,no,0.0,Planta Demo,no,51,38.2,1451.0,35.2,26.9,B,MAQ-U09-00754
+,no,0.0,Planta Demo,no,246,33.8,,28.6,19.6,A,MAQ-U09-00755
+sin novedad,no,0.0,Planta Demo,no,85,41.3,1376.0,36.3,25.8,A,MAQ-U09-00756
+revisar,no,0.0,Planta Demo,no,37,38.9,1038.0,38.2,27.4,A,MAQ-U09-00757
+,no,0.0,Planta Demo,no,176,40.2,1524.0,36.3,25.6,A,MAQ-U09-00758
+,no,0.0,Planta Demo,sí,179,41.5,1424.0,38.8,28.3,C,MAQ-U09-00759
+,no,0.0,Planta Demo,sí,68,45.3,1471.0,36.5,26.1,A,MAQ-U09-00760
+revisar,no,0.0,Planta Demo,no,53,50.8,1221.0,36.4,25.6,B,MAQ-U09-00761
+,no,0.0,Planta Demo,no,218,38.0,1767.0,35.1,25.9,B,MAQ-U09-00762
+sin novedad,no,0.0,Planta Demo,no,159,54.9,1390.0,34.9,25.8,A,MAQ-U09-00763
+revisar,no,0.0,Planta Demo,sí,127,42.0,1570.0,34.7,25.6,A,MAQ-U09-00764
+sin novedad,no,0.0,Planta Demo,no,88,47.6,1486.0,32.9,23.0,A,MAQ-U09-00765
+sin novedad,no,0.0,Planta Demo,no,91,49.0,1727.0,35.7,25.8,B,MAQ-U09-00766
+,no,0.0,Planta Demo,no,156,39.8,1675.0,32.8,23.1,A,MAQ-U09-00767
+sin novedad,no,0.0,Planta Demo,no,56,37.6,1414.0,34.4,25.1,A,MAQ-U09-00768
+,no,0.0,Planta Demo,sí,245,35.9,1674.0,31.9,23.7,A,MAQ-U09-00769
+revisar,no,0.0,Planta Demo,no,13,38.5,1436.0,34.9,25.9,B,MAQ-U09-00770
+sin novedad,no,0.0,Planta Demo,no,123,30.2,1705.0,37.9,25.4,B,MAQ-U09-00771
+revisar,no,0.0,Planta Demo,sí,55,42.0,1629.0,30.7,20.2,C,MAQ-U09-00772
+sin novedad,no,0.0,Planta Demo,no,88,38.8,1844.0,34.7,24.9,C,MAQ-U09-00773
+sin novedad,no,0.0,Planta Demo,no,233,36.5,1381.0,31.4,22.6,A,MAQ-U09-00774
+revisar,no,0.0,Planta Demo,sí,121,50.1,,35.7,23.8,B,MAQ-U09-00775
+,no,0.0,Planta Demo,no,244,40.7,1323.0,37.9,27.1,B,MAQ-U09-00776
+sin novedad,no,0.0,Planta Demo,no,27,41.6,1710.0,41.3,30.6,B,MAQ-U09-00777
+revisar,no,0.0,Planta Demo,no,232,22.6,1335.0,34.3,24.9,B,MAQ-U09-00778
+revisar,no,0.0,Planta Demo,no,98,40.3,1514.0,35.8,24.6,B,MAQ-U09-00779
+revisar,no,0.0,Planta Demo,no,112,39.2,1625.0,34.5,24.7,A,MAQ-U09-00780
+revisar,sí,3.4,Planta Demo,sí,182,45.2,1481.0,37.7,27.3,B,MAQ-U09-00781
+sin novedad,no,0.0,Planta Demo,sí,122,22.2,1642.0,32.9,23.5,A,MAQ-U09-00782
+revisar,sí,2.7,Planta Demo,sí,244,50.7,1306.0,37.0,26.2,A,MAQ-U09-00783
+,no,0.0,Planta Demo,no,35,38.2,1593.0,35.0,25.3,A,MAQ-U09-00784
+,no,0.0,Planta Demo,no,232,42.8,1748.0,35.4,23.9,A,MAQ-U09-00785
+,no,0.0,Planta Demo,sí,3,43.8,1165.0,34.9,25.6,A,MAQ-U09-00786
+sin novedad,no,0.0,Planta Demo,no,219,36.9,1387.0,35.2,26.1,A,MAQ-U09-00787
+sin novedad,no,0.0,Planta Demo,no,97,39.7,1417.0,38.3,28.1,C,MAQ-U09-00788
+,no,0.0,Planta Demo,sí,158,25.8,,37.1,26.3,A,MAQ-U09-00789
+,no,0.0,Planta Demo,no,112,21.0,1063.0,32.7,23.2,A,MAQ-U09-00790
+sin novedad,no,0.0,Planta Demo,sí,236,37.7,1542.0,34.1,24.0,C,MAQ-U09-00791
+revisar,no,0.0,Planta Demo,no,137,33.4,1590.0,33.0,24.0,A,MAQ-U09-00792
+revisar,no,0.0,Planta Demo,no,134,27.8,1515.0,34.6,23.9,A,MAQ-U09-00793
+sin novedad,sí,7.5,Planta Demo,sí,155,47.8,1427.0,33.5,25.1,B,MAQ-U09-00794
+revisar,no,0.0,Planta Demo,no,110,30.6,1500.0,37.8,26.3,A,MAQ-U09-00795
+,no,0.0,Planta Demo,no,211,40.6,1508.0,30.7,21.0,B,MAQ-U09-00796
+revisar,no,0.0,Planta Demo,no,187,52.1,1641.0,30.6,23.2,C,MAQ-U09-00797
+,sí,6.3,Planta Demo,sí,241,27.5,1408.0,32.3,22.8,A,MAQ-U09-00798
+sin novedad,no,0.0,Planta Demo,no,75,47.6,1378.0,30.9,20.8,B,MAQ-U09-00799
+,no,0.0,Planta Demo,no,119,47.0,1771.0,36.1,26.5,A,MAQ-U09-00800
+,no,0.0,Planta Demo,sí,158,38.4,1365.0,38.5,26.2,A,MAQ-U09-00801
+sin novedad,sí,3.9,Planta Demo,sí,207,49.6,1501.0,34.3,25.5,C,MAQ-U09-00802
+,sí,8.6,Planta Demo,sí,140,28.3,1455.0,36.1,25.2,B,MAQ-U09-00803
+sin novedad,no,0.0,Planta Demo,no,112,50.5,1451.0,32.4,22.3,A,MAQ-U09-00804
+revisar,no,0.0,Planta Demo,no,238,49.1,1778.0,39.9,28.0,A,MAQ-U09-00805
+,sí,1.9,Planta Demo,no,195,34.8,1242.0,34.9,25.1,A,MAQ-U09-00806
+,no,0.0,Planta Demo,sí,136,28.1,1458.0,32.6,22.6,A,MAQ-U09-00807
+,no,0.0,Planta Demo,no,119,43.3,1926.0,36.8,26.4,B,MAQ-U09-00808
+,sí,5.6,Planta Demo,sí,178,45.5,1482.0,35.2,24.8,B,MAQ-U09-00809
+sin novedad,no,0.0,Planta Demo,no,242,30.5,1426.0,36.0,25.5,A,MAQ-U09-00810
+revisar,sí,5.0,Planta Demo,no,122,34.6,1654.0,38.8,26.5,A,MAQ-U09-00811
+revisar,no,0.0,Planta Demo,sí,187,49.0,1883.0,33.1,23.1,B,MAQ-U09-00812
+sin novedad,no,0.0,Planta Demo,no,125,34.5,1209.0,33.0,22.6,A,MAQ-U09-00813
+sin novedad,sí,2.8,Planta Demo,sí,249,38.7,1588.0,34.7,24.8,C,MAQ-U09-00814
+,no,0.0,Planta Demo,sí,233,50.5,1593.0,35.8,23.7,B,MAQ-U09-00815
+,sí,6.2,Planta Demo,no,175,38.8,1405.0,34.2,25.1,A,MAQ-U09-00816
+revisar,no,0.0,Planta Demo,no,221,51.2,1532.0,34.5,24.0,B,MAQ-U09-00817
+sin novedad,no,0.0,Planta Demo,sí,58,28.6,,35.4,25.3,B,MAQ-U09-00818
+revisar,sí,14.2,Planta Demo,no,239,51.5,1281.0,36.5,26.7,A,MAQ-U09-00819
+,no,0.0,Planta Demo,no,111,38.6,1555.0,33.5,23.8,A,MAQ-U09-00820
+sin novedad,no,0.0,Planta Demo,no,55,45.7,1538.0,31.9,20.9,B,MAQ-U09-00821
+revisar,no,0.0,Planta Demo,no,228,27.5,1550.0,36.1,26.0,A,MAQ-U09-00822
+,no,0.0,Planta Demo,no,68,37.3,1227.0,34.1,24.0,A,MAQ-U09-00823
+sin novedad,no,0.0,Planta Demo,sí,15,39.1,,32.5,23.7,B,MAQ-U09-00824
+sin novedad,no,0.0,Planta Demo,no,103,37.8,1456.0,36.3,25.5,B,MAQ-U09-00825
+,no,0.0,Planta Demo,sí,193,30.5,1841.0,33.3,22.5,A,MAQ-U09-00826
+revisar,no,0.0,Planta Demo,no,154,47.6,1813.0,36.0,25.5,B,MAQ-U09-00827
+,no,0.0,Planta Demo,no,127,47.8,1605.0,32.7,23.3,B,MAQ-U09-00828
+sin novedad,sí,3.9,Planta Demo,no,238,53.6,1472.0,36.9,26.8,C,MAQ-U09-00829
+sin novedad,no,0.0,Planta Demo,no,18,33.3,1250.0,29.0,21.1,B,MAQ-U09-00830
+sin novedad,no,0.0,Planta Demo,sí,200,47.9,1413.0,32.5,23.7,B,MAQ-U09-00831
+sin novedad,no,0.0,Planta Demo,sí,117,42.4,1529.0,33.2,22.0,B,MAQ-U09-00832
+,no,0.0,Planta Demo,no,232,48.3,1765.0,33.8,23.1,A,MAQ-U09-00833
+sin novedad,no,0.0,Planta Demo,sí,240,48.6,1650.0,34.2,24.8,B,MAQ-U09-00834
+revisar,no,0.0,Planta Demo,no,2,37.8,1641.0,35.7,28.3,A,MAQ-U09-00835
+revisar,no,0.0,Planta Demo,no,130,39.5,1564.0,34.5,26.7,A,MAQ-U09-00836
+sin novedad,sí,10.0,Planta Demo,no,145,47.8,1505.0,33.9,23.9,C,MAQ-U09-00837
+sin novedad,no,0.0,Planta Demo,no,14,41.6,1616.0,36.0,24.6,C,MAQ-U09-00838
+sin novedad,no,0.0,Planta Demo,sí,168,41.0,,37.4,27.2,B,MAQ-U09-00839
+,no,0.0,Planta Demo,no,173,22.6,1464.0,35.4,24.5,A,MAQ-U09-00840
+revisar,no,0.0,Planta Demo,no,219,40.8,1196.0,35.1,25.1,B,MAQ-U09-00841
+,no,0.0,Planta Demo,no,190,28.0,1430.0,34.3,25.6,A,MAQ-U09-00842
+sin novedad,no,0.0,Planta Demo,sí,45,47.8,1833.0,35.3,26.0,C,MAQ-U09-00843
+revisar,sí,6.9,Planta Demo,sí,171,43.5,1418.0,34.3,24.3,C,MAQ-U09-00844
+revisar,no,0.0,Planta Demo,sí,20,28.9,1647.0,33.0,23.3,B,MAQ-U09-00845
+revisar,no,0.0,Planta Demo,sí,99,41.6,1442.0,33.9,22.5,A,MAQ-U09-00846
+,no,0.0,Planta Demo,no,27,42.6,1184.0,33.5,24.4,B,MAQ-U09-00847
+,no,0.0,Planta Demo,no,42,44.6,1570.0,34.9,23.5,B,MAQ-U09-00848
+,no,0.0,Planta Demo,no,192,32.4,1840.0,31.2,20.9,A,MAQ-U09-00849
+sin novedad,no,0.0,Planta Demo,sí,104,54.1,1338.0,36.8,27.0,B,MAQ-U09-00850
+revisar,no,0.0,Planta Demo,sí,37,38.5,1948.0,39.2,25.7,C,MAQ-U09-00851
+revisar,no,0.0,Planta Demo,no,21,35.7,1345.0,36.2,25.8,A,MAQ-U09-00852
+sin novedad,no,0.0,Planta Demo,sí,74,37.2,1205.0,31.9,22.0,A,MAQ-U09-00853
+sin novedad,no,0.0,Planta Demo,sí,114,33.7,1172.0,36.1,25.6,A,MAQ-U09-00854
+sin novedad,no,0.0,Planta Demo,no,20,38.6,1809.0,39.2,28.8,B,MAQ-U09-00855
+,no,0.0,Planta Demo,no,30,52.7,1512.0,33.2,24.2,A,MAQ-U09-00856
+revisar,sí,8.6,Planta Demo,no,124,42.8,1461.0,37.3,26.3,C,MAQ-U09-00857
+revisar,no,0.0,Planta Demo,sí,133,41.6,1474.0,36.5,25.3,B,MAQ-U09-00858
+,sí,5.6,Planta Demo,no,213,57.8,1558.0,36.1,26.1,C,MAQ-U09-00859
+,no,0.0,Planta Demo,no,148,20.7,1286.0,35.6,27.3,B,MAQ-U09-00860
+sin novedad,no,0.0,Planta Demo,no,110,32.4,1215.0,33.9,24.9,B,MAQ-U09-00861
+revisar,no,0.0,Planta Demo,no,230,27.7,,38.0,26.9,C,MAQ-U09-00862
+sin novedad,no,0.0,Planta Demo,sí,7,48.4,1857.0,37.4,28.5,B,MAQ-U09-00863
+revisar,no,0.0,Planta Demo,no,41,38.4,1744.0,32.9,22.8,A,MAQ-U09-00864
+revisar,no,0.0,Planta Demo,no,115,51.7,1742.0,35.0,25.1,C,MAQ-U09-00865
+sin novedad,sí,1.4,Planta Demo,no,228,33.3,1517.0,35.6,26.1,A,MAQ-U09-00866
+revisar,no,0.0,Planta Demo,no,171,48.6,1499.0,31.1,22.1,B,MAQ-U09-00867
+,no,0.0,Planta Demo,sí,134,26.2,1402.0,38.8,28.1,B,MAQ-U09-00868
+revisar,sí,7.5,Planta Demo,no,201,42.6,1726.0,37.7,26.3,C,MAQ-U09-00869
+revisar,no,0.0,Planta Demo,no,186,31.9,1541.0,33.0,24.3,A,MAQ-U09-00870
+sin novedad,no,0.0,Planta Demo,no,143,19.2,1706.0,34.0,24.4,C,MAQ-U09-00871
+sin novedad,no,0.0,Planta Demo,sí,146,50.5,1395.0,37.1,25.7,B,MAQ-U09-00872
+revisar,no,0.0,Planta Demo,no,161,44.2,1245.0,35.1,24.5,C,MAQ-U09-00873
+sin novedad,no,0.0,Planta Demo,sí,180,46.4,1257.0,32.4,23.1,B,MAQ-U09-00874
+revisar,no,0.0,Planta Demo,no,181,43.9,1428.0,38.5,28.2,B,MAQ-U09-00875
+sin novedad,no,0.0,Planta Demo,no,25,33.6,1777.0,35.9,26.2,B,MAQ-U09-00876
+sin novedad,no,0.0,Planta Demo,no,3,49.9,1516.0,31.0,22.0,C,MAQ-U09-00877
+revisar,no,0.0,Planta Demo,no,97,48.9,1484.0,34.7,25.1,A,MAQ-U09-00878
+,no,0.0,Planta Demo,sí,211,46.1,,33.7,22.7,A,MAQ-U09-00879
+sin novedad,no,0.0,Planta Demo,no,129,48.4,1718.0,33.1,23.6,A,MAQ-U09-00880
+revisar,no,0.0,Planta Demo,sí,117,38.3,1409.0,33.8,23.6,A,MAQ-U09-00881
+,sí,15.0,Planta Demo,sí,210,27.1,1504.0,33.8,23.7,A,MAQ-U09-00882
+revisar,no,0.0,Planta Demo,sí,204,31.8,1582.0,31.7,23.9,A,MAQ-U09-00883
+,sí,4.7,Planta Demo,no,212,41.8,1446.0,35.5,26.7,C,MAQ-U09-00884
+,no,0.0,Planta Demo,no,57,47.7,1262.0,31.5,21.8,B,MAQ-U09-00885
+revisar,no,0.0,Planta Demo,no,44,51.4,1625.0,33.0,21.6,B,MAQ-U09-00886
+sin novedad,no,0.0,Planta Demo,no,205,55.2,1313.0,36.3,27.2,B,MAQ-U09-00887
+revisar,no,0.0,Planta Demo,no,146,45.9,1465.0,34.8,24.3,B,MAQ-U09-00888
+sin novedad,no,0.0,Planta Demo,no,62,28.4,1535.0,33.6,25.2,A,MAQ-U09-00889
+sin novedad,no,0.0,Planta Demo,no,179,50.1,1317.0,35.8,26.1,A,MAQ-U09-00890
+sin novedad,no,0.0,Planta Demo,sí,11,22.2,1286.0,37.0,26.3,B,MAQ-U09-00891
+sin novedad,no,0.0,Planta Demo,no,11,35.7,1268.0,32.4,22.7,B,MAQ-U09-00892
+sin novedad,no,0.0,Planta Demo,sí,201,45.7,1600.0,38.0,27.6,A,MAQ-U09-00893
+sin novedad,no,0.0,Planta Demo,sí,173,28.8,1599.0,37.6,26.9,A,MAQ-U09-00894
+sin novedad,no,0.0,Planta Demo,no,224,37.7,1635.0,36.0,27.2,C,MAQ-U09-00895
+sin novedad,no,0.0,Planta Demo,no,171,43.9,1721.0,37.4,26.3,A,MAQ-U09-00896
+,no,0.0,Planta Demo,no,102,40.6,1501.0,37.5,27.3,A,MAQ-U09-00897
+revisar,no,0.0,Planta Demo,sí,28,61.9,1855.0,33.2,23.3,A,MAQ-U09-00898
+sin novedad,no,0.0,Planta Demo,no,178,20.2,1537.0,36.5,26.3,A,MAQ-U09-00899
+revisar,no,0.0,Planta Demo,no,66,36.7,1499.0,39.0,28.0,A,MAQ-U09-00900
+,no,0.0,Planta Demo,no,103,36.4,1632.0,34.8,24.3,B,MAQ-U09-00901
+revisar,no,0.0,Planta Demo,no,18,33.8,1506.0,32.2,23.7,B,MAQ-U09-00902
+revisar,no,0.0,Planta Demo,sí,183,37.9,1523.0,41.5,31.4,B,MAQ-U09-00903
+revisar,no,0.0,Planta Demo,no,5,32.6,1721.0,35.9,24.4,B,MAQ-U09-00904
+sin novedad,no,0.0,Planta Demo,sí,34,37.3,1472.0,32.9,23.0,C,MAQ-U09-00905
+,no,0.0,Planta Demo,sí,240,37.9,1570.0,33.9,23.9,B,MAQ-U09-00906
+sin novedad,no,0.0,Planta Demo,no,42,35.8,1554.0,37.3,28.3,C,MAQ-U09-00907
+revisar,no,0.0,Planta Demo,no,126,39.7,1591.0,32.8,22.9,B,MAQ-U09-00908
+,no,0.0,Planta Demo,no,177,34.8,1692.0,32.1,21.8,A,MAQ-U09-00909
+revisar,no,0.0,Planta Demo,no,235,44.2,1707.0,32.4,23.4,A,MAQ-U09-00910
+sin novedad,sí,6.2,Planta Demo,sí,171,45.5,1484.0,36.6,27.2,A,MAQ-U09-00911
+revisar,no,0.0,Planta Demo,sí,58,35.7,1453.0,32.4,22.3,C,MAQ-U09-00912
+sin novedad,no,0.0,Planta Demo,no,49,47.5,1601.0,36.7,26.2,B,MAQ-U09-00913
+revisar,sí,3.4,Planta Demo,no,119,55.9,1460.0,34.0,22.3,A,MAQ-U09-00914
+sin novedad,no,0.0,Planta Demo,no,3,42.8,1677.0,36.1,25.3,A,MAQ-U09-00915
+revisar,no,0.0,Planta Demo,no,128,36.8,1554.0,37.1,27.2,A,MAQ-U09-00916
+revisar,no,0.0,Planta Demo,no,122,42.4,1430.0,35.2,26.0,B,MAQ-U09-00917
+sin novedad,no,0.0,Planta Demo,no,187,31.9,1605.0,38.6,26.2,A,MAQ-U09-00918
+,no,0.0,Planta Demo,sí,235,40.7,1710.0,35.8,26.7,A,MAQ-U09-00919
+sin novedad,no,0.0,Planta Demo,sí,175,53.8,1229.0,37.7,27.3,A,MAQ-U09-00920
+sin novedad,no,0.0,Planta Demo,no,209,34.2,,35.7,25.0,C,MAQ-U09-00921
+,no,0.0,Planta Demo,sí,40,38.5,2033.0,35.1,26.2,B,MAQ-U09-00922
+,no,0.0,Planta Demo,no,113,41.6,1456.0,37.1,27.2,A,MAQ-U09-00923
+,no,0.0,Planta Demo,no,80,46.0,1429.0,34.8,24.3,B,MAQ-U09-00924
+,no,0.0,Planta Demo,no,52,25.3,,36.0,25.3,A,MAQ-U09-00925
+,no,0.0,Planta Demo,no,42,47.7,1650.0,35.0,24.3,A,MAQ-U09-00926
+sin novedad,no,0.0,Planta Demo,no,218,31.7,1367.0,35.3,25.8,B,MAQ-U09-00927
+sin novedad,no,0.0,Planta Demo,sí,22,23.9,1143.0,32.3,23.8,C,MAQ-U09-00928
+revisar,no,0.0,Planta Demo,sí,185,28.3,1376.0,36.1,27.1,B,MAQ-U09-00929
+,no,0.0,Planta Demo,no,128,39.8,1605.0,33.2,24.0,A,MAQ-U09-00930
+sin novedad,no,0.0,Planta Demo,no,35,17.1,1253.0,34.7,25.8,A,MAQ-U09-00931
+revisar,no,0.0,Planta Demo,no,16,47.9,1706.0,31.0,21.8,C,MAQ-U09-00932
+revisar,no,0.0,Planta Demo,no,241,32.3,1806.0,34.6,24.4,B,MAQ-U09-00933
+sin novedad,no,0.0,Planta Demo,no,232,45.3,1461.0,42.2,29.2,A,MAQ-U09-00934
+sin novedad,sí,3.9,Planta Demo,no,223,32.2,,32.9,23.2,B,MAQ-U09-00935
+revisar,no,0.0,Planta Demo,no,0,33.4,1798.0,38.2,28.8,B,MAQ-U09-00936
+revisar,no,0.0,Planta Demo,sí,116,18.4,1425.0,35.5,25.7,A,MAQ-U09-00937
+revisar,no,0.0,Planta Demo,sí,159,55.7,1342.0,34.0,23.7,A,MAQ-U09-00938
+revisar,no,0.0,Planta Demo,no,100,55.6,1479.0,40.7,29.1,A,MAQ-U09-00939
+,no,0.0,Planta Demo,sí,115,41.6,1399.0,35.0,24.7,B,MAQ-U09-00940
+,no,0.0,Planta Demo,no,125,44.8,,38.9,28.2,C,MAQ-U09-00941
+revisar,no,0.0,Planta Demo,sí,220,39.8,1338.0,34.9,24.6,C,MAQ-U09-00942
+,no,0.0,Planta Demo,no,164,39.1,1495.0,36.1,25.7,A,MAQ-U09-00943
+sin novedad,sí,2.3,Planta Demo,sí,246,38.0,1274.0,31.7,21.8,C,MAQ-U09-00944
+sin novedad,no,0.0,Planta Demo,no,180,16.0,1442.0,34.0,24.3,B,MAQ-U09-00945
+revisar,no,0.0,Planta Demo,sí,151,42.1,1698.0,32.7,23.2,A,MAQ-U09-00946
+,no,0.0,Planta Demo,sí,207,40.8,1731.0,33.9,23.4,C,MAQ-U09-00947
+revisar,no,0.0,Planta Demo,no,28,38.7,1334.0,35.2,25.0,B,MAQ-U09-00948
+,no,0.0,Planta Demo,no,89,27.9,1377.0,31.9,24.0,C,MAQ-U09-00949
+revisar,no,0.0,Planta Demo,no,22,36.3,1590.0,32.8,23.0,A,MAQ-U09-00950
+sin novedad,sí,5.4,Planta Demo,sí,100,47.2,1534.0,32.4,23.9,B,MAQ-U09-00951
+revisar,no,0.0,Planta Demo,no,52,45.1,1793.0,34.2,24.6,A,MAQ-U09-00952
+sin novedad,no,0.0,Planta Demo,no,40,31.0,1682.0,34.9,24.7,A,MAQ-U09-00953
+revisar,no,0.0,Planta Demo,no,52,30.6,1702.0,37.3,27.1,C,MAQ-U09-00954
+sin novedad,no,0.0,Planta Demo,no,18,30.4,1340.0,35.6,25.2,A,MAQ-U09-00955
+revisar,no,0.0,Planta Demo,no,222,29.1,1473.0,39.6,28.2,A,MAQ-U09-00956
+revisar,sí,2.5,Planta Demo,no,98,52.4,1579.0,29.7,20.3,A,MAQ-U09-00957
+revisar,no,0.0,Planta Demo,no,178,45.7,1753.0,32.4,24.3,B,MAQ-U09-00958
+revisar,sí,2.6,Planta Demo,sí,242,51.4,1205.0,34.6,23.7,A,MAQ-U09-00959
+,no,0.0,Planta Demo,no,169,33.4,1482.0,32.8,22.9,A,MAQ-U09-00960
+revisar,no,0.0,Planta Demo,sí,101,39.3,1729.0,38.9,28.7,A,MAQ-U09-00961
+,no,0.0,Planta Demo,sí,186,28.4,1262.0,34.0,23.7,C,MAQ-U09-00962
+,no,0.0,Planta Demo,no,28,36.2,1452.0,37.9,27.3,C,MAQ-U09-00963
+,no,0.0,Planta Demo,sí,180,47.1,1343.0,33.4,25.0,A,MAQ-U09-00964
+revisar,sí,2.8,Planta Demo,no,213,40.8,1652.0,33.7,24.4,A,MAQ-U09-00965
+revisar,no,0.0,Planta Demo,no,60,50.3,1564.0,35.2,26.4,A,MAQ-U09-00966
+revisar,no,0.0,Planta Demo,no,77,40.5,1462.0,36.7,27.8,A,MAQ-U09-00967
+revisar,no,0.0,Planta Demo,sí,87,38.7,1720.0,37.6,27.4,C,MAQ-U09-00968
+sin novedad,no,0.0,Planta Demo,no,28,52.5,1460.0,34.3,25.5,B,MAQ-U09-00969
+sin novedad,no,0.0,Planta Demo,sí,170,46.4,1546.0,33.6,24.6,C,MAQ-U09-00970
+sin novedad,no,0.0,Planta Demo,sí,206,46.8,1386.0,33.1,23.8,C,MAQ-U09-00971
+,no,0.0,Planta Demo,no,81,29.9,1406.0,34.1,24.7,B,MAQ-U09-00972
+sin novedad,no,0.0,Planta Demo,no,202,32.0,1411.0,38.2,28.8,A,MAQ-U09-00973
+,sí,2.7,Planta Demo,no,177,52.2,1421.0,40.1,29.0,A,MAQ-U09-00974
+sin novedad,no,0.0,Planta Demo,no,76,36.8,1393.0,33.2,23.7,A,MAQ-U09-00975
+revisar,no,0.0,Planta Demo,sí,81,46.9,1602.0,32.9,23.2,B,MAQ-U09-00976
+sin novedad,no,0.0,Planta Demo,no,110,34.3,1658.0,35.8,25.2,A,MAQ-U09-00977
+sin novedad,sí,5.3,Planta Demo,sí,111,47.2,1324.0,35.2,25.3,A,MAQ-U09-00978
+revisar,no,0.0,Planta Demo,no,37,45.7,1441.0,35.1,24.6,A,MAQ-U09-00979
+revisar,no,0.0,Planta Demo,no,67,51.4,1432.0,33.0,23.0,B,MAQ-U09-00980
+,no,0.0,Planta Demo,no,209,50.5,1482.0,40.1,28.3,A,MAQ-U09-00981
+,no,0.0,Planta Demo,sí,136,37.0,1313.0,33.8,25.5,B,MAQ-U09-00982
+revisar,no,0.0,Planta Demo,sí,150,34.5,1703.0,34.1,23.9,B,MAQ-U09-00983
+revisar,no,0.0,Planta Demo,sí,84,38.1,1628.0,36.7,27.2,A,MAQ-U09-00984
+sin novedad,no,0.0,Planta Demo,no,227,41.3,1378.0,35.0,24.3,B,MAQ-U09-00985
+revisar,no,0.0,Planta Demo,sí,79,45.1,1485.0,37.1,26.0,A,MAQ-U09-00986
+revisar,no,0.0,Planta Demo,no,149,28.3,1132.0,35.2,25.5,A,MAQ-U09-00987
+sin novedad,no,0.0,Planta Demo,no,232,39.5,,35.6,25.4,A,MAQ-U09-00988
+revisar,no,0.0,Planta Demo,no,144,43.5,1609.0,32.7,22.4,C,MAQ-U09-00989
+revisar,sí,6.2,Planta Demo,no,247,36.4,1289.0,35.2,24.7,A,MAQ-U09-00990
+revisar,no,0.0,Planta Demo,no,244,14.3,877.0,32.9,24.0,C,MAQ-U09-00991
+sin novedad,no,0.0,Planta Demo,no,142,30.7,1659.0,32.3,23.3,B,MAQ-U09-00992
+revisar,no,0.0,Planta Demo,no,99,51.0,1697.0,33.6,25.2,A,MAQ-U09-00993
+,no,0.0,Planta Demo,sí,74,25.4,1174.0,32.1,21.4,C,MAQ-U09-00994
+,no,0.0,Planta Demo,sí,16,33.5,1661.0,33.0,24.5,A,MAQ-U09-00995
+revisar,no,0.0,Planta Demo,sí,188,40.8,1376.0,34.4,23.9,A,MAQ-U09-00996
+sin novedad,no,0.0,Planta Demo,sí,26,37.5,1755.0,32.5,22.5,B,MAQ-U09-00997
+sin novedad,no,0.0,Planta Demo,no,158,34.5,1552.0,31.9,21.9,B,MAQ-U09-00998
+,no,0.0,Planta Demo,sí,229,46.9,1685.0,39.1,26.8,C,MAQ-U09-00999

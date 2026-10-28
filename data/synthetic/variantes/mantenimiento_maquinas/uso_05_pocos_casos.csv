@@ -1,0 +1,21 @@
+id_maquina,tipo_maquina,temperatura_aire_c,temperatura_proceso_c,velocidad_rpm,torque_nm,desgaste_herramienta_min,turno_noche,planta,horas_detenida_post_falla,falla_maquina
+MAQ-U05-00000,A,26.2,37.9,1612.0,33.2,217,no,Planta Demo,0.0,no
+MAQ-U05-00001,A,23.6,31.9,1320.0,41.7,47,no,Planta Demo,2.8,sí
+MAQ-U05-00002,A,22.0,31.2,1585.0,22.2,97,sí,Planta Demo,0.0,no
+MAQ-U05-00003,B,27.6,38.0,1713.0,38.8,100,no,Planta Demo,0.0,no
+MAQ-U05-00004,A,27.7,36.9,1407.0,31.5,107,no,Planta Demo,0.0,no
+MAQ-U05-00005,A,22.3,32.8,1367.0,52.4,120,no,Planta Demo,0.6,sí
+MAQ-U05-00006,B,28.8,37.4,1391.0,32.4,39,sí,Planta Demo,0.0,no
+MAQ-U05-00007,A,24.6,33.3,1670.0,49.4,0,sí,Planta Demo,0.0,no
+MAQ-U05-00008,A,24.8,36.5,1923.0,41.3,138,no,Planta Demo,0.0,no
+MAQ-U05-00009,C,24.8,34.4,1390.0,43.5,35,sí,Planta Demo,0.0,no
+MAQ-U05-00010,A,25.7,33.4,1505.0,51.6,76,sí,Planta Demo,0.0,no
+MAQ-U05-00011,A,26.1,37.4,1495.0,40.3,145,no,Planta Demo,0.0,no
+MAQ-U05-00012,A,24.3,33.7,1298.0,38.0,247,sí,Planta Demo,5.1,sí
+MAQ-U05-00013,B,20.8,29.5,1738.0,29.0,221,sí,Planta Demo,0.0,no
+MAQ-U05-00014,B,25.0,34.5,1365.0,54.9,111,sí,Planta Demo,0.0,no
+MAQ-U05-00015,A,26.4,34.8,1798.0,37.9,117,no,Planta Demo,0.0,no
+MAQ-U05-00016,A,26.2,37.1,1323.0,37.9,238,no,Planta Demo,0.0,no
+MAQ-U05-00017,C,28.0,37.8,,31.2,18,no,Planta Demo,0.0,no
+MAQ-U05-00018,B,25.0,35.7,1329.0,40.9,52,sí,Planta Demo,0.0,no
+MAQ-U05-00019,C,25.5,37.2,1595.0,47.1,226,sí,Planta Demo,0.0,no

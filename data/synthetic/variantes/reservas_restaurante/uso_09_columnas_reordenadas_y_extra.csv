@@ -1,0 +1,1001 @@
+observacion_operador,no_asistio,minutos_espera_mesa,propina_registrada,cadena,confirmo_recordatorio,pronostico_lluvia,cancelaciones_previas,cliente_frecuente,canal_reserva,turno,dia_semana,personas_mesa,dias_anticipacion,id_reserva
+,no,18,3680.0,Restaurantes Demo,no,no,1,sí,web,cena,sáb,3,12,RES-U09-00000
+,no,26,3284.0,Restaurantes Demo,sí,no,1,sí,web,cena,lun,2,21,RES-U09-00001
+sin novedad,no,17,3676.0,Restaurantes Demo,sí,sí,1,sí,teléfono,cena,mié,2,27,RES-U09-00002
+,sí,0,0.0,Restaurantes Demo,no,sí,1,no,app,almuerzo,mar,3,20,RES-U09-00003
+sin novedad,no,31,1884.0,Restaurantes Demo,sí,sí,0,sí,app,cena,sáb,2,20,RES-U09-00004
+,no,14,15829.0,Restaurantes Demo,no,no,0,sí,app,almuerzo,vie,3,23,RES-U09-00005
+,no,11,3336.0,Restaurantes Demo,no,,0,no,app,almuerzo,dom,4,29,RES-U09-00006
+revisar,no,30,1070.0,Restaurantes Demo,sí,no,0,no,web,cena,lun,2,29,RES-U09-00007
+sin novedad,no,23,4202.0,Restaurantes Demo,no,sí,0,sí,app,cena,vie,1,18,RES-U09-00008
+revisar,no,12,23097.0,Restaurantes Demo,sí,no,0,no,app,cena,lun,2,19,RES-U09-00009
+revisar,no,20,7225.0,Restaurantes Demo,sí,no,0,no,web,cena,lun,2,26,RES-U09-00010
+sin novedad,no,10,1145.0,Restaurantes Demo,no,no,1,no,app,almuerzo,mar,2,15,RES-U09-00011
+,no,0,7594.0,Restaurantes Demo,no,no,0,sí,app,almuerzo,vie,8,18,RES-U09-00012
+,sí,0,0.0,Restaurantes Demo,sí,sí,1,sí,app,almuerzo,dom,2,21,RES-U09-00013
+revisar,no,8,3577.0,Restaurantes Demo,no,no,0,sí,web,cena,dom,3,11,RES-U09-00014
+,no,1,8112.0,Restaurantes Demo,sí,no,0,sí,app,almuerzo,dom,2,3,RES-U09-00015
+revisar,no,35,2232.0,Restaurantes Demo,sí,no,1,no,teléfono,almuerzo,mar,2,17,RES-U09-00016
+revisar,no,11,5536.0,Restaurantes Demo,no,no,0,no,web,cena,vie,2,11,RES-U09-00017
+revisar,no,29,2343.0,Restaurantes Demo,no,no,1,sí,app,cena,dom,3,2,RES-U09-00018
+,no,23,5688.0,Restaurantes Demo,no,no,1,no,web,almuerzo,vie,2,9,RES-U09-00019
+,no,34,4479.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,vie,4,2,RES-U09-00020
+sin novedad,no,7,3335.0,Restaurantes Demo,no,,0,sí,app,cena,dom,5,28,RES-U09-00021
+sin novedad,no,6,4687.0,Restaurantes Demo,sí,no,0,sí,web,cena,jue,3,20,RES-U09-00022
+revisar,no,25,1438.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,vie,4,0,RES-U09-00023
+revisar,sí,0,0.0,Restaurantes Demo,no,no,0,no,web,cena,vie,6,9,RES-U09-00024
+revisar,no,25,9525.0,Restaurantes Demo,no,no,0,sí,web,almuerzo,jue,2,7,RES-U09-00025
+revisar,no,24,7815.0,Restaurantes Demo,no,sí,0,sí,app,cena,jue,4,14,RES-U09-00026
+sin novedad,no,0,6297.0,Restaurantes Demo,sí,sí,0,no,app,almuerzo,lun,1,8,RES-U09-00027
+,no,32,1833.0,Restaurantes Demo,no,sí,0,no,app,cena,vie,3,15,RES-U09-00028
+,no,4,4506.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,dom,5,14,RES-U09-00029
+sin novedad,no,24,433.0,Restaurantes Demo,sí,no,1,no,teléfono,cena,mar,3,16,RES-U09-00030
+revisar,no,37,2590.0,Restaurantes Demo,sí,sí,1,sí,teléfono,cena,lun,2,14,RES-U09-00031
+,no,25,4232.0,Restaurantes Demo,no,,0,sí,teléfono,almuerzo,jue,2,2,RES-U09-00032
+,sí,0,0.0,Restaurantes Demo,sí,sí,1,no,teléfono,cena,sáb,4,6,RES-U09-00033
+revisar,no,30,3337.0,Restaurantes Demo,no,no,0,no,teléfono,cena,lun,5,29,RES-U09-00034
+sin novedad,no,8,1096.0,Restaurantes Demo,no,no,0,no,app,cena,mié,6,12,RES-U09-00035
+revisar,no,5,9440.0,Restaurantes Demo,sí,no,0,sí,teléfono,cena,mié,5,1,RES-U09-00036
+sin novedad,no,8,5940.0,Restaurantes Demo,no,no,0,no,app,cena,lun,4,1,RES-U09-00037
+revisar,no,22,2264.0,Restaurantes Demo,sí,,0,no,teléfono,cena,dom,5,22,RES-U09-00038
+revisar,no,19,1527.0,Restaurantes Demo,no,no,0,no,web,cena,sáb,5,10,RES-U09-00039
+,no,20,1653.0,Restaurantes Demo,no,sí,0,no,app,cena,jue,2,7,RES-U09-00040
+sin novedad,no,12,8681.0,Restaurantes Demo,no,no,1,sí,teléfono,almuerzo,jue,4,30,RES-U09-00041
+sin novedad,no,38,5743.0,Restaurantes Demo,sí,no,1,no,web,cena,lun,6,23,RES-U09-00042
+,no,11,1566.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,dom,2,22,RES-U09-00043
+revisar,no,36,2246.0,Restaurantes Demo,sí,sí,1,sí,teléfono,cena,sáb,3,15,RES-U09-00044
+,no,28,1555.0,Restaurantes Demo,sí,no,1,no,app,almuerzo,mié,2,15,RES-U09-00045
+revisar,no,18,4071.0,Restaurantes Demo,no,no,0,sí,teléfono,cena,jue,3,26,RES-U09-00046
+sin novedad,sí,0,0.0,Restaurantes Demo,no,no,1,no,app,cena,mar,5,9,RES-U09-00047
+sin novedad,no,16,3246.0,Restaurantes Demo,sí,no,1,sí,teléfono,almuerzo,jue,3,2,RES-U09-00048
+sin novedad,no,12,3280.0,Restaurantes Demo,no,sí,3,no,teléfono,cena,sáb,4,6,RES-U09-00049
+revisar,no,21,2655.0,Restaurantes Demo,no,no,0,sí,app,almuerzo,dom,2,22,RES-U09-00050
+,sí,0,0.0,Restaurantes Demo,no,no,0,no,web,almuerzo,jue,5,0,RES-U09-00051
+revisar,no,27,4625.0,Restaurantes Demo,sí,no,1,no,teléfono,almuerzo,vie,3,30,RES-U09-00052
+,no,36,1241.0,Restaurantes Demo,sí,no,0,sí,app,cena,vie,4,7,RES-U09-00053
+sin novedad,sí,0,0.0,Restaurantes Demo,no,no,1,no,app,cena,mié,1,12,RES-U09-00054
+sin novedad,no,18,10663.0,Restaurantes Demo,sí,no,0,no,teléfono,almuerzo,sáb,3,2,RES-U09-00055
+sin novedad,no,4,9460.0,Restaurantes Demo,no,no,0,sí,web,cena,mié,4,14,RES-U09-00056
+,no,37,4968.0,Restaurantes Demo,no,no,0,no,web,cena,jue,1,11,RES-U09-00057
+sin novedad,no,5,1195.0,Restaurantes Demo,sí,no,0,no,web,cena,mar,2,16,RES-U09-00058
+sin novedad,no,14,4460.0,Restaurantes Demo,no,no,0,no,web,cena,vie,2,13,RES-U09-00059
+revisar,sí,0,0.0,Restaurantes Demo,no,no,0,sí,teléfono,almuerzo,jue,3,4,RES-U09-00060
+sin novedad,no,23,7156.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,mié,2,1,RES-U09-00061
+sin novedad,no,24,3376.0,Restaurantes Demo,no,no,0,sí,app,almuerzo,dom,3,4,RES-U09-00062
+revisar,no,27,9055.0,Restaurantes Demo,sí,sí,0,no,app,almuerzo,dom,5,6,RES-U09-00063
+revisar,sí,0,0.0,Restaurantes Demo,no,sí,1,no,app,cena,sáb,4,6,RES-U09-00064
+,no,2,3027.0,Restaurantes Demo,sí,,0,no,app,cena,sáb,2,14,RES-U09-00065
+revisar,no,31,1005.0,Restaurantes Demo,no,no,0,no,app,almuerzo,dom,1,29,RES-U09-00066
+sin novedad,no,16,1857.0,Restaurantes Demo,no,sí,0,no,teléfono,cena,sáb,2,30,RES-U09-00067
+revisar,no,29,7278.0,Restaurantes Demo,sí,no,0,sí,web,cena,dom,2,13,RES-U09-00068
+sin novedad,no,1,2213.0,Restaurantes Demo,no,no,1,no,app,cena,sáb,2,2,RES-U09-00069
+revisar,no,19,3683.0,Restaurantes Demo,no,no,2,no,teléfono,cena,mar,2,16,RES-U09-00070
+sin novedad,no,39,8092.0,Restaurantes Demo,no,no,1,no,web,almuerzo,jue,8,0,RES-U09-00071
+,no,4,9094.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,sáb,4,27,RES-U09-00072
+sin novedad,no,11,9341.0,Restaurantes Demo,sí,no,0,no,app,cena,jue,4,6,RES-U09-00073
+revisar,no,11,4395.0,Restaurantes Demo,no,no,2,no,app,cena,jue,2,25,RES-U09-00074
+sin novedad,no,28,1187.0,Restaurantes Demo,no,,0,no,web,cena,mié,3,7,RES-U09-00075
+revisar,no,11,4113.0,Restaurantes Demo,sí,no,2,no,web,cena,mié,2,19,RES-U09-00076
+sin novedad,no,7,870.0,Restaurantes Demo,no,no,0,sí,teléfono,cena,sáb,4,7,RES-U09-00077
+,no,11,16273.0,Restaurantes Demo,no,no,0,no,app,cena,lun,1,21,RES-U09-00078
+,no,24,7645.0,Restaurantes Demo,sí,no,1,no,app,cena,lun,8,20,RES-U09-00079
+,no,32,3862.0,Restaurantes Demo,sí,no,2,no,app,cena,mar,2,27,RES-U09-00080
+sin novedad,no,2,2426.0,Restaurantes Demo,sí,no,0,sí,teléfono,cena,dom,2,4,RES-U09-00081
+sin novedad,no,28,706.0,Restaurantes Demo,no,no,0,no,app,cena,sáb,1,16,RES-U09-00082
+sin novedad,no,6,4089.0,Restaurantes Demo,sí,no,0,no,web,cena,vie,2,19,RES-U09-00083
+sin novedad,no,0,2548.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,sáb,4,6,RES-U09-00084
+revisar,no,6,5509.0,Restaurantes Demo,no,no,0,no,web,cena,mar,4,28,RES-U09-00085
+,sí,0,0.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,lun,2,4,RES-U09-00086
+sin novedad,no,33,5253.0,Restaurantes Demo,sí,no,2,no,web,cena,mié,6,13,RES-U09-00087
+sin novedad,no,1,11294.0,Restaurantes Demo,no,no,0,no,app,cena,mar,2,19,RES-U09-00088
+,no,22,1266.0,Restaurantes Demo,sí,no,0,no,web,almuerzo,mié,2,19,RES-U09-00089
+sin novedad,no,24,2722.0,Restaurantes Demo,sí,no,0,no,app,cena,vie,3,27,RES-U09-00090
+sin novedad,sí,0,0.0,Restaurantes Demo,no,no,0,no,teléfono,cena,mar,2,12,RES-U09-00091
+,no,1,4054.0,Restaurantes Demo,no,no,0,no,web,cena,mié,4,15,RES-U09-00092
+revisar,no,31,2769.0,Restaurantes Demo,no,no,0,no,teléfono,cena,jue,3,16,RES-U09-00093
+,sí,0,0.0,Restaurantes Demo,no,no,0,no,web,almuerzo,mar,3,19,RES-U09-00094
+sin novedad,no,15,1692.0,Restaurantes Demo,sí,no,0,sí,app,cena,vie,6,25,RES-U09-00095
+sin novedad,no,0,974.0,Restaurantes Demo,no,no,0,no,app,almuerzo,sáb,4,23,RES-U09-00096
+,no,28,9351.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,mar,2,24,RES-U09-00097
+,sí,0,0.0,Restaurantes Demo,no,no,1,no,teléfono,cena,mié,2,21,RES-U09-00098
+sin novedad,no,21,15799.0,Restaurantes Demo,no,sí,0,sí,web,almuerzo,mar,3,0,RES-U09-00099
+sin novedad,no,10,5566.0,Restaurantes Demo,sí,no,0,no,app,cena,mié,8,1,RES-U09-00100
+revisar,no,33,4602.0,Restaurantes Demo,sí,no,1,no,web,cena,vie,1,9,RES-U09-00101
+,no,15,5504.0,Restaurantes Demo,no,no,0,sí,web,almuerzo,vie,5,16,RES-U09-00102
+sin novedad,no,22,5108.0,Restaurantes Demo,sí,sí,0,sí,app,almuerzo,mar,2,5,RES-U09-00103
+sin novedad,no,34,1172.0,Restaurantes Demo,sí,no,0,no,teléfono,almuerzo,mar,8,22,RES-U09-00104
+,no,24,539.0,Restaurantes Demo,sí,no,0,sí,web,cena,sáb,5,14,RES-U09-00105
+sin novedad,no,11,6941.0,Restaurantes Demo,sí,no,0,sí,app,almuerzo,mar,1,1,RES-U09-00106
+sin novedad,no,0,3110.0,Restaurantes Demo,no,no,0,no,app,cena,sáb,2,10,RES-U09-00107
+revisar,no,28,2699.0,Restaurantes Demo,no,no,0,no,web,almuerzo,jue,2,14,RES-U09-00108
+,no,5,5043.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,mar,4,16,RES-U09-00109
+,no,35,7910.0,Restaurantes Demo,sí,no,1,sí,app,cena,mié,5,19,RES-U09-00110
+,no,15,2951.0,Restaurantes Demo,sí,no,0,no,web,cena,dom,2,23,RES-U09-00111
+sin novedad,no,22,2882.0,Restaurantes Demo,sí,,1,no,app,cena,sáb,4,17,RES-U09-00112
+,no,9,2915.0,Restaurantes Demo,no,no,0,sí,app,cena,lun,2,20,RES-U09-00113
+sin novedad,no,17,8248.0,Restaurantes Demo,no,no,1,no,app,cena,sáb,2,16,RES-U09-00114
+,no,18,2545.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,dom,2,24,RES-U09-00115
+revisar,no,39,5840.0,Restaurantes Demo,sí,sí,0,no,web,cena,jue,6,14,RES-U09-00116
+revisar,no,15,5725.0,Restaurantes Demo,sí,no,0,sí,web,cena,lun,1,4,RES-U09-00117
+revisar,no,5,3359.0,Restaurantes Demo,sí,no,2,no,teléfono,cena,vie,3,22,RES-U09-00118
+sin novedad,no,0,2083.0,Restaurantes Demo,no,no,0,no,app,cena,sáb,4,1,RES-U09-00119
+revisar,sí,0,0.0,Restaurantes Demo,sí,,0,no,app,almuerzo,mié,2,23,RES-U09-00120
+revisar,no,29,3641.0,Restaurantes Demo,no,no,0,no,app,cena,mié,5,2,RES-U09-00121
+,no,30,3511.0,Restaurantes Demo,sí,sí,1,no,app,cena,lun,3,14,RES-U09-00122
+sin novedad,sí,0,0.0,Restaurantes Demo,no,no,1,no,web,cena,vie,4,14,RES-U09-00123
+revisar,no,11,8513.0,Restaurantes Demo,no,no,1,no,teléfono,almuerzo,mié,1,14,RES-U09-00124
+revisar,no,27,5043.0,Restaurantes Demo,sí,no,0,no,web,cena,sáb,3,16,RES-U09-00125
+,sí,0,0.0,Restaurantes Demo,no,sí,0,no,teléfono,cena,lun,1,7,RES-U09-00126
+sin novedad,no,33,5220.0,Restaurantes Demo,sí,no,0,no,teléfono,almuerzo,mar,2,23,RES-U09-00127
+,sí,0,0.0,Restaurantes Demo,no,sí,1,no,web,almuerzo,mar,4,30,RES-U09-00128
+,no,36,5010.0,Restaurantes Demo,no,sí,0,no,app,almuerzo,mar,2,21,RES-U09-00129
+sin novedad,no,24,9928.0,Restaurantes Demo,sí,no,0,sí,web,almuerzo,lun,4,26,RES-U09-00130
+revisar,no,7,9758.0,Restaurantes Demo,sí,no,0,no,app,cena,jue,3,29,RES-U09-00131
+sin novedad,no,30,6596.0,Restaurantes Demo,sí,no,0,sí,app,cena,lun,4,29,RES-U09-00132
+sin novedad,no,37,1257.0,Restaurantes Demo,sí,no,0,sí,app,almuerzo,sáb,2,12,RES-U09-00133
+sin novedad,sí,0,0.0,Restaurantes Demo,sí,sí,0,no,web,cena,mié,4,30,RES-U09-00134
+sin novedad,no,7,1633.0,Restaurantes Demo,no,no,0,no,app,cena,sáb,3,18,RES-U09-00135
+revisar,no,30,7227.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,vie,8,8,RES-U09-00136
+,no,10,3638.0,Restaurantes Demo,sí,sí,0,no,app,almuerzo,mié,4,25,RES-U09-00137
+sin novedad,no,5,3889.0,Restaurantes Demo,sí,sí,1,no,web,almuerzo,lun,8,13,RES-U09-00138
+,no,1,3436.0,Restaurantes Demo,sí,no,0,sí,app,cena,sáb,2,19,RES-U09-00139
+,no,33,6424.0,Restaurantes Demo,sí,no,2,sí,web,almuerzo,vie,2,21,RES-U09-00140
+sin novedad,no,35,2578.0,Restaurantes Demo,sí,no,0,no,app,cena,lun,1,10,RES-U09-00141
+revisar,no,0,4332.0,Restaurantes Demo,no,no,0,no,app,almuerzo,vie,6,15,RES-U09-00142
+sin novedad,sí,0,0.0,Restaurantes Demo,no,sí,2,sí,web,almuerzo,lun,2,26,RES-U09-00143
+,no,18,8859.0,Restaurantes Demo,sí,no,2,no,app,cena,sáb,2,21,RES-U09-00144
+,no,18,5321.0,Restaurantes Demo,no,no,0,sí,app,cena,mar,4,0,RES-U09-00145
+revisar,no,28,2683.0,Restaurantes Demo,sí,sí,0,no,web,almuerzo,mar,2,14,RES-U09-00146
+,no,22,8657.0,Restaurantes Demo,no,no,0,no,app,cena,mié,3,20,RES-U09-00147
+revisar,no,3,7158.0,Restaurantes Demo,no,no,0,no,teléfono,cena,dom,2,0,RES-U09-00148
+sin novedad,no,34,7818.0,Restaurantes Demo,sí,no,1,no,teléfono,almuerzo,mié,6,7,RES-U09-00149
+,no,21,3337.0,Restaurantes Demo,no,no,0,no,web,almuerzo,dom,3,10,RES-U09-00150
+sin novedad,no,4,637.0,Restaurantes Demo,sí,no,1,no,app,almuerzo,lun,4,30,RES-U09-00151
+revisar,no,7,5192.0,Restaurantes Demo,sí,no,0,sí,app,cena,jue,2,7,RES-U09-00152
+,no,15,5146.0,Restaurantes Demo,sí,no,0,no,app,cena,vie,1,0,RES-U09-00153
+sin novedad,no,38,1697.0,Restaurantes Demo,sí,sí,0,no,app,cena,jue,4,19,RES-U09-00154
+revisar,no,38,1075.0,Restaurantes Demo,sí,,0,no,teléfono,cena,sáb,2,6,RES-U09-00155
+revisar,sí,0,0.0,Restaurantes Demo,no,sí,0,no,teléfono,cena,dom,2,18,RES-U09-00156
+revisar,no,1,13823.0,Restaurantes Demo,no,no,0,no,web,cena,mar,3,10,RES-U09-00157
+,no,38,1907.0,Restaurantes Demo,sí,no,0,no,web,almuerzo,mar,4,16,RES-U09-00158
+sin novedad,no,33,5675.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,dom,5,5,RES-U09-00159
+sin novedad,no,16,1178.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,dom,2,16,RES-U09-00160
+revisar,sí,0,0.0,Restaurantes Demo,no,,0,sí,app,cena,vie,5,30,RES-U09-00161
+revisar,sí,0,0.0,Restaurantes Demo,no,sí,0,no,web,almuerzo,jue,6,15,RES-U09-00162
+,no,4,17996.0,Restaurantes Demo,sí,sí,0,sí,web,almuerzo,jue,4,0,RES-U09-00163
+sin novedad,no,35,7235.0,Restaurantes Demo,sí,sí,0,sí,app,almuerzo,mié,2,10,RES-U09-00164
+,no,18,810.0,Restaurantes Demo,no,no,0,sí,web,almuerzo,lun,8,15,RES-U09-00165
+sin novedad,no,8,5177.0,Restaurantes Demo,sí,no,1,sí,app,cena,jue,2,8,RES-U09-00166
+,no,13,4527.0,Restaurantes Demo,sí,no,1,no,teléfono,cena,vie,4,0,RES-U09-00167
+,no,8,1254.0,Restaurantes Demo,sí,no,0,sí,app,cena,sáb,3,24,RES-U09-00168
+sin novedad,no,35,4153.0,Restaurantes Demo,no,,0,no,web,cena,jue,2,19,RES-U09-00169
+,no,5,998.0,Restaurantes Demo,no,no,0,sí,web,cena,vie,2,16,RES-U09-00170
+,sí,0,0.0,Restaurantes Demo,no,no,3,no,web,cena,lun,4,25,RES-U09-00171
+,no,14,5430.0,Restaurantes Demo,sí,no,0,no,web,cena,sáb,2,8,RES-U09-00172
+sin novedad,no,8,14215.0,Restaurantes Demo,sí,no,0,sí,web,almuerzo,mié,2,15,RES-U09-00173
+revisar,no,19,5434.0,Restaurantes Demo,no,no,0,no,app,almuerzo,mar,3,9,RES-U09-00174
+revisar,no,34,7745.0,Restaurantes Demo,no,no,3,no,teléfono,cena,mié,2,10,RES-U09-00175
+sin novedad,sí,0,0.0,Restaurantes Demo,sí,no,0,no,app,cena,vie,4,17,RES-U09-00176
+sin novedad,no,18,4900.0,Restaurantes Demo,no,,1,sí,app,cena,mié,4,13,RES-U09-00177
+,no,38,7423.0,Restaurantes Demo,no,no,1,no,app,cena,mié,8,3,RES-U09-00178
+,no,18,8233.0,Restaurantes Demo,sí,sí,0,no,app,cena,mar,2,20,RES-U09-00179
+revisar,no,23,3650.0,Restaurantes Demo,sí,no,0,no,app,cena,mar,3,2,RES-U09-00180
+,no,12,10668.0,Restaurantes Demo,no,no,1,sí,web,cena,sáb,2,22,RES-U09-00181
+sin novedad,sí,0,0.0,Restaurantes Demo,no,sí,0,sí,teléfono,cena,jue,2,12,RES-U09-00182
+revisar,no,15,7153.0,Restaurantes Demo,no,no,0,no,web,almuerzo,mar,1,20,RES-U09-00183
+sin novedad,no,3,3460.0,Restaurantes Demo,no,no,1,no,app,cena,jue,4,16,RES-U09-00184
+sin novedad,no,1,4069.0,Restaurantes Demo,sí,sí,0,no,app,almuerzo,jue,2,8,RES-U09-00185
+revisar,no,8,3398.0,Restaurantes Demo,no,no,0,no,app,cena,sáb,2,23,RES-U09-00186
+sin novedad,sí,0,0.0,Restaurantes Demo,sí,sí,1,no,teléfono,cena,jue,2,24,RES-U09-00187
+,no,0,4526.0,Restaurantes Demo,no,no,1,no,web,cena,dom,1,18,RES-U09-00188
+sin novedad,no,2,4386.0,Restaurantes Demo,sí,no,0,sí,app,cena,sáb,2,24,RES-U09-00189
+sin novedad,no,36,10230.0,Restaurantes Demo,no,sí,0,no,teléfono,almuerzo,lun,1,19,RES-U09-00190
+revisar,no,29,1052.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,mié,2,21,RES-U09-00191
+,sí,0,0.0,Restaurantes Demo,no,no,0,no,app,almuerzo,dom,5,27,RES-U09-00192
+revisar,no,12,16356.0,Restaurantes Demo,sí,no,0,no,app,cena,dom,2,3,RES-U09-00193
+sin novedad,no,38,5272.0,Restaurantes Demo,no,sí,0,sí,app,cena,mar,2,14,RES-U09-00194
+,no,6,580.0,Restaurantes Demo,sí,no,2,sí,web,almuerzo,lun,1,30,RES-U09-00195
+,sí,0,0.0,Restaurantes Demo,sí,no,3,no,app,cena,vie,4,9,RES-U09-00196
+,no,33,5148.0,Restaurantes Demo,sí,no,0,no,app,cena,dom,2,8,RES-U09-00197
+,sí,0,0.0,Restaurantes Demo,sí,no,1,no,app,cena,jue,2,11,RES-U09-00198
+sin novedad,sí,0,0.0,Restaurantes Demo,no,no,0,sí,web,cena,jue,6,13,RES-U09-00199
+,no,5,9877.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,lun,2,28,RES-U09-00200
+sin novedad,no,9,14160.0,Restaurantes Demo,sí,no,0,sí,web,cena,jue,2,22,RES-U09-00201
+sin novedad,no,33,4891.0,Restaurantes Demo,sí,no,0,no,app,cena,sáb,4,17,RES-U09-00202
+sin novedad,sí,0,0.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,lun,2,17,RES-U09-00203
+,no,13,5074.0,Restaurantes Demo,sí,no,0,sí,teléfono,almuerzo,lun,3,27,RES-U09-00204
+revisar,no,27,980.0,Restaurantes Demo,no,no,1,sí,web,almuerzo,mié,2,14,RES-U09-00205
+revisar,no,14,2888.0,Restaurantes Demo,sí,no,0,sí,teléfono,almuerzo,dom,2,8,RES-U09-00206
+,no,1,11524.0,Restaurantes Demo,sí,no,0,sí,teléfono,cena,jue,4,26,RES-U09-00207
+,no,14,4900.0,Restaurantes Demo,sí,sí,1,no,app,almuerzo,dom,4,10,RES-U09-00208
+revisar,no,10,5695.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,lun,5,19,RES-U09-00209
+revisar,sí,0,0.0,Restaurantes Demo,no,no,2,no,web,almuerzo,dom,2,27,RES-U09-00210
+revisar,no,19,4290.0,Restaurantes Demo,no,no,0,sí,web,almuerzo,sáb,5,14,RES-U09-00211
+sin novedad,no,22,3344.0,Restaurantes Demo,no,no,0,no,app,almuerzo,sáb,4,1,RES-U09-00212
+revisar,no,24,5815.0,Restaurantes Demo,sí,sí,0,no,app,cena,vie,2,13,RES-U09-00213
+,no,18,3875.0,Restaurantes Demo,sí,no,2,no,app,cena,dom,3,17,RES-U09-00214
+sin novedad,no,38,1116.0,Restaurantes Demo,no,no,0,no,app,cena,jue,5,8,RES-U09-00215
+,no,14,8810.0,Restaurantes Demo,no,no,0,sí,teléfono,cena,mié,4,10,RES-U09-00216
+sin novedad,sí,0,0.0,Restaurantes Demo,no,sí,0,no,app,cena,dom,2,28,RES-U09-00217
+revisar,no,23,8081.0,Restaurantes Demo,no,no,0,sí,web,cena,dom,3,22,RES-U09-00218
+,no,20,1827.0,Restaurantes Demo,no,no,0,no,teléfono,cena,vie,1,24,RES-U09-00219
+revisar,no,15,7306.0,Restaurantes Demo,sí,sí,0,no,app,almuerzo,mié,3,23,RES-U09-00220
+sin novedad,no,39,2485.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,mar,2,16,RES-U09-00221
+revisar,no,26,4562.0,Restaurantes Demo,sí,no,0,sí,teléfono,cena,lun,2,27,RES-U09-00222
+revisar,no,27,3229.0,Restaurantes Demo,sí,sí,1,no,app,almuerzo,dom,4,2,RES-U09-00223
+,no,37,7327.0,Restaurantes Demo,sí,no,0,no,app,cena,vie,2,29,RES-U09-00224
+sin novedad,no,10,2150.0,Restaurantes Demo,no,sí,0,no,app,almuerzo,jue,2,8,RES-U09-00225
+,no,13,4278.0,Restaurantes Demo,no,sí,0,no,app,almuerzo,sáb,4,22,RES-U09-00226
+revisar,no,1,9916.0,Restaurantes Demo,sí,no,0,sí,app,cena,dom,4,5,RES-U09-00227
+revisar,no,27,11762.0,Restaurantes Demo,no,no,1,sí,app,cena,lun,1,15,RES-U09-00228
+revisar,no,37,10318.0,Restaurantes Demo,sí,no,0,no,web,cena,sáb,2,29,RES-U09-00229
+,sí,0,0.0,Restaurantes Demo,no,sí,1,no,web,almuerzo,dom,4,21,RES-U09-00230
+revisar,no,7,9778.0,Restaurantes Demo,sí,sí,0,sí,teléfono,cena,lun,4,27,RES-U09-00231
+revisar,sí,0,0.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,mié,5,25,RES-U09-00232
+revisar,no,31,2049.0,Restaurantes Demo,no,no,0,no,teléfono,almuerzo,dom,6,1,RES-U09-00233
+,no,38,4085.0,Restaurantes Demo,sí,no,0,no,web,cena,sáb,3,24,RES-U09-00234
+sin novedad,no,39,8519.0,Restaurantes Demo,no,no,0,sí,app,almuerzo,jue,3,10,RES-U09-00235
+,sí,0,0.0,Restaurantes Demo,no,no,0,no,app,cena,sáb,2,12,RES-U09-00236
+revisar,sí,0,0.0,Restaurantes Demo,no,sí,0,no,web,cena,lun,2,26,RES-U09-00237
+sin novedad,no,17,11893.0,Restaurantes Demo,no,,2,no,app,cena,lun,3,12,RES-U09-00238
+revisar,no,10,1899.0,Restaurantes Demo,sí,no,0,no,app,cena,lun,4,11,RES-U09-00239
+revisar,no,28,1227.0,Restaurantes Demo,no,,0,no,web,cena,mar,5,29,RES-U09-00240
+revisar,sí,0,0.0,Restaurantes Demo,no,no,0,no,web,cena,mar,2,9,RES-U09-00241
+sin novedad,sí,0,0.0,Restaurantes Demo,no,no,2,sí,app,almuerzo,mié,2,26,RES-U09-00242
+sin novedad,no,21,5941.0,Restaurantes Demo,sí,no,0,sí,web,cena,sáb,2,4,RES-U09-00243
+revisar,no,13,1246.0,Restaurantes Demo,no,no,0,no,app,almuerzo,mié,3,5,RES-U09-00244
+,no,8,1738.0,Restaurantes Demo,no,no,0,sí,web,cena,mié,2,7,RES-U09-00245
+,no,30,5587.0,Restaurantes Demo,sí,no,0,sí,app,cena,lun,6,3,RES-U09-00246
+revisar,no,23,3224.0,Restaurantes Demo,no,,0,no,teléfono,cena,jue,2,24,RES-U09-00247
+revisar,no,18,4981.0,Restaurantes Demo,sí,no,0,sí,web,cena,mar,5,30,RES-U09-00248
+revisar,no,18,1493.0,Restaurantes Demo,sí,no,0,sí,teléfono,almuerzo,jue,3,30,RES-U09-00249
+sin novedad,no,32,1417.0,Restaurantes Demo,no,no,2,no,app,almuerzo,mié,2,20,RES-U09-00250
+sin novedad,no,13,5662.0,Restaurantes Demo,no,sí,1,sí,app,cena,dom,1,7,RES-U09-00251
+sin novedad,no,38,7484.0,Restaurantes Demo,no,sí,0,sí,app,cena,lun,4,7,RES-U09-00252
+,no,16,2570.0,Restaurantes Demo,no,no,0,no,app,cena,mar,2,16,RES-U09-00253
+revisar,no,28,3984.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,mar,2,18,RES-U09-00254
+,no,3,4235.0,Restaurantes Demo,no,sí,0,no,app,cena,lun,6,5,RES-U09-00255
+,no,37,3459.0,Restaurantes Demo,no,no,0,no,web,almuerzo,lun,8,7,RES-U09-00256
+,sí,0,0.0,Restaurantes Demo,no,no,1,no,app,cena,sáb,2,11,RES-U09-00257
+revisar,no,32,1369.0,Restaurantes Demo,sí,sí,0,sí,web,cena,sáb,4,27,RES-U09-00258
+sin novedad,no,37,9427.0,Restaurantes Demo,no,no,0,no,web,almuerzo,lun,2,1,RES-U09-00259
+sin novedad,sí,0,0.0,Restaurantes Demo,no,sí,0,no,app,cena,vie,3,6,RES-U09-00260
+sin novedad,no,22,836.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,mié,2,6,RES-U09-00261
+sin novedad,no,25,2741.0,Restaurantes Demo,sí,sí,0,no,teléfono,cena,jue,8,21,RES-U09-00262
+,sí,0,0.0,Restaurantes Demo,no,no,0,sí,teléfono,almuerzo,sáb,6,16,RES-U09-00263
+sin novedad,no,24,3344.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,mié,3,23,RES-U09-00264
+,no,34,8617.0,Restaurantes Demo,sí,sí,1,sí,teléfono,cena,mié,1,28,RES-U09-00265
+,no,30,2970.0,Restaurantes Demo,sí,sí,0,no,app,cena,sáb,4,11,RES-U09-00266
+,sí,0,0.0,Restaurantes Demo,no,no,1,no,web,almuerzo,sáb,3,8,RES-U09-00267
+revisar,no,31,11493.0,Restaurantes Demo,sí,no,0,no,app,cena,lun,3,16,RES-U09-00268
+revisar,no,27,1473.0,Restaurantes Demo,sí,no,0,sí,web,cena,mié,2,15,RES-U09-00269
+,no,3,9596.0,Restaurantes Demo,sí,,0,no,app,almuerzo,mar,6,22,RES-U09-00270
+,sí,0,0.0,Restaurantes Demo,no,no,1,no,web,cena,jue,2,8,RES-U09-00271
+,no,7,6093.0,Restaurantes Demo,sí,no,0,sí,app,cena,mar,2,19,RES-U09-00272
+,no,20,3146.0,Restaurantes Demo,sí,no,1,no,teléfono,cena,lun,4,26,RES-U09-00273
+sin novedad,no,29,3705.0,Restaurantes Demo,no,no,0,sí,teléfono,cena,dom,4,14,RES-U09-00274
+sin novedad,no,33,3294.0,Restaurantes Demo,sí,no,0,sí,web,cena,vie,3,12,RES-U09-00275
+sin novedad,no,15,2115.0,Restaurantes Demo,sí,no,0,no,app,cena,lun,2,8,RES-U09-00276
+revisar,no,11,1070.0,Restaurantes Demo,sí,sí,0,sí,app,cena,sáb,2,29,RES-U09-00277
+sin novedad,no,7,2354.0,Restaurantes Demo,no,no,0,no,app,almuerzo,jue,1,3,RES-U09-00278
+,no,22,8550.0,Restaurantes Demo,no,no,1,no,web,almuerzo,vie,4,0,RES-U09-00279
+sin novedad,no,30,8795.0,Restaurantes Demo,no,no,0,sí,web,almuerzo,lun,4,17,RES-U09-00280
+sin novedad,no,23,4899.0,Restaurantes Demo,sí,no,0,no,app,cena,lun,5,9,RES-U09-00281
+sin novedad,no,30,11159.0,Restaurantes Demo,sí,no,2,no,teléfono,almuerzo,sáb,1,9,RES-U09-00282
+sin novedad,no,10,2171.0,Restaurantes Demo,sí,no,0,sí,app,almuerzo,sáb,2,27,RES-U09-00283
+revisar,sí,0,0.0,Restaurantes Demo,no,no,0,no,teléfono,almuerzo,dom,2,18,RES-U09-00284
+sin novedad,no,11,2566.0,Restaurantes Demo,sí,no,0,no,app,cena,mié,3,3,RES-U09-00285
+,sí,0,0.0,Restaurantes Demo,no,no,2,no,teléfono,cena,lun,4,17,RES-U09-00286
+sin novedad,no,5,5996.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,mar,6,30,RES-U09-00287
+sin novedad,no,26,776.0,Restaurantes Demo,no,no,0,sí,app,cena,mar,3,4,RES-U09-00288
+sin novedad,no,21,2127.0,Restaurantes Demo,sí,no,0,sí,teléfono,cena,lun,3,20,RES-U09-00289
+revisar,no,11,656.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,jue,2,27,RES-U09-00290
+,sí,0,0.0,Restaurantes Demo,no,no,1,no,teléfono,almuerzo,sáb,4,27,RES-U09-00291
+sin novedad,no,22,3797.0,Restaurantes Demo,no,no,1,sí,web,almuerzo,sáb,8,19,RES-U09-00292
+sin novedad,no,24,8456.0,Restaurantes Demo,sí,no,2,sí,app,cena,dom,4,20,RES-U09-00293
+sin novedad,no,1,4722.0,Restaurantes Demo,no,sí,0,no,teléfono,almuerzo,lun,2,17,RES-U09-00294
+sin novedad,no,0,14631.0,Restaurantes Demo,no,no,0,no,web,almuerzo,mié,2,24,RES-U09-00295
+revisar,no,24,6259.0,Restaurantes Demo,no,no,1,no,app,cena,dom,2,6,RES-U09-00296
+,no,21,3936.0,Restaurantes Demo,no,no,0,no,teléfono,cena,mar,5,29,RES-U09-00297
+revisar,no,19,3871.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,dom,2,8,RES-U09-00298
+revisar,no,6,4569.0,Restaurantes Demo,sí,no,0,no,web,cena,vie,2,0,RES-U09-00299
+sin novedad,no,10,2614.0,Restaurantes Demo,no,no,0,no,web,almuerzo,mié,3,0,RES-U09-00300
+revisar,no,35,3644.0,Restaurantes Demo,sí,no,0,no,web,cena,lun,2,13,RES-U09-00301
+sin novedad,no,28,10047.0,Restaurantes Demo,no,sí,1,no,teléfono,cena,dom,4,0,RES-U09-00302
+,no,25,3438.0,Restaurantes Demo,no,no,0,no,app,cena,lun,3,5,RES-U09-00303
+,sí,0,0.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,dom,4,24,RES-U09-00304
+,sí,0,0.0,Restaurantes Demo,sí,no,0,no,app,cena,sáb,4,24,RES-U09-00305
+sin novedad,no,7,925.0,Restaurantes Demo,no,no,0,no,teléfono,almuerzo,lun,1,15,RES-U09-00306
+,no,12,3719.0,Restaurantes Demo,sí,no,0,no,teléfono,almuerzo,vie,6,20,RES-U09-00307
+sin novedad,no,3,5272.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,sáb,2,18,RES-U09-00308
+,no,27,6311.0,Restaurantes Demo,sí,no,1,sí,web,cena,sáb,3,26,RES-U09-00309
+,sí,0,0.0,Restaurantes Demo,no,no,0,no,web,almuerzo,mié,6,6,RES-U09-00310
+revisar,no,34,8431.0,Restaurantes Demo,no,no,0,no,web,cena,sáb,4,7,RES-U09-00311
+,no,4,6037.0,Restaurantes Demo,no,no,1,no,app,cena,mar,2,9,RES-U09-00312
+,no,2,4526.0,Restaurantes Demo,sí,no,0,no,web,cena,mié,4,16,RES-U09-00313
+revisar,no,21,4005.0,Restaurantes Demo,sí,no,0,sí,web,cena,mar,3,25,RES-U09-00314
+,no,32,4349.0,Restaurantes Demo,sí,sí,0,no,app,almuerzo,dom,6,30,RES-U09-00315
+sin novedad,no,11,5560.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,sáb,2,6,RES-U09-00316
+,no,31,14203.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,mar,1,22,RES-U09-00317
+sin novedad,no,15,1417.0,Restaurantes Demo,no,no,0,no,teléfono,cena,vie,2,15,RES-U09-00318
+revisar,sí,0,0.0,Restaurantes Demo,no,,1,no,app,cena,sáb,2,19,RES-U09-00319
+sin novedad,no,29,4150.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,mar,2,23,RES-U09-00320
+sin novedad,sí,0,0.0,Restaurantes Demo,no,no,0,sí,app,cena,mar,6,17,RES-U09-00321
+revisar,no,6,980.0,Restaurantes Demo,no,no,0,no,app,cena,dom,2,16,RES-U09-00322
+revisar,no,22,2870.0,Restaurantes Demo,no,no,1,no,teléfono,cena,mar,6,14,RES-U09-00323
+revisar,no,16,2068.0,Restaurantes Demo,sí,no,1,no,app,cena,jue,2,1,RES-U09-00324
+sin novedad,no,18,6536.0,Restaurantes Demo,sí,no,0,no,web,cena,sáb,1,23,RES-U09-00325
+sin novedad,no,33,11724.0,Restaurantes Demo,no,no,0,no,web,cena,mar,4,22,RES-U09-00326
+revisar,no,24,4079.0,Restaurantes Demo,no,no,0,no,web,cena,lun,6,24,RES-U09-00327
+revisar,no,7,6998.0,Restaurantes Demo,no,no,0,no,teléfono,cena,vie,4,12,RES-U09-00328
+,no,3,5167.0,Restaurantes Demo,no,no,0,sí,app,cena,mié,2,0,RES-U09-00329
+revisar,no,11,3377.0,Restaurantes Demo,sí,no,0,no,app,cena,jue,2,10,RES-U09-00330
+sin novedad,no,8,7995.0,Restaurantes Demo,sí,no,2,no,teléfono,almuerzo,mar,8,10,RES-U09-00331
+revisar,no,35,2899.0,Restaurantes Demo,sí,no,0,sí,teléfono,almuerzo,mié,4,20,RES-U09-00332
+,no,28,7258.0,Restaurantes Demo,sí,no,0,no,web,cena,mié,2,12,RES-U09-00333
+sin novedad,no,2,1758.0,Restaurantes Demo,sí,no,1,no,web,almuerzo,sáb,4,2,RES-U09-00334
+sin novedad,sí,0,0.0,Restaurantes Demo,no,no,1,no,app,cena,dom,8,12,RES-U09-00335
+,no,8,942.0,Restaurantes Demo,no,no,1,sí,teléfono,almuerzo,dom,2,4,RES-U09-00336
+sin novedad,no,29,5024.0,Restaurantes Demo,sí,no,0,sí,app,almuerzo,mié,2,1,RES-U09-00337
+revisar,no,23,2742.0,Restaurantes Demo,no,no,1,no,app,cena,mié,3,12,RES-U09-00338
+,no,10,2726.0,Restaurantes Demo,no,no,1,no,app,cena,dom,2,2,RES-U09-00339
+,no,18,14635.0,Restaurantes Demo,no,sí,1,no,app,cena,lun,1,18,RES-U09-00340
+,no,37,6613.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,jue,2,10,RES-U09-00341
+revisar,no,12,756.0,Restaurantes Demo,sí,no,1,no,app,cena,mar,2,16,RES-U09-00342
+,no,7,3874.0,Restaurantes Demo,sí,sí,0,no,app,cena,mié,2,4,RES-U09-00343
+sin novedad,no,25,13922.0,Restaurantes Demo,no,no,0,no,web,almuerzo,lun,3,18,RES-U09-00344
+sin novedad,no,3,2085.0,Restaurantes Demo,no,no,0,sí,app,almuerzo,sáb,3,25,RES-U09-00345
+,no,4,14758.0,Restaurantes Demo,no,sí,1,sí,app,almuerzo,lun,8,5,RES-U09-00346
+,no,1,5097.0,Restaurantes Demo,no,no,1,sí,app,cena,jue,2,5,RES-U09-00347
+revisar,no,7,1414.0,Restaurantes Demo,no,no,0,no,web,cena,sáb,4,13,RES-U09-00348
+,no,33,2910.0,Restaurantes Demo,no,sí,0,no,app,cena,mar,4,19,RES-U09-00349
+revisar,no,32,3284.0,Restaurantes Demo,no,no,0,sí,web,cena,mié,2,11,RES-U09-00350
+sin novedad,no,32,1180.0,Restaurantes Demo,no,no,3,no,web,almuerzo,mié,1,6,RES-U09-00351
+revisar,sí,0,0.0,Restaurantes Demo,no,no,0,no,teléfono,cena,lun,2,11,RES-U09-00352
+sin novedad,sí,0,0.0,Restaurantes Demo,no,no,1,no,web,almuerzo,sáb,1,28,RES-U09-00353
+,no,8,1798.0,Restaurantes Demo,sí,no,0,no,web,almuerzo,vie,2,15,RES-U09-00354
+sin novedad,no,36,6238.0,Restaurantes Demo,no,no,1,no,teléfono,cena,sáb,2,20,RES-U09-00355
+revisar,no,9,4311.0,Restaurantes Demo,sí,sí,4,no,teléfono,almuerzo,sáb,4,9,RES-U09-00356
+sin novedad,no,39,1411.0,Restaurantes Demo,sí,no,1,no,teléfono,cena,jue,4,1,RES-U09-00357
+,no,37,3039.0,Restaurantes Demo,sí,no,1,no,app,cena,sáb,3,16,RES-U09-00358
+,no,6,2791.0,Restaurantes Demo,sí,sí,0,no,web,cena,vie,5,25,RES-U09-00359
+revisar,no,19,7166.0,Restaurantes Demo,sí,no,0,sí,web,cena,mar,2,24,RES-U09-00360
+,no,33,238.0,Restaurantes Demo,no,no,0,no,app,cena,sáb,4,6,RES-U09-00361
+revisar,no,5,7985.0,Restaurantes Demo,sí,no,0,sí,teléfono,cena,mar,2,21,RES-U09-00362
+sin novedad,sí,0,0.0,Restaurantes Demo,no,sí,0,no,web,cena,dom,4,2,RES-U09-00363
+revisar,no,23,1800.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,dom,6,15,RES-U09-00364
+sin novedad,no,14,4000.0,Restaurantes Demo,no,no,1,sí,teléfono,cena,mié,3,8,RES-U09-00365
+revisar,no,12,4208.0,Restaurantes Demo,no,no,2,no,app,cena,dom,4,19,RES-U09-00366
+revisar,no,32,8043.0,Restaurantes Demo,sí,sí,0,sí,app,cena,vie,4,6,RES-U09-00367
+sin novedad,no,1,1399.0,Restaurantes Demo,sí,,0,no,app,almuerzo,dom,4,20,RES-U09-00368
+revisar,no,8,502.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,jue,3,13,RES-U09-00369
+revisar,no,24,8839.0,Restaurantes Demo,sí,sí,2,no,teléfono,cena,lun,3,20,RES-U09-00370
+sin novedad,no,11,4877.0,Restaurantes Demo,sí,no,0,sí,app,almuerzo,lun,2,19,RES-U09-00371
+,no,0,6100.0,Restaurantes Demo,no,no,5,sí,teléfono,cena,sáb,2,26,RES-U09-00372
+sin novedad,sí,0,0.0,Restaurantes Demo,no,sí,2,sí,web,cena,lun,2,20,RES-U09-00373
+,no,31,2263.0,Restaurantes Demo,no,no,0,no,web,cena,vie,2,16,RES-U09-00374
+revisar,no,5,2030.0,Restaurantes Demo,sí,no,2,no,web,cena,lun,3,3,RES-U09-00375
+sin novedad,sí,0,0.0,Restaurantes Demo,no,no,0,sí,web,cena,mar,1,24,RES-U09-00376
+,no,22,5661.0,Restaurantes Demo,sí,no,1,sí,app,cena,mar,1,13,RES-U09-00377
+sin novedad,no,5,8973.0,Restaurantes Demo,sí,no,1,no,app,almuerzo,mar,4,29,RES-U09-00378
+sin novedad,no,14,1121.0,Restaurantes Demo,sí,sí,0,no,web,cena,sáb,2,20,RES-U09-00379
+,no,15,4892.0,Restaurantes Demo,sí,no,0,no,app,cena,vie,8,30,RES-U09-00380
+revisar,no,12,2882.0,Restaurantes Demo,sí,no,0,no,app,cena,mié,2,5,RES-U09-00381
+sin novedad,no,24,4639.0,Restaurantes Demo,sí,no,1,no,app,cena,sáb,5,0,RES-U09-00382
+,no,9,912.0,Restaurantes Demo,sí,no,0,no,teléfono,almuerzo,mié,5,2,RES-U09-00383
+revisar,no,29,6865.0,Restaurantes Demo,no,no,0,sí,teléfono,cena,sáb,4,18,RES-U09-00384
+sin novedad,sí,0,0.0,Restaurantes Demo,sí,sí,0,no,app,almuerzo,mar,5,22,RES-U09-00385
+revisar,sí,0,0.0,Restaurantes Demo,sí,no,0,no,app,cena,vie,4,28,RES-U09-00386
+revisar,no,16,7188.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,lun,2,27,RES-U09-00387
+revisar,no,17,3148.0,Restaurantes Demo,no,no,0,no,app,cena,mar,3,21,RES-U09-00388
+revisar,no,28,1531.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,lun,3,18,RES-U09-00389
+sin novedad,no,11,4799.0,Restaurantes Demo,sí,no,2,sí,teléfono,cena,mar,2,8,RES-U09-00390
+,no,32,6863.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,dom,2,10,RES-U09-00391
+sin novedad,no,21,3935.0,Restaurantes Demo,sí,,0,no,app,almuerzo,mar,3,14,RES-U09-00392
+sin novedad,no,12,3446.0,Restaurantes Demo,sí,sí,1,no,app,almuerzo,mar,4,30,RES-U09-00393
+sin novedad,no,3,1110.0,Restaurantes Demo,no,sí,0,no,web,cena,mié,2,7,RES-U09-00394
+sin novedad,no,28,5079.0,Restaurantes Demo,sí,no,0,no,app,cena,sáb,2,20,RES-U09-00395
+sin novedad,no,20,2067.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,jue,2,0,RES-U09-00396
+revisar,no,37,19588.0,Restaurantes Demo,sí,,0,no,app,almuerzo,sáb,2,9,RES-U09-00397
+revisar,no,27,894.0,Restaurantes Demo,sí,no,0,no,web,almuerzo,mar,2,2,RES-U09-00398
+sin novedad,no,4,3565.0,Restaurantes Demo,no,no,0,sí,teléfono,almuerzo,sáb,3,10,RES-U09-00399
+sin novedad,no,29,11171.0,Restaurantes Demo,sí,no,1,no,teléfono,cena,vie,5,5,RES-U09-00400
+,no,2,14331.0,Restaurantes Demo,no,no,0,no,web,cena,jue,6,26,RES-U09-00401
+,no,15,1406.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,lun,8,26,RES-U09-00402
+revisar,no,15,2556.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,jue,1,9,RES-U09-00403
+,no,6,3684.0,Restaurantes Demo,sí,no,0,no,app,cena,lun,3,0,RES-U09-00404
+,no,31,1647.0,Restaurantes Demo,no,no,0,sí,teléfono,almuerzo,lun,2,26,RES-U09-00405
+revisar,no,13,22017.0,Restaurantes Demo,no,no,0,no,app,almuerzo,mié,5,11,RES-U09-00406
+revisar,no,39,6912.0,Restaurantes Demo,no,no,0,sí,app,almuerzo,jue,5,2,RES-U09-00407
+revisar,no,29,14707.0,Restaurantes Demo,sí,no,0,no,web,cena,vie,4,8,RES-U09-00408
+,no,0,1223.0,Restaurantes Demo,no,no,1,sí,app,almuerzo,sáb,2,16,RES-U09-00409
+sin novedad,no,15,1871.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,lun,3,25,RES-U09-00410
+revisar,no,19,9183.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,sáb,3,21,RES-U09-00411
+sin novedad,no,15,3565.0,Restaurantes Demo,sí,no,2,no,teléfono,almuerzo,jue,3,9,RES-U09-00412
+,no,33,5569.0,Restaurantes Demo,no,no,1,sí,app,cena,mar,5,28,RES-U09-00413
+sin novedad,no,25,1588.0,Restaurantes Demo,no,no,0,no,web,cena,dom,2,23,RES-U09-00414
+sin novedad,no,25,1551.0,Restaurantes Demo,sí,no,0,no,app,cena,mar,2,11,RES-U09-00415
+sin novedad,no,19,1793.0,Restaurantes Demo,sí,no,0,no,app,cena,sáb,2,2,RES-U09-00416
+revisar,no,4,4555.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,lun,4,24,RES-U09-00417
+,no,6,9557.0,Restaurantes Demo,sí,no,1,no,web,almuerzo,mar,2,18,RES-U09-00418
+,no,28,5873.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,mar,4,20,RES-U09-00419
+revisar,no,19,5941.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,jue,6,11,RES-U09-00420
+,no,28,5186.0,Restaurantes Demo,sí,sí,0,no,teléfono,cena,dom,3,4,RES-U09-00421
+sin novedad,no,15,6226.0,Restaurantes Demo,sí,no,0,sí,app,cena,vie,2,29,RES-U09-00422
+,no,39,3661.0,Restaurantes Demo,sí,,1,sí,web,cena,sáb,2,12,RES-U09-00423
+sin novedad,no,37,6894.0,Restaurantes Demo,no,no,2,no,app,cena,mar,3,23,RES-U09-00424
+revisar,sí,0,0.0,Restaurantes Demo,no,no,1,no,app,cena,vie,2,14,RES-U09-00425
+revisar,no,5,1232.0,Restaurantes Demo,sí,no,0,no,web,almuerzo,lun,4,23,RES-U09-00426
+sin novedad,no,9,4880.0,Restaurantes Demo,no,no,1,sí,app,cena,lun,4,30,RES-U09-00427
+revisar,no,35,6337.0,Restaurantes Demo,no,no,0,sí,app,cena,lun,5,23,RES-U09-00428
+sin novedad,no,18,12537.0,Restaurantes Demo,no,no,1,sí,app,almuerzo,lun,4,8,RES-U09-00429
+sin novedad,no,26,1282.0,Restaurantes Demo,no,sí,0,sí,app,almuerzo,sáb,6,5,RES-U09-00430
+sin novedad,no,37,15319.0,Restaurantes Demo,sí,no,0,no,web,cena,jue,4,29,RES-U09-00431
+,no,32,3631.0,Restaurantes Demo,sí,sí,0,no,teléfono,cena,mar,2,16,RES-U09-00432
+,sí,0,0.0,Restaurantes Demo,no,,1,no,web,cena,mié,4,29,RES-U09-00433
+,sí,0,0.0,Restaurantes Demo,no,no,0,no,app,cena,sáb,3,16,RES-U09-00434
+sin novedad,no,30,6893.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,vie,2,11,RES-U09-00435
+sin novedad,sí,0,0.0,Restaurantes Demo,sí,no,0,no,teléfono,almuerzo,mar,2,28,RES-U09-00436
+revisar,no,5,11239.0,Restaurantes Demo,no,no,0,no,app,almuerzo,lun,4,24,RES-U09-00437
+sin novedad,no,3,6562.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,lun,6,19,RES-U09-00438
+,no,10,641.0,Restaurantes Demo,no,sí,1,sí,app,almuerzo,sáb,4,21,RES-U09-00439
+,no,5,4332.0,Restaurantes Demo,sí,no,0,no,app,cena,lun,2,16,RES-U09-00440
+revisar,no,19,4155.0,Restaurantes Demo,sí,,0,no,app,almuerzo,mar,4,18,RES-U09-00441
+,no,5,965.0,Restaurantes Demo,no,no,0,no,app,almuerzo,lun,2,3,RES-U09-00442
+sin novedad,no,31,6415.0,Restaurantes Demo,sí,no,1,no,app,cena,sáb,8,24,RES-U09-00443
+revisar,no,25,5818.0,Restaurantes Demo,sí,no,0,no,web,almuerzo,sáb,4,28,RES-U09-00444
+sin novedad,no,39,2456.0,Restaurantes Demo,sí,no,0,no,web,cena,dom,2,24,RES-U09-00445
+sin novedad,no,19,7526.0,Restaurantes Demo,sí,no,1,no,teléfono,cena,jue,1,3,RES-U09-00446
+revisar,no,33,2926.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,sáb,2,10,RES-U09-00447
+sin novedad,no,27,5940.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,sáb,3,6,RES-U09-00448
+revisar,no,25,6541.0,Restaurantes Demo,no,no,1,sí,app,cena,dom,2,5,RES-U09-00449
+,no,29,5128.0,Restaurantes Demo,sí,no,0,no,web,cena,mié,4,7,RES-U09-00450
+sin novedad,no,17,4013.0,Restaurantes Demo,no,no,2,sí,web,cena,dom,4,29,RES-U09-00451
+revisar,no,10,1253.0,Restaurantes Demo,sí,no,1,no,app,cena,sáb,3,1,RES-U09-00452
+sin novedad,no,19,5459.0,Restaurantes Demo,sí,no,1,no,app,cena,jue,3,7,RES-U09-00453
+sin novedad,sí,0,0.0,Restaurantes Demo,no,no,0,no,app,almuerzo,vie,8,29,RES-U09-00454
+revisar,no,15,1240.0,Restaurantes Demo,sí,no,2,sí,app,cena,jue,2,22,RES-U09-00455
+sin novedad,no,26,5262.0,Restaurantes Demo,sí,,0,sí,web,cena,dom,2,5,RES-U09-00456
+revisar,no,32,3169.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,lun,1,0,RES-U09-00457
+revisar,no,31,5096.0,Restaurantes Demo,sí,,1,sí,web,almuerzo,mié,2,4,RES-U09-00458
+,no,30,1737.0,Restaurantes Demo,sí,no,0,sí,teléfono,cena,dom,4,25,RES-U09-00459
+,no,31,3830.0,Restaurantes Demo,no,no,0,no,teléfono,almuerzo,mié,3,11,RES-U09-00460
+revisar,no,5,3089.0,Restaurantes Demo,no,no,1,no,app,cena,vie,3,24,RES-U09-00461
+revisar,sí,0,0.0,Restaurantes Demo,sí,no,0,no,web,cena,jue,1,1,RES-U09-00462
+sin novedad,no,13,4066.0,Restaurantes Demo,sí,sí,1,no,app,cena,dom,6,12,RES-U09-00463
+,no,31,7194.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,vie,4,20,RES-U09-00464
+revisar,no,1,6183.0,Restaurantes Demo,no,sí,0,sí,app,almuerzo,mar,4,2,RES-U09-00465
+revisar,no,28,6605.0,Restaurantes Demo,no,no,0,no,teléfono,cena,mié,4,15,RES-U09-00466
+sin novedad,no,29,3977.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,mié,2,20,RES-U09-00467
+revisar,sí,0,0.0,Restaurantes Demo,no,no,1,no,web,cena,jue,2,24,RES-U09-00468
+sin novedad,no,20,3754.0,Restaurantes Demo,no,no,0,no,web,cena,jue,2,14,RES-U09-00469
+,no,14,3871.0,Restaurantes Demo,sí,sí,1,sí,app,cena,mar,3,0,RES-U09-00470
+sin novedad,no,2,1918.0,Restaurantes Demo,sí,sí,0,no,web,almuerzo,mié,2,9,RES-U09-00471
+,no,33,5956.0,Restaurantes Demo,sí,sí,0,no,teléfono,cena,dom,2,24,RES-U09-00472
+,no,24,1209.0,Restaurantes Demo,no,no,0,no,teléfono,almuerzo,lun,3,13,RES-U09-00473
+sin novedad,sí,0,0.0,Restaurantes Demo,sí,no,0,no,web,cena,sáb,4,11,RES-U09-00474
+,no,32,5897.0,Restaurantes Demo,no,no,1,no,teléfono,cena,jue,2,25,RES-U09-00475
+revisar,no,3,6219.0,Restaurantes Demo,sí,no,1,no,app,cena,mar,2,4,RES-U09-00476
+sin novedad,no,3,1777.0,Restaurantes Demo,sí,no,1,no,teléfono,cena,vie,2,4,RES-U09-00477
+revisar,sí,0,0.0,Restaurantes Demo,no,no,1,no,app,cena,mié,1,9,RES-U09-00478
+sin novedad,no,2,6707.0,Restaurantes Demo,no,no,0,no,teléfono,cena,sáb,3,4,RES-U09-00479
+sin novedad,no,17,7421.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,dom,2,22,RES-U09-00480
+,sí,0,0.0,Restaurantes Demo,no,no,1,no,teléfono,cena,sáb,5,25,RES-U09-00481
+revisar,no,3,911.0,Restaurantes Demo,sí,sí,1,sí,teléfono,cena,vie,5,20,RES-U09-00482
+sin novedad,sí,0,0.0,Restaurantes Demo,sí,no,1,no,web,cena,mié,6,28,RES-U09-00483
+revisar,no,22,4775.0,Restaurantes Demo,no,sí,0,no,app,cena,mié,5,0,RES-U09-00484
+,no,9,1392.0,Restaurantes Demo,no,no,1,no,teléfono,almuerzo,lun,3,11,RES-U09-00485
+,no,3,17893.0,Restaurantes Demo,no,no,1,no,app,cena,sáb,4,7,RES-U09-00486
+,no,29,5058.0,Restaurantes Demo,sí,no,0,no,teléfono,almuerzo,mar,2,16,RES-U09-00487
+sin novedad,sí,0,0.0,Restaurantes Demo,no,no,2,no,app,cena,lun,4,9,RES-U09-00488
+,no,5,3947.0,Restaurantes Demo,no,no,0,no,teléfono,almuerzo,lun,2,19,RES-U09-00489
+sin novedad,sí,0,0.0,Restaurantes Demo,no,sí,0,no,web,cena,jue,5,25,RES-U09-00490
+,no,15,5601.0,Restaurantes Demo,no,no,0,no,web,almuerzo,mar,4,20,RES-U09-00491
+sin novedad,no,11,3025.0,Restaurantes Demo,no,no,0,sí,web,almuerzo,dom,5,22,RES-U09-00492
+,no,7,6857.0,Restaurantes Demo,no,no,0,no,app,almuerzo,vie,5,10,RES-U09-00493
+,no,2,7282.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,vie,2,28,RES-U09-00494
+revisar,no,14,5867.0,Restaurantes Demo,no,no,0,sí,app,almuerzo,vie,3,12,RES-U09-00495
+sin novedad,no,37,2885.0,Restaurantes Demo,sí,no,1,sí,teléfono,cena,dom,5,4,RES-U09-00496
+,sí,0,0.0,Restaurantes Demo,no,no,2,sí,app,cena,mié,2,28,RES-U09-00497
+,sí,0,0.0,Restaurantes Demo,no,,0,no,web,almuerzo,mié,2,22,RES-U09-00498
+,no,30,7215.0,Restaurantes Demo,no,no,0,no,app,cena,dom,2,8,RES-U09-00499
+sin novedad,no,18,11860.0,Restaurantes Demo,sí,sí,0,no,app,cena,lun,2,7,RES-U09-00500
+revisar,no,39,1869.0,Restaurantes Demo,sí,no,0,no,web,cena,mié,2,9,RES-U09-00501
+,no,4,761.0,Restaurantes Demo,no,sí,1,sí,web,cena,dom,4,17,RES-U09-00502
+revisar,no,29,793.0,Restaurantes Demo,sí,sí,2,no,app,almuerzo,lun,3,6,RES-U09-00503
+revisar,no,7,7711.0,Restaurantes Demo,sí,no,0,no,teléfono,almuerzo,lun,6,14,RES-U09-00504
+revisar,no,36,3619.0,Restaurantes Demo,sí,no,0,sí,web,cena,lun,4,24,RES-U09-00505
+sin novedad,no,26,23919.0,Restaurantes Demo,no,no,0,no,app,cena,sáb,2,21,RES-U09-00506
+revisar,no,36,1919.0,Restaurantes Demo,no,no,1,no,web,cena,jue,2,11,RES-U09-00507
+sin novedad,no,23,1837.0,Restaurantes Demo,sí,no,0,no,app,cena,sáb,4,6,RES-U09-00508
+revisar,no,35,3441.0,Restaurantes Demo,sí,no,1,sí,web,cena,vie,8,24,RES-U09-00509
+,no,25,6735.0,Restaurantes Demo,sí,no,1,no,app,cena,dom,2,29,RES-U09-00510
+,sí,0,0.0,Restaurantes Demo,sí,no,0,no,web,cena,jue,6,30,RES-U09-00511
+sin novedad,no,2,741.0,Restaurantes Demo,sí,no,1,no,app,cena,mié,1,19,RES-U09-00512
+sin novedad,no,0,3365.0,Restaurantes Demo,no,no,0,no,web,almuerzo,mar,1,30,RES-U09-00513
+,no,34,4218.0,Restaurantes Demo,sí,no,0,sí,teléfono,almuerzo,vie,3,8,RES-U09-00514
+revisar,no,5,9785.0,Restaurantes Demo,no,no,1,no,web,cena,sáb,4,22,RES-U09-00515
+sin novedad,no,20,3341.0,Restaurantes Demo,sí,no,1,no,app,almuerzo,vie,6,28,RES-U09-00516
+sin novedad,no,24,1669.0,Restaurantes Demo,no,sí,0,no,teléfono,cena,mié,2,2,RES-U09-00517
+sin novedad,no,2,6037.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,jue,4,26,RES-U09-00518
+sin novedad,no,28,4040.0,Restaurantes Demo,no,no,0,no,web,cena,mié,4,14,RES-U09-00519
+,sí,0,0.0,Restaurantes Demo,no,no,0,no,web,cena,mar,6,6,RES-U09-00520
+sin novedad,no,11,8737.0,Restaurantes Demo,no,no,0,no,app,cena,lun,2,26,RES-U09-00521
+revisar,no,1,1398.0,Restaurantes Demo,sí,sí,1,no,web,almuerzo,dom,4,27,RES-U09-00522
+sin novedad,no,5,7743.0,Restaurantes Demo,sí,no,0,sí,teléfono,cena,sáb,1,30,RES-U09-00523
+sin novedad,no,6,1435.0,Restaurantes Demo,sí,no,0,sí,app,cena,lun,1,3,RES-U09-00524
+sin novedad,no,4,4009.0,Restaurantes Demo,sí,no,0,no,web,almuerzo,dom,4,8,RES-U09-00525
+revisar,no,20,10353.0,Restaurantes Demo,no,sí,0,sí,app,cena,sáb,3,18,RES-U09-00526
+,no,12,8652.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,vie,2,10,RES-U09-00527
+sin novedad,no,13,590.0,Restaurantes Demo,no,sí,0,no,teléfono,almuerzo,mié,1,21,RES-U09-00528
+sin novedad,no,10,4176.0,Restaurantes Demo,no,no,0,no,app,cena,vie,3,30,RES-U09-00529
+sin novedad,no,21,6869.0,Restaurantes Demo,sí,no,0,sí,teléfono,cena,lun,4,29,RES-U09-00530
+,no,20,7112.0,Restaurantes Demo,no,no,0,no,app,cena,mar,2,10,RES-U09-00531
+,no,15,5687.0,Restaurantes Demo,no,no,1,no,app,cena,dom,1,30,RES-U09-00532
+revisar,no,38,5361.0,Restaurantes Demo,sí,sí,0,sí,teléfono,cena,sáb,3,27,RES-U09-00533
+,no,37,2438.0,Restaurantes Demo,sí,no,0,sí,app,cena,mar,2,28,RES-U09-00534
+revisar,no,6,3042.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,vie,2,0,RES-U09-00535
+,sí,0,0.0,Restaurantes Demo,no,no,0,no,web,cena,mar,6,11,RES-U09-00536
+,no,4,12664.0,Restaurantes Demo,no,no,0,no,web,almuerzo,dom,4,22,RES-U09-00537
+,no,33,5900.0,Restaurantes Demo,sí,,1,no,web,almuerzo,vie,2,7,RES-U09-00538
+sin novedad,no,7,6164.0,Restaurantes Demo,sí,no,1,sí,app,almuerzo,mar,5,0,RES-U09-00539
+revisar,no,0,10150.0,Restaurantes Demo,sí,no,0,no,teléfono,almuerzo,sáb,4,28,RES-U09-00540
+,no,23,4105.0,Restaurantes Demo,sí,sí,0,no,app,cena,jue,1,28,RES-U09-00541
+,no,4,6821.0,Restaurantes Demo,sí,no,0,no,web,almuerzo,mié,5,12,RES-U09-00542
+sin novedad,no,35,3067.0,Restaurantes Demo,no,no,0,sí,web,cena,mar,2,15,RES-U09-00543
+,no,23,11342.0,Restaurantes Demo,sí,sí,0,sí,web,almuerzo,vie,6,29,RES-U09-00544
+sin novedad,no,6,2842.0,Restaurantes Demo,no,no,0,no,web,almuerzo,mar,3,2,RES-U09-00545
+,no,31,6727.0,Restaurantes Demo,sí,sí,0,sí,app,almuerzo,vie,1,28,RES-U09-00546
+sin novedad,no,6,4180.0,Restaurantes Demo,no,,0,no,web,cena,mié,2,7,RES-U09-00547
+,no,0,1765.0,Restaurantes Demo,sí,no,1,no,web,cena,dom,3,19,RES-U09-00548
+sin novedad,no,37,5053.0,Restaurantes Demo,no,no,0,sí,app,cena,sáb,2,8,RES-U09-00549
+,no,3,1754.0,Restaurantes Demo,sí,no,0,sí,app,cena,mié,2,10,RES-U09-00550
+revisar,no,21,3248.0,Restaurantes Demo,sí,no,2,no,app,cena,lun,1,12,RES-U09-00551
+,no,13,4368.0,Restaurantes Demo,sí,sí,0,no,web,cena,sáb,5,19,RES-U09-00552
+revisar,no,3,1915.0,Restaurantes Demo,sí,no,0,no,web,cena,mar,4,28,RES-U09-00553
+,no,15,1144.0,Restaurantes Demo,sí,no,1,sí,web,cena,mar,4,23,RES-U09-00554
+sin novedad,no,39,1967.0,Restaurantes Demo,no,,0,no,web,cena,vie,4,8,RES-U09-00555
+revisar,no,0,6294.0,Restaurantes Demo,sí,no,1,sí,web,cena,mar,4,14,RES-U09-00556
+sin novedad,no,24,3882.0,Restaurantes Demo,no,no,0,no,web,almuerzo,lun,2,20,RES-U09-00557
+revisar,no,14,10002.0,Restaurantes Demo,sí,no,0,sí,web,cena,dom,5,15,RES-U09-00558
+,no,33,4185.0,Restaurantes Demo,no,no,0,no,teléfono,cena,lun,6,17,RES-U09-00559
+,no,30,4634.0,Restaurantes Demo,no,no,0,no,teléfono,almuerzo,jue,3,4,RES-U09-00560
+revisar,sí,0,0.0,Restaurantes Demo,no,no,0,no,web,almuerzo,mar,8,16,RES-U09-00561
+sin novedad,no,33,2410.0,Restaurantes Demo,no,no,0,sí,web,cena,jue,2,13,RES-U09-00562
+revisar,no,26,7224.0,Restaurantes Demo,sí,no,1,no,app,cena,jue,4,27,RES-U09-00563
+,no,33,4879.0,Restaurantes Demo,no,sí,1,sí,teléfono,almuerzo,sáb,2,8,RES-U09-00564
+,no,15,3460.0,Restaurantes Demo,no,no,0,no,app,cena,vie,3,19,RES-U09-00565
+sin novedad,no,31,2553.0,Restaurantes Demo,no,no,0,no,web,cena,jue,6,11,RES-U09-00566
+revisar,no,20,5747.0,Restaurantes Demo,sí,no,0,no,app,cena,mié,3,23,RES-U09-00567
+,no,22,600.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,lun,2,7,RES-U09-00568
+,no,19,994.0,Restaurantes Demo,no,no,0,no,app,cena,jue,3,19,RES-U09-00569
+sin novedad,no,5,8736.0,Restaurantes Demo,no,no,1,no,teléfono,almuerzo,vie,5,6,RES-U09-00570
+sin novedad,no,16,3438.0,Restaurantes Demo,sí,sí,0,no,web,cena,mar,1,13,RES-U09-00571
+sin novedad,no,6,4604.0,Restaurantes Demo,no,no,0,no,app,almuerzo,jue,2,19,RES-U09-00572
+revisar,no,15,5472.0,Restaurantes Demo,no,,1,no,web,cena,vie,1,18,RES-U09-00573
+,no,19,4220.0,Restaurantes Demo,sí,no,0,no,web,almuerzo,mar,3,25,RES-U09-00574
+,sí,0,0.0,Restaurantes Demo,sí,sí,0,no,teléfono,cena,lun,4,13,RES-U09-00575
+sin novedad,no,28,10225.0,Restaurantes Demo,sí,no,0,no,teléfono,almuerzo,lun,6,8,RES-U09-00576
+sin novedad,sí,0,0.0,Restaurantes Demo,no,no,2,no,web,almuerzo,sáb,6,16,RES-U09-00577
+,no,21,14567.0,Restaurantes Demo,no,no,0,no,web,cena,vie,2,16,RES-U09-00578
+sin novedad,sí,0,0.0,Restaurantes Demo,sí,no,1,no,app,cena,vie,3,29,RES-U09-00579
+sin novedad,no,14,8302.0,Restaurantes Demo,sí,no,0,no,web,almuerzo,lun,2,23,RES-U09-00580
+revisar,no,16,4464.0,Restaurantes Demo,no,no,1,sí,app,cena,lun,3,30,RES-U09-00581
+revisar,no,23,5995.0,Restaurantes Demo,no,no,0,no,app,almuerzo,jue,6,23,RES-U09-00582
+revisar,sí,0,0.0,Restaurantes Demo,no,no,1,no,app,cena,lun,8,24,RES-U09-00583
+revisar,no,12,4961.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,vie,1,9,RES-U09-00584
+sin novedad,no,34,11212.0,Restaurantes Demo,no,no,0,sí,app,cena,jue,2,10,RES-U09-00585
+sin novedad,sí,0,0.0,Restaurantes Demo,no,no,0,no,web,almuerzo,vie,1,23,RES-U09-00586
+,no,6,239.0,Restaurantes Demo,sí,no,0,sí,app,almuerzo,jue,4,9,RES-U09-00587
+,no,37,6940.0,Restaurantes Demo,sí,sí,0,sí,app,almuerzo,vie,3,7,RES-U09-00588
+,no,33,3743.0,Restaurantes Demo,no,no,0,no,app,cena,sáb,2,18,RES-U09-00589
+,no,21,3649.0,Restaurantes Demo,sí,no,1,no,app,cena,dom,4,15,RES-U09-00590
+revisar,no,21,2139.0,Restaurantes Demo,sí,no,1,no,teléfono,almuerzo,mié,5,3,RES-U09-00591
+sin novedad,sí,0,0.0,Restaurantes Demo,no,no,2,no,app,cena,lun,1,18,RES-U09-00592
+revisar,sí,0,0.0,Restaurantes Demo,sí,sí,1,no,teléfono,cena,vie,6,1,RES-U09-00593
+revisar,no,32,6486.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,jue,2,13,RES-U09-00594
+sin novedad,no,38,4649.0,Restaurantes Demo,sí,no,0,sí,app,cena,lun,2,21,RES-U09-00595
+revisar,sí,0,0.0,Restaurantes Demo,sí,no,0,no,app,cena,mar,1,16,RES-U09-00596
+sin novedad,no,20,9360.0,Restaurantes Demo,sí,no,1,sí,teléfono,almuerzo,sáb,2,14,RES-U09-00597
+sin novedad,no,27,16402.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,mar,1,11,RES-U09-00598
+revisar,sí,0,0.0,Restaurantes Demo,sí,no,2,no,app,cena,dom,2,14,RES-U09-00599
+revisar,sí,0,0.0,Restaurantes Demo,sí,no,0,sí,web,cena,mar,3,18,RES-U09-00600
+revisar,no,20,5781.0,Restaurantes Demo,no,sí,0,no,app,cena,jue,8,1,RES-U09-00601
+revisar,no,33,3215.0,Restaurantes Demo,sí,no,0,sí,teléfono,cena,vie,5,25,RES-U09-00602
+revisar,no,36,7299.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,lun,3,2,RES-U09-00603
+,no,0,4014.0,Restaurantes Demo,sí,,0,no,web,almuerzo,mié,4,8,RES-U09-00604
+,no,12,4649.0,Restaurantes Demo,no,sí,0,no,app,cena,vie,4,1,RES-U09-00605
+sin novedad,no,0,5546.0,Restaurantes Demo,no,no,0,no,app,cena,vie,3,27,RES-U09-00606
+revisar,no,31,8644.0,Restaurantes Demo,sí,no,0,sí,app,cena,jue,4,6,RES-U09-00607
+,no,19,2430.0,Restaurantes Demo,sí,no,2,no,app,almuerzo,mié,3,13,RES-U09-00608
+,sí,0,0.0,Restaurantes Demo,no,no,0,no,app,almuerzo,mar,2,19,RES-U09-00609
+revisar,no,39,8008.0,Restaurantes Demo,sí,sí,0,no,teléfono,almuerzo,dom,2,29,RES-U09-00610
+sin novedad,sí,0,0.0,Restaurantes Demo,sí,no,1,no,teléfono,cena,lun,3,23,RES-U09-00611
+,sí,0,0.0,Restaurantes Demo,no,no,0,no,teléfono,almuerzo,sáb,1,18,RES-U09-00612
+,no,7,6566.0,Restaurantes Demo,no,no,0,no,app,almuerzo,dom,2,11,RES-U09-00613
+revisar,no,0,4711.0,Restaurantes Demo,no,no,1,no,app,cena,mié,2,17,RES-U09-00614
+,no,8,12826.0,Restaurantes Demo,sí,no,1,sí,app,cena,lun,3,24,RES-U09-00615
+revisar,no,0,2164.0,Restaurantes Demo,sí,no,0,sí,app,cena,mié,2,10,RES-U09-00616
+,no,33,3824.0,Restaurantes Demo,sí,no,0,no,app,cena,lun,1,13,RES-U09-00617
+sin novedad,no,37,5183.0,Restaurantes Demo,sí,no,0,sí,app,almuerzo,jue,4,23,RES-U09-00618
+revisar,no,28,15412.0,Restaurantes Demo,no,no,0,sí,web,almuerzo,vie,2,23,RES-U09-00619
+revisar,no,2,1211.0,Restaurantes Demo,sí,no,0,no,web,almuerzo,jue,2,27,RES-U09-00620
+sin novedad,no,4,2412.0,Restaurantes Demo,sí,no,0,no,web,almuerzo,vie,4,20,RES-U09-00621
+,no,15,2340.0,Restaurantes Demo,sí,no,1,no,teléfono,almuerzo,jue,4,6,RES-U09-00622
+sin novedad,no,25,3477.0,Restaurantes Demo,sí,no,0,no,web,cena,mié,6,22,RES-U09-00623
+sin novedad,no,17,4007.0,Restaurantes Demo,sí,no,0,no,app,cena,mar,3,22,RES-U09-00624
+revisar,no,1,414.0,Restaurantes Demo,sí,sí,0,sí,web,cena,vie,1,2,RES-U09-00625
+revisar,no,29,2323.0,Restaurantes Demo,no,no,1,no,teléfono,almuerzo,mié,1,14,RES-U09-00626
+,no,14,1316.0,Restaurantes Demo,sí,sí,1,sí,web,almuerzo,mar,4,4,RES-U09-00627
+revisar,no,20,3735.0,Restaurantes Demo,no,no,0,sí,teléfono,almuerzo,mar,1,22,RES-U09-00628
+sin novedad,no,37,7609.0,Restaurantes Demo,no,sí,1,no,app,cena,mar,1,15,RES-U09-00629
+,no,0,4424.0,Restaurantes Demo,no,no,0,no,app,cena,mié,2,20,RES-U09-00630
+revisar,no,33,3001.0,Restaurantes Demo,no,no,0,no,app,almuerzo,dom,2,7,RES-U09-00631
+revisar,sí,0,0.0,Restaurantes Demo,no,no,0,no,app,cena,dom,2,26,RES-U09-00632
+sin novedad,no,27,5101.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,vie,5,13,RES-U09-00633
+sin novedad,sí,0,0.0,Restaurantes Demo,no,no,0,no,teléfono,cena,mar,3,28,RES-U09-00634
+revisar,no,3,795.0,Restaurantes Demo,no,no,1,no,app,almuerzo,vie,2,5,RES-U09-00635
+revisar,no,19,9894.0,Restaurantes Demo,no,sí,0,sí,app,almuerzo,jue,4,0,RES-U09-00636
+revisar,no,6,2802.0,Restaurantes Demo,sí,no,0,sí,app,cena,mar,2,2,RES-U09-00637
+,no,36,4170.0,Restaurantes Demo,sí,no,0,no,web,cena,vie,2,27,RES-U09-00638
+sin novedad,no,23,4067.0,Restaurantes Demo,sí,no,0,no,app,cena,dom,1,20,RES-U09-00639
+revisar,no,12,4214.0,Restaurantes Demo,no,no,0,sí,app,cena,vie,2,29,RES-U09-00640
+sin novedad,no,29,785.0,Restaurantes Demo,sí,no,1,sí,teléfono,cena,dom,4,16,RES-U09-00641
+sin novedad,no,32,2393.0,Restaurantes Demo,sí,sí,2,no,app,almuerzo,dom,2,20,RES-U09-00642
+sin novedad,no,22,826.0,Restaurantes Demo,sí,sí,0,no,web,almuerzo,mié,2,24,RES-U09-00643
+sin novedad,sí,0,0.0,Restaurantes Demo,no,no,0,no,teléfono,cena,vie,2,22,RES-U09-00644
+sin novedad,no,14,724.0,Restaurantes Demo,no,no,1,sí,teléfono,cena,dom,6,23,RES-U09-00645
+sin novedad,no,26,3319.0,Restaurantes Demo,sí,sí,1,no,app,almuerzo,mié,1,25,RES-U09-00646
+revisar,no,21,4596.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,jue,2,12,RES-U09-00647
+,no,2,8697.0,Restaurantes Demo,no,no,0,sí,app,cena,sáb,2,17,RES-U09-00648
+,no,2,3520.0,Restaurantes Demo,sí,no,1,no,web,cena,sáb,2,6,RES-U09-00649
+sin novedad,sí,0,0.0,Restaurantes Demo,sí,no,1,no,app,cena,mar,5,26,RES-U09-00650
+,no,32,6270.0,Restaurantes Demo,no,no,0,no,teléfono,cena,dom,5,21,RES-U09-00651
+,sí,0,0.0,Restaurantes Demo,no,no,2,no,app,cena,mié,1,27,RES-U09-00652
+revisar,sí,0,0.0,Restaurantes Demo,no,no,1,no,teléfono,cena,mié,2,29,RES-U09-00653
+sin novedad,no,9,5089.0,Restaurantes Demo,no,no,0,no,web,almuerzo,vie,2,21,RES-U09-00654
+revisar,no,26,1038.0,Restaurantes Demo,no,no,0,no,web,cena,vie,2,13,RES-U09-00655
+sin novedad,sí,0,0.0,Restaurantes Demo,no,no,1,no,app,almuerzo,jue,8,18,RES-U09-00656
+sin novedad,no,18,4807.0,Restaurantes Demo,sí,no,0,sí,app,cena,mié,1,16,RES-U09-00657
+,no,4,7689.0,Restaurantes Demo,no,no,2,no,app,cena,dom,3,20,RES-U09-00658
+revisar,no,28,3516.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,mié,3,0,RES-U09-00659
+revisar,no,15,379.0,Restaurantes Demo,sí,no,1,no,app,cena,lun,4,21,RES-U09-00660
+,sí,0,0.0,Restaurantes Demo,no,no,2,no,teléfono,cena,lun,4,20,RES-U09-00661
+,no,10,15573.0,Restaurantes Demo,sí,no,1,no,app,cena,vie,2,20,RES-U09-00662
+,no,16,6258.0,Restaurantes Demo,sí,no,0,no,web,almuerzo,jue,2,11,RES-U09-00663
+revisar,no,26,11570.0,Restaurantes Demo,sí,,0,no,teléfono,almuerzo,mié,6,14,RES-U09-00664
+revisar,no,23,7876.0,Restaurantes Demo,sí,no,1,no,web,cena,lun,4,12,RES-U09-00665
+,no,0,3203.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,vie,3,15,RES-U09-00666
+sin novedad,no,14,2410.0,Restaurantes Demo,no,no,0,sí,app,cena,mar,6,6,RES-U09-00667
+revisar,no,22,6488.0,Restaurantes Demo,no,no,0,sí,app,cena,jue,2,9,RES-U09-00668
+,no,38,2741.0,Restaurantes Demo,sí,sí,1,no,web,cena,dom,5,0,RES-U09-00669
+revisar,no,26,5205.0,Restaurantes Demo,no,no,0,sí,web,cena,lun,2,6,RES-U09-00670
+,no,17,1108.0,Restaurantes Demo,no,no,1,sí,web,cena,jue,2,23,RES-U09-00671
+revisar,no,7,13574.0,Restaurantes Demo,no,no,1,sí,app,cena,sáb,2,15,RES-U09-00672
+sin novedad,no,12,4383.0,Restaurantes Demo,sí,no,0,no,web,almuerzo,sáb,4,30,RES-U09-00673
+sin novedad,no,4,1784.0,Restaurantes Demo,no,no,0,sí,app,almuerzo,jue,4,6,RES-U09-00674
+sin novedad,no,25,2440.0,Restaurantes Demo,sí,no,1,no,web,almuerzo,mar,6,13,RES-U09-00675
+revisar,no,5,5807.0,Restaurantes Demo,sí,no,0,sí,app,almuerzo,mié,2,16,RES-U09-00676
+,no,26,8762.0,Restaurantes Demo,sí,sí,0,no,app,cena,mar,4,12,RES-U09-00677
+sin novedad,no,16,2519.0,Restaurantes Demo,sí,no,0,no,web,cena,jue,4,12,RES-U09-00678
+revisar,no,6,4368.0,Restaurantes Demo,sí,no,0,sí,app,cena,vie,3,3,RES-U09-00679
+sin novedad,no,3,12006.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,dom,1,14,RES-U09-00680
+sin novedad,no,20,1282.0,Restaurantes Demo,sí,no,1,no,app,almuerzo,mié,2,15,RES-U09-00681
+,no,19,3015.0,Restaurantes Demo,no,sí,1,sí,teléfono,cena,mar,4,7,RES-U09-00682
+revisar,sí,0,0.0,Restaurantes Demo,no,sí,1,no,teléfono,almuerzo,mar,2,4,RES-U09-00683
+,no,1,8389.0,Restaurantes Demo,no,no,1,no,teléfono,cena,dom,2,15,RES-U09-00684
+revisar,no,21,946.0,Restaurantes Demo,sí,no,0,sí,web,cena,sáb,4,9,RES-U09-00685
+revisar,no,34,2652.0,Restaurantes Demo,no,sí,0,sí,web,cena,lun,3,27,RES-U09-00686
+,no,7,2201.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,mié,2,6,RES-U09-00687
+revisar,no,8,7588.0,Restaurantes Demo,no,no,1,sí,web,cena,sáb,2,27,RES-U09-00688
+revisar,no,30,2246.0,Restaurantes Demo,sí,no,1,no,app,almuerzo,lun,2,17,RES-U09-00689
+revisar,sí,0,0.0,Restaurantes Demo,no,,0,sí,web,cena,sáb,4,2,RES-U09-00690
+,no,22,11773.0,Restaurantes Demo,no,no,1,sí,teléfono,cena,vie,5,28,RES-U09-00691
+,no,27,3447.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,jue,1,11,RES-U09-00692
+,no,32,4276.0,Restaurantes Demo,no,,0,no,app,cena,jue,2,5,RES-U09-00693
+,no,21,1255.0,Restaurantes Demo,sí,sí,1,no,teléfono,cena,dom,2,21,RES-U09-00694
+sin novedad,no,7,4860.0,Restaurantes Demo,sí,no,1,no,app,almuerzo,jue,5,1,RES-U09-00695
+sin novedad,no,19,1855.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,dom,4,9,RES-U09-00696
+,no,16,5127.0,Restaurantes Demo,no,no,1,no,app,cena,mié,2,0,RES-U09-00697
+,sí,0,0.0,Restaurantes Demo,no,sí,0,no,web,cena,sáb,2,20,RES-U09-00698
+revisar,no,9,7119.0,Restaurantes Demo,no,no,1,sí,teléfono,almuerzo,vie,2,5,RES-U09-00699
+,no,10,5921.0,Restaurantes Demo,sí,sí,1,sí,web,almuerzo,vie,4,1,RES-U09-00700
+,no,9,7047.0,Restaurantes Demo,sí,sí,0,no,teléfono,almuerzo,lun,4,29,RES-U09-00701
+,no,20,7201.0,Restaurantes Demo,no,no,1,no,app,cena,mar,2,5,RES-U09-00702
+sin novedad,no,18,3467.0,Restaurantes Demo,sí,no,1,sí,web,almuerzo,vie,2,4,RES-U09-00703
+,sí,0,0.0,Restaurantes Demo,no,no,1,no,web,cena,dom,3,28,RES-U09-00704
+revisar,no,8,8120.0,Restaurantes Demo,sí,no,0,sí,teléfono,cena,vie,8,11,RES-U09-00705
+,sí,0,0.0,Restaurantes Demo,no,no,1,no,app,almuerzo,jue,2,10,RES-U09-00706
+revisar,no,18,12829.0,Restaurantes Demo,sí,sí,1,no,app,cena,mié,3,10,RES-U09-00707
+revisar,no,9,3365.0,Restaurantes Demo,sí,sí,0,no,app,almuerzo,sáb,2,3,RES-U09-00708
+,sí,0,0.0,Restaurantes Demo,no,no,1,no,web,cena,dom,4,29,RES-U09-00709
+sin novedad,no,19,14767.0,Restaurantes Demo,sí,no,1,sí,app,cena,sáb,2,13,RES-U09-00710
+sin novedad,no,35,3826.0,Restaurantes Demo,no,no,1,no,app,almuerzo,mié,2,11,RES-U09-00711
+revisar,no,22,4526.0,Restaurantes Demo,sí,no,0,no,teléfono,almuerzo,vie,4,3,RES-U09-00712
+,no,18,4480.0,Restaurantes Demo,sí,no,1,no,app,cena,lun,6,24,RES-U09-00713
+,no,26,1105.0,Restaurantes Demo,sí,no,0,no,app,cena,mar,5,6,RES-U09-00714
+,no,2,1194.0,Restaurantes Demo,no,sí,0,no,teléfono,cena,vie,3,12,RES-U09-00715
+sin novedad,no,12,1068.0,Restaurantes Demo,sí,no,0,no,teléfono,almuerzo,dom,3,3,RES-U09-00716
+sin novedad,no,35,12447.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,dom,2,3,RES-U09-00717
+,no,38,4771.0,Restaurantes Demo,sí,no,1,no,teléfono,cena,dom,6,7,RES-U09-00718
+,no,21,11829.0,Restaurantes Demo,sí,sí,1,no,teléfono,almuerzo,lun,3,28,RES-U09-00719
+revisar,no,12,957.0,Restaurantes Demo,sí,no,0,no,web,cena,lun,4,29,RES-U09-00720
+,no,9,3967.0,Restaurantes Demo,no,no,2,no,web,cena,mar,6,20,RES-U09-00721
+revisar,no,6,12408.0,Restaurantes Demo,no,sí,0,no,app,cena,mié,2,15,RES-U09-00722
+revisar,no,8,4609.0,Restaurantes Demo,sí,no,0,no,web,almuerzo,vie,5,13,RES-U09-00723
+,no,9,3207.0,Restaurantes Demo,sí,no,0,no,web,cena,lun,4,7,RES-U09-00724
+,no,6,5562.0,Restaurantes Demo,sí,no,0,no,teléfono,almuerzo,sáb,4,3,RES-U09-00725
+sin novedad,no,32,3145.0,Restaurantes Demo,no,no,0,no,web,cena,vie,5,25,RES-U09-00726
+sin novedad,no,2,4545.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,lun,2,28,RES-U09-00727
+sin novedad,no,8,6818.0,Restaurantes Demo,no,no,3,sí,web,cena,mié,2,15,RES-U09-00728
+sin novedad,no,14,1529.0,Restaurantes Demo,no,no,0,no,teléfono,cena,vie,3,17,RES-U09-00729
+sin novedad,sí,0,0.0,Restaurantes Demo,no,no,2,no,app,almuerzo,mar,5,15,RES-U09-00730
+sin novedad,no,7,4222.0,Restaurantes Demo,no,sí,1,sí,web,cena,mié,3,26,RES-U09-00731
+,no,1,3466.0,Restaurantes Demo,no,no,0,no,app,almuerzo,vie,8,25,RES-U09-00732
+revisar,no,36,2653.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,jue,2,27,RES-U09-00733
+sin novedad,sí,0,0.0,Restaurantes Demo,no,,3,no,teléfono,cena,sáb,6,27,RES-U09-00734
+sin novedad,sí,0,0.0,Restaurantes Demo,no,no,1,sí,web,almuerzo,mié,6,6,RES-U09-00735
+,no,37,1648.0,Restaurantes Demo,sí,no,0,sí,app,cena,dom,8,10,RES-U09-00736
+sin novedad,no,37,4081.0,Restaurantes Demo,sí,no,1,no,teléfono,almuerzo,jue,4,10,RES-U09-00737
+,no,27,11921.0,Restaurantes Demo,sí,sí,0,no,teléfono,almuerzo,lun,2,1,RES-U09-00738
+sin novedad,sí,0,0.0,Restaurantes Demo,no,sí,1,no,app,almuerzo,dom,5,5,RES-U09-00739
+,no,16,3912.0,Restaurantes Demo,sí,no,0,sí,app,almuerzo,lun,6,18,RES-U09-00740
+,sí,0,0.0,Restaurantes Demo,no,sí,0,no,web,almuerzo,mié,2,17,RES-U09-00741
+sin novedad,no,32,1058.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,vie,3,5,RES-U09-00742
+revisar,no,1,5476.0,Restaurantes Demo,sí,sí,0,sí,teléfono,almuerzo,sáb,1,22,RES-U09-00743
+,no,31,7999.0,Restaurantes Demo,sí,no,0,sí,app,cena,mar,1,14,RES-U09-00744
+,no,9,3197.0,Restaurantes Demo,sí,no,0,sí,app,cena,lun,5,24,RES-U09-00745
+sin novedad,no,0,4295.0,Restaurantes Demo,sí,no,0,sí,app,cena,lun,4,11,RES-U09-00746
+sin novedad,no,7,11193.0,Restaurantes Demo,sí,,1,sí,app,almuerzo,lun,4,14,RES-U09-00747
+revisar,no,1,7954.0,Restaurantes Demo,sí,no,0,no,teléfono,almuerzo,mié,8,0,RES-U09-00748
+sin novedad,no,37,6986.0,Restaurantes Demo,no,,1,no,app,cena,sáb,5,29,RES-U09-00749
+sin novedad,no,33,6246.0,Restaurantes Demo,sí,no,0,sí,app,almuerzo,vie,2,21,RES-U09-00750
+,sí,0,0.0,Restaurantes Demo,no,no,0,no,teléfono,almuerzo,dom,5,27,RES-U09-00751
+sin novedad,no,20,6483.0,Restaurantes Demo,no,no,1,sí,app,almuerzo,lun,3,28,RES-U09-00752
+sin novedad,no,35,7024.0,Restaurantes Demo,no,no,0,sí,web,almuerzo,sáb,2,15,RES-U09-00753
+revisar,no,11,3184.0,Restaurantes Demo,sí,no,0,no,app,cena,mié,4,29,RES-U09-00754
+sin novedad,no,25,2337.0,Restaurantes Demo,sí,no,1,no,app,cena,vie,2,25,RES-U09-00755
+sin novedad,no,5,2412.0,Restaurantes Demo,sí,sí,1,no,teléfono,cena,mar,2,17,RES-U09-00756
+sin novedad,no,0,2079.0,Restaurantes Demo,sí,no,0,sí,web,almuerzo,sáb,5,21,RES-U09-00757
+revisar,no,17,12906.0,Restaurantes Demo,sí,sí,0,no,teléfono,cena,mar,1,29,RES-U09-00758
+sin novedad,no,31,3612.0,Restaurantes Demo,no,no,0,sí,app,cena,mar,6,0,RES-U09-00759
+sin novedad,no,34,11264.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,lun,2,7,RES-U09-00760
+,no,4,2513.0,Restaurantes Demo,no,no,1,no,web,almuerzo,vie,2,13,RES-U09-00761
+sin novedad,no,10,4120.0,Restaurantes Demo,sí,no,0,sí,teléfono,almuerzo,jue,2,14,RES-U09-00762
+revisar,no,11,10651.0,Restaurantes Demo,no,no,0,sí,app,cena,vie,4,17,RES-U09-00763
+sin novedad,no,3,1213.0,Restaurantes Demo,sí,no,0,no,app,cena,sáb,2,18,RES-U09-00764
+,no,22,6467.0,Restaurantes Demo,no,no,0,sí,app,cena,dom,2,5,RES-U09-00765
+,sí,0,0.0,Restaurantes Demo,sí,no,1,no,web,almuerzo,jue,2,1,RES-U09-00766
+revisar,no,13,6503.0,Restaurantes Demo,sí,sí,0,sí,app,almuerzo,sáb,1,5,RES-U09-00767
+,no,31,9165.0,Restaurantes Demo,sí,no,0,no,web,almuerzo,dom,2,28,RES-U09-00768
+revisar,no,1,3232.0,Restaurantes Demo,sí,no,1,no,web,cena,sáb,6,24,RES-U09-00769
+sin novedad,no,17,11584.0,Restaurantes Demo,no,no,1,sí,app,almuerzo,dom,2,26,RES-U09-00770
+sin novedad,no,32,5790.0,Restaurantes Demo,no,sí,1,no,web,cena,jue,2,22,RES-U09-00771
+,no,12,4315.0,Restaurantes Demo,sí,no,0,sí,web,cena,dom,2,9,RES-U09-00772
+,no,23,3310.0,Restaurantes Demo,no,no,0,no,app,almuerzo,vie,8,0,RES-U09-00773
+revisar,no,7,1848.0,Restaurantes Demo,no,no,0,sí,web,cena,sáb,4,24,RES-U09-00774
+,no,39,3773.0,Restaurantes Demo,sí,no,1,no,app,almuerzo,jue,6,29,RES-U09-00775
+revisar,no,36,5443.0,Restaurantes Demo,no,sí,0,sí,app,cena,mar,6,21,RES-U09-00776
+revisar,sí,0,0.0,Restaurantes Demo,no,no,0,sí,web,cena,mar,4,27,RES-U09-00777
+sin novedad,no,32,3150.0,Restaurantes Demo,no,no,0,sí,app,cena,dom,4,25,RES-U09-00778
+sin novedad,no,2,2672.0,Restaurantes Demo,no,sí,0,sí,app,almuerzo,jue,3,5,RES-U09-00779
+,no,37,9594.0,Restaurantes Demo,sí,sí,0,no,app,cena,dom,4,3,RES-U09-00780
+revisar,no,20,4419.0,Restaurantes Demo,no,,0,no,web,almuerzo,mar,2,6,RES-U09-00781
+revisar,no,10,2776.0,Restaurantes Demo,sí,sí,0,no,teléfono,cena,lun,2,6,RES-U09-00782
+,no,26,6423.0,Restaurantes Demo,no,no,0,sí,web,cena,dom,8,2,RES-U09-00783
+sin novedad,no,19,1095.0,Restaurantes Demo,no,no,0,no,app,cena,vie,3,3,RES-U09-00784
+,no,7,4104.0,Restaurantes Demo,sí,no,1,no,app,almuerzo,lun,2,10,RES-U09-00785
+sin novedad,sí,0,0.0,Restaurantes Demo,sí,sí,2,no,teléfono,cena,vie,2,2,RES-U09-00786
+revisar,no,2,476.0,Restaurantes Demo,sí,no,0,no,web,almuerzo,lun,2,6,RES-U09-00787
+sin novedad,no,18,5616.0,Restaurantes Demo,sí,no,0,no,app,cena,dom,3,5,RES-U09-00788
+,no,3,3677.0,Restaurantes Demo,no,no,0,no,web,cena,lun,4,9,RES-U09-00789
+sin novedad,no,12,3607.0,Restaurantes Demo,sí,no,0,no,web,almuerzo,vie,3,22,RES-U09-00790
+revisar,no,38,7582.0,Restaurantes Demo,sí,no,0,sí,app,cena,sáb,2,15,RES-U09-00791
+revisar,no,39,3542.0,Restaurantes Demo,sí,no,0,no,teléfono,almuerzo,mar,8,14,RES-U09-00792
+,no,34,2823.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,mar,2,13,RES-U09-00793
+revisar,no,13,9094.0,Restaurantes Demo,sí,,0,no,app,almuerzo,dom,2,10,RES-U09-00794
+sin novedad,no,21,5167.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,lun,2,28,RES-U09-00795
+revisar,sí,0,0.0,Restaurantes Demo,no,sí,0,no,web,almuerzo,lun,3,7,RES-U09-00796
+sin novedad,no,6,3280.0,Restaurantes Demo,sí,sí,0,sí,web,cena,jue,2,1,RES-U09-00797
+revisar,no,28,4224.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,mar,6,19,RES-U09-00798
+revisar,no,16,6233.0,Restaurantes Demo,no,no,0,sí,web,cena,jue,2,20,RES-U09-00799
+sin novedad,sí,0,0.0,Restaurantes Demo,no,no,1,no,web,cena,vie,6,23,RES-U09-00800
+revisar,no,33,9224.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,jue,4,4,RES-U09-00801
+sin novedad,no,21,13023.0,Restaurantes Demo,sí,sí,0,no,app,almuerzo,mar,6,6,RES-U09-00802
+revisar,no,26,4605.0,Restaurantes Demo,sí,no,0,no,web,cena,sáb,4,16,RES-U09-00803
+,sí,0,0.0,Restaurantes Demo,no,no,0,no,app,almuerzo,mié,2,27,RES-U09-00804
+sin novedad,sí,0,0.0,Restaurantes Demo,sí,no,2,no,app,cena,sáb,2,27,RES-U09-00805
+sin novedad,no,2,10562.0,Restaurantes Demo,no,no,0,no,app,almuerzo,mié,3,15,RES-U09-00806
+sin novedad,no,8,3306.0,Restaurantes Demo,no,no,0,no,teléfono,cena,dom,4,16,RES-U09-00807
+sin novedad,no,36,11696.0,Restaurantes Demo,sí,,0,sí,web,cena,jue,3,1,RES-U09-00808
+,no,33,11006.0,Restaurantes Demo,sí,no,0,no,app,cena,mié,1,10,RES-U09-00809
+,no,32,5747.0,Restaurantes Demo,sí,sí,0,no,app,cena,lun,4,20,RES-U09-00810
+sin novedad,no,31,1900.0,Restaurantes Demo,sí,no,0,no,web,almuerzo,mar,2,9,RES-U09-00811
+revisar,no,29,8775.0,Restaurantes Demo,sí,no,0,no,web,almuerzo,dom,1,22,RES-U09-00812
+revisar,no,18,4996.0,Restaurantes Demo,no,no,0,no,teléfono,almuerzo,dom,4,12,RES-U09-00813
+sin novedad,no,26,5273.0,Restaurantes Demo,no,sí,0,sí,app,cena,dom,4,27,RES-U09-00814
+revisar,no,3,1456.0,Restaurantes Demo,sí,no,0,sí,teléfono,almuerzo,mar,2,5,RES-U09-00815
+revisar,no,30,4117.0,Restaurantes Demo,sí,no,0,no,app,cena,jue,3,2,RES-U09-00816
+,no,19,2517.0,Restaurantes Demo,no,sí,0,no,app,cena,jue,3,0,RES-U09-00817
+,no,2,3377.0,Restaurantes Demo,sí,no,1,no,teléfono,almuerzo,sáb,5,4,RES-U09-00818
+,no,17,10097.0,Restaurantes Demo,sí,sí,0,no,app,almuerzo,lun,2,10,RES-U09-00819
+sin novedad,no,16,4920.0,Restaurantes Demo,sí,no,0,sí,app,cena,jue,3,4,RES-U09-00820
+revisar,no,33,7620.0,Restaurantes Demo,sí,no,0,no,web,cena,dom,2,21,RES-U09-00821
+,no,21,2660.0,Restaurantes Demo,no,no,0,sí,teléfono,cena,vie,4,15,RES-U09-00822
+revisar,no,12,6894.0,Restaurantes Demo,sí,no,0,no,web,cena,vie,4,20,RES-U09-00823
+sin novedad,no,22,935.0,Restaurantes Demo,sí,sí,0,no,teléfono,cena,vie,3,27,RES-U09-00824
+revisar,no,37,3207.0,Restaurantes Demo,sí,no,0,sí,app,almuerzo,jue,4,20,RES-U09-00825
+revisar,no,19,14005.0,Restaurantes Demo,no,no,0,no,web,cena,mié,4,12,RES-U09-00826
+revisar,no,13,3924.0,Restaurantes Demo,sí,no,0,sí,app,cena,vie,6,18,RES-U09-00827
+,no,8,3781.0,Restaurantes Demo,no,no,0,sí,web,cena,mar,2,12,RES-U09-00828
+,sí,0,0.0,Restaurantes Demo,sí,sí,1,no,web,cena,dom,2,17,RES-U09-00829
+revisar,no,11,2616.0,Restaurantes Demo,sí,no,0,sí,web,almuerzo,vie,2,22,RES-U09-00830
+,no,34,1374.0,Restaurantes Demo,sí,no,0,no,web,cena,lun,5,22,RES-U09-00831
+revisar,no,20,10163.0,Restaurantes Demo,sí,no,1,no,app,cena,vie,3,16,RES-U09-00832
+sin novedad,no,35,10918.0,Restaurantes Demo,sí,no,0,no,web,cena,vie,6,23,RES-U09-00833
+revisar,no,2,632.0,Restaurantes Demo,no,no,0,no,app,almuerzo,vie,4,6,RES-U09-00834
+,no,14,4432.0,Restaurantes Demo,sí,no,0,sí,app,almuerzo,lun,6,13,RES-U09-00835
+revisar,no,12,8372.0,Restaurantes Demo,sí,no,1,sí,teléfono,cena,lun,2,6,RES-U09-00836
+,sí,0,0.0,Restaurantes Demo,no,sí,0,no,teléfono,cena,lun,1,23,RES-U09-00837
+revisar,no,31,4095.0,Restaurantes Demo,no,sí,0,no,web,cena,jue,4,3,RES-U09-00838
+,no,9,5532.0,Restaurantes Demo,no,no,1,no,app,cena,mié,2,0,RES-U09-00839
+revisar,no,10,11668.0,Restaurantes Demo,no,no,0,sí,teléfono,cena,lun,6,5,RES-U09-00840
+,no,12,6088.0,Restaurantes Demo,no,sí,1,no,app,almuerzo,dom,2,18,RES-U09-00841
+revisar,no,11,6868.0,Restaurantes Demo,sí,no,0,sí,app,cena,mar,6,20,RES-U09-00842
+revisar,no,23,5170.0,Restaurantes Demo,sí,no,1,no,app,cena,mar,2,6,RES-U09-00843
+revisar,no,7,905.0,Restaurantes Demo,no,no,0,sí,web,cena,jue,4,30,RES-U09-00844
+sin novedad,no,20,5886.0,Restaurantes Demo,sí,no,0,no,web,almuerzo,mar,1,2,RES-U09-00845
+revisar,no,36,6808.0,Restaurantes Demo,sí,no,0,sí,app,cena,lun,3,8,RES-U09-00846
+sin novedad,no,4,3571.0,Restaurantes Demo,no,no,1,sí,app,cena,lun,4,15,RES-U09-00847
+revisar,no,4,3140.0,Restaurantes Demo,sí,no,0,sí,app,almuerzo,jue,3,26,RES-U09-00848
+,no,39,5291.0,Restaurantes Demo,sí,sí,0,no,web,cena,dom,1,2,RES-U09-00849
+,no,35,6360.0,Restaurantes Demo,sí,no,1,no,app,cena,vie,6,6,RES-U09-00850
+,sí,0,0.0,Restaurantes Demo,no,,0,no,app,almuerzo,lun,6,5,RES-U09-00851
+revisar,no,28,8826.0,Restaurantes Demo,sí,no,0,no,app,cena,jue,3,20,RES-U09-00852
+revisar,no,36,6132.0,Restaurantes Demo,no,no,0,no,app,almuerzo,vie,2,28,RES-U09-00853
+sin novedad,no,14,980.0,Restaurantes Demo,sí,,0,no,teléfono,almuerzo,lun,4,22,RES-U09-00854
+revisar,no,33,4150.0,Restaurantes Demo,sí,no,0,sí,app,cena,sáb,2,14,RES-U09-00855
+,sí,0,0.0,Restaurantes Demo,no,no,1,sí,app,almuerzo,jue,2,25,RES-U09-00856
+revisar,no,4,5229.0,Restaurantes Demo,no,no,1,no,app,cena,vie,2,1,RES-U09-00857
+,no,4,9589.0,Restaurantes Demo,no,no,0,sí,app,cena,vie,2,14,RES-U09-00858
+revisar,sí,0,0.0,Restaurantes Demo,no,sí,1,no,app,almuerzo,dom,6,15,RES-U09-00859
+revisar,sí,0,0.0,Restaurantes Demo,no,no,0,no,web,cena,sáb,2,10,RES-U09-00860
+revisar,no,26,8024.0,Restaurantes Demo,sí,no,0,no,web,almuerzo,mié,8,23,RES-U09-00861
+sin novedad,no,7,3051.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,jue,2,20,RES-U09-00862
+revisar,no,14,2466.0,Restaurantes Demo,no,no,0,no,app,cena,sáb,5,1,RES-U09-00863
+sin novedad,no,15,1594.0,Restaurantes Demo,sí,no,0,sí,app,cena,vie,4,15,RES-U09-00864
+,no,22,3268.0,Restaurantes Demo,sí,no,0,no,web,cena,lun,2,24,RES-U09-00865
+revisar,no,39,1783.0,Restaurantes Demo,sí,no,0,no,web,cena,vie,2,1,RES-U09-00866
+,no,27,11144.0,Restaurantes Demo,sí,no,0,sí,app,cena,dom,8,18,RES-U09-00867
+,no,36,5389.0,Restaurantes Demo,sí,sí,0,no,teléfono,cena,lun,3,14,RES-U09-00868
+,sí,0,0.0,Restaurantes Demo,no,no,1,no,teléfono,cena,sáb,3,15,RES-U09-00869
+revisar,no,34,10500.0,Restaurantes Demo,sí,no,0,no,app,cena,mié,2,14,RES-U09-00870
+sin novedad,no,35,5040.0,Restaurantes Demo,no,no,0,sí,web,cena,vie,1,23,RES-U09-00871
+,no,35,4303.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,mar,1,10,RES-U09-00872
+,no,34,6839.0,Restaurantes Demo,sí,sí,0,no,app,cena,lun,4,23,RES-U09-00873
+sin novedad,sí,0,0.0,Restaurantes Demo,no,sí,1,no,teléfono,cena,jue,3,24,RES-U09-00874
+,no,6,6593.0,Restaurantes Demo,sí,no,0,sí,app,almuerzo,mar,3,23,RES-U09-00875
+revisar,no,12,4379.0,Restaurantes Demo,no,sí,0,sí,web,cena,jue,2,17,RES-U09-00876
+sin novedad,no,12,3551.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,jue,4,30,RES-U09-00877
+revisar,no,27,2084.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,dom,3,6,RES-U09-00878
+sin novedad,no,22,9444.0,Restaurantes Demo,no,no,0,sí,app,almuerzo,jue,1,21,RES-U09-00879
+sin novedad,no,33,717.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,dom,4,24,RES-U09-00880
+revisar,no,18,4061.0,Restaurantes Demo,sí,sí,0,no,web,cena,mié,2,27,RES-U09-00881
+revisar,no,17,9617.0,Restaurantes Demo,sí,no,0,sí,app,cena,mié,2,24,RES-U09-00882
+sin novedad,no,8,282.0,Restaurantes Demo,no,no,0,sí,web,cena,vie,5,12,RES-U09-00883
+sin novedad,no,2,2641.0,Restaurantes Demo,no,no,0,no,app,almuerzo,lun,4,17,RES-U09-00884
+revisar,no,38,6986.0,Restaurantes Demo,no,,1,sí,teléfono,cena,mié,4,2,RES-U09-00885
+sin novedad,no,3,4975.0,Restaurantes Demo,sí,no,2,no,web,cena,sáb,2,27,RES-U09-00886
+sin novedad,no,28,4084.0,Restaurantes Demo,no,no,0,no,web,cena,dom,4,0,RES-U09-00887
+,no,16,4499.0,Restaurantes Demo,sí,no,0,sí,web,almuerzo,mié,2,6,RES-U09-00888
+revisar,no,32,3703.0,Restaurantes Demo,sí,no,0,no,app,cena,sáb,3,16,RES-U09-00889
+,no,7,5362.0,Restaurantes Demo,no,no,0,no,teléfono,almuerzo,vie,5,23,RES-U09-00890
+revisar,sí,0,0.0,Restaurantes Demo,no,no,0,no,teléfono,cena,vie,4,29,RES-U09-00891
+sin novedad,no,9,5986.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,mar,2,12,RES-U09-00892
+sin novedad,no,16,225.0,Restaurantes Demo,sí,no,0,sí,app,almuerzo,vie,5,1,RES-U09-00893
+revisar,no,4,7153.0,Restaurantes Demo,sí,no,1,no,app,almuerzo,dom,4,12,RES-U09-00894
+revisar,sí,0,0.0,Restaurantes Demo,no,no,0,no,web,almuerzo,mar,4,1,RES-U09-00895
+sin novedad,no,0,10923.0,Restaurantes Demo,no,no,0,no,teléfono,almuerzo,vie,3,6,RES-U09-00896
+sin novedad,no,13,2419.0,Restaurantes Demo,no,no,1,sí,app,cena,vie,4,22,RES-U09-00897
+revisar,no,18,10329.0,Restaurantes Demo,no,no,0,sí,teléfono,almuerzo,sáb,2,7,RES-U09-00898
+,no,37,18642.0,Restaurantes Demo,sí,no,0,no,app,cena,mar,6,2,RES-U09-00899
+,no,8,3566.0,Restaurantes Demo,sí,sí,2,no,app,almuerzo,vie,2,21,RES-U09-00900
+,no,12,4664.0,Restaurantes Demo,no,no,0,no,web,cena,vie,1,18,RES-U09-00901
+revisar,no,37,2875.0,Restaurantes Demo,sí,no,1,no,web,cena,mié,3,28,RES-U09-00902
+revisar,no,22,8719.0,Restaurantes Demo,no,sí,0,no,web,cena,lun,2,14,RES-U09-00903
+sin novedad,sí,0,0.0,Restaurantes Demo,sí,no,2,no,teléfono,cena,dom,2,19,RES-U09-00904
+revisar,no,14,5092.0,Restaurantes Demo,no,no,0,sí,web,cena,mié,1,22,RES-U09-00905
+sin novedad,no,0,1463.0,Restaurantes Demo,no,no,0,no,app,cena,dom,6,23,RES-U09-00906
+sin novedad,no,17,3615.0,Restaurantes Demo,sí,no,0,no,teléfono,almuerzo,mar,8,5,RES-U09-00907
+,no,31,2237.0,Restaurantes Demo,sí,no,0,no,web,cena,jue,4,6,RES-U09-00908
+sin novedad,no,2,2845.0,Restaurantes Demo,no,no,0,no,app,cena,vie,3,21,RES-U09-00909
+sin novedad,no,31,7480.0,Restaurantes Demo,sí,sí,0,no,web,cena,mié,2,29,RES-U09-00910
+revisar,no,28,4914.0,Restaurantes Demo,sí,sí,0,no,app,cena,vie,4,20,RES-U09-00911
+,no,22,935.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,jue,8,27,RES-U09-00912
+,no,27,6266.0,Restaurantes Demo,sí,no,2,no,app,cena,lun,4,11,RES-U09-00913
+,no,1,985.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,sáb,6,12,RES-U09-00914
+sin novedad,no,1,4267.0,Restaurantes Demo,sí,sí,0,no,app,cena,sáb,2,5,RES-U09-00915
+revisar,no,26,3209.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,lun,3,3,RES-U09-00916
+,sí,0,0.0,Restaurantes Demo,no,,1,no,app,cena,mar,2,7,RES-U09-00917
+sin novedad,no,29,4066.0,Restaurantes Demo,sí,no,0,sí,app,almuerzo,lun,4,0,RES-U09-00918
+revisar,no,24,7687.0,Restaurantes Demo,sí,no,0,sí,app,almuerzo,sáb,4,20,RES-U09-00919
+,no,37,2858.0,Restaurantes Demo,sí,sí,1,sí,app,cena,lun,1,27,RES-U09-00920
+,no,27,5588.0,Restaurantes Demo,sí,no,1,sí,app,cena,dom,2,30,RES-U09-00921
+,sí,0,0.0,Restaurantes Demo,sí,no,1,no,teléfono,cena,dom,2,20,RES-U09-00922
+,no,1,3971.0,Restaurantes Demo,sí,no,0,no,teléfono,almuerzo,lun,2,25,RES-U09-00923
+sin novedad,no,8,7707.0,Restaurantes Demo,sí,no,0,sí,web,cena,jue,2,27,RES-U09-00924
+,no,37,1911.0,Restaurantes Demo,no,no,0,no,teléfono,almuerzo,jue,2,21,RES-U09-00925
+,no,8,7192.0,Restaurantes Demo,no,no,0,no,teléfono,cena,mié,3,23,RES-U09-00926
+revisar,sí,0,0.0,Restaurantes Demo,sí,no,2,no,web,cena,jue,2,27,RES-U09-00927
+revisar,no,38,11324.0,Restaurantes Demo,sí,,1,sí,web,cena,mié,2,21,RES-U09-00928
+sin novedad,no,13,6284.0,Restaurantes Demo,no,no,0,sí,teléfono,almuerzo,jue,2,7,RES-U09-00929
+,no,15,7008.0,Restaurantes Demo,sí,no,0,sí,app,cena,mar,3,3,RES-U09-00930
+revisar,sí,0,0.0,Restaurantes Demo,no,no,0,no,teléfono,cena,dom,3,24,RES-U09-00931
+sin novedad,no,11,1501.0,Restaurantes Demo,sí,no,1,no,teléfono,cena,lun,4,8,RES-U09-00932
+sin novedad,sí,0,0.0,Restaurantes Demo,no,no,0,no,teléfono,cena,mié,3,8,RES-U09-00933
+sin novedad,no,30,2799.0,Restaurantes Demo,no,no,0,no,app,almuerzo,jue,6,8,RES-U09-00934
+sin novedad,no,18,4262.0,Restaurantes Demo,sí,sí,0,no,app,almuerzo,mar,6,29,RES-U09-00935
+revisar,no,10,6785.0,Restaurantes Demo,no,no,0,sí,app,almuerzo,jue,3,5,RES-U09-00936
+sin novedad,sí,0,0.0,Restaurantes Demo,no,no,0,no,app,cena,mar,6,3,RES-U09-00937
+revisar,no,8,3252.0,Restaurantes Demo,sí,no,0,no,app,cena,lun,3,16,RES-U09-00938
+revisar,sí,0,0.0,Restaurantes Demo,no,sí,0,no,app,cena,mié,1,28,RES-U09-00939
+,no,20,628.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,mié,4,17,RES-U09-00940
+,sí,0,0.0,Restaurantes Demo,no,no,1,sí,app,almuerzo,lun,4,12,RES-U09-00941
+sin novedad,no,39,9213.0,Restaurantes Demo,no,no,1,sí,app,almuerzo,dom,2,8,RES-U09-00942
+sin novedad,no,9,3492.0,Restaurantes Demo,sí,no,0,sí,app,almuerzo,vie,5,21,RES-U09-00943
+sin novedad,no,24,2789.0,Restaurantes Demo,sí,no,1,no,web,cena,mar,5,2,RES-U09-00944
+sin novedad,no,33,5814.0,Restaurantes Demo,no,no,0,no,teléfono,almuerzo,mié,2,1,RES-U09-00945
+revisar,sí,0,0.0,Restaurantes Demo,sí,no,0,no,web,almuerzo,dom,2,28,RES-U09-00946
+revisar,no,9,630.0,Restaurantes Demo,no,no,0,sí,web,almuerzo,vie,6,8,RES-U09-00947
+revisar,sí,0,0.0,Restaurantes Demo,sí,sí,0,no,app,cena,jue,2,26,RES-U09-00948
+revisar,no,5,3275.0,Restaurantes Demo,sí,no,1,no,teléfono,cena,mar,2,15,RES-U09-00949
+,no,10,6563.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,lun,4,21,RES-U09-00950
+,no,5,2440.0,Restaurantes Demo,sí,no,0,sí,teléfono,almuerzo,lun,2,29,RES-U09-00951
+revisar,no,7,10728.0,Restaurantes Demo,no,no,0,sí,teléfono,almuerzo,dom,2,19,RES-U09-00952
+revisar,no,17,5042.0,Restaurantes Demo,no,no,1,sí,web,cena,sáb,4,20,RES-U09-00953
+sin novedad,no,1,1038.0,Restaurantes Demo,no,no,0,no,app,almuerzo,jue,2,27,RES-U09-00954
+sin novedad,no,31,1218.0,Restaurantes Demo,no,no,1,no,app,cena,sáb,2,6,RES-U09-00955
+,no,25,2071.0,Restaurantes Demo,sí,sí,0,sí,app,cena,sáb,4,3,RES-U09-00956
+sin novedad,no,20,2791.0,Restaurantes Demo,sí,no,0,no,app,cena,vie,3,4,RES-U09-00957
+sin novedad,no,7,1805.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,vie,2,0,RES-U09-00958
+,no,16,9908.0,Restaurantes Demo,no,sí,0,no,app,almuerzo,dom,4,14,RES-U09-00959
+,sí,0,0.0,Restaurantes Demo,no,no,0,no,web,cena,dom,4,19,RES-U09-00960
+revisar,no,29,4538.0,Restaurantes Demo,sí,no,0,no,app,cena,mar,1,6,RES-U09-00961
+,no,21,2410.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,vie,4,5,RES-U09-00962
+sin novedad,no,10,3670.0,Restaurantes Demo,sí,no,0,no,app,cena,jue,2,18,RES-U09-00963
+revisar,sí,0,0.0,Restaurantes Demo,no,sí,1,no,app,almuerzo,sáb,4,18,RES-U09-00964
+,no,34,8332.0,Restaurantes Demo,no,no,1,sí,teléfono,almuerzo,jue,5,14,RES-U09-00965
+sin novedad,sí,0,0.0,Restaurantes Demo,no,sí,2,no,teléfono,cena,vie,1,20,RES-U09-00966
+sin novedad,sí,0,0.0,Restaurantes Demo,no,no,3,no,teléfono,cena,lun,6,7,RES-U09-00967
+sin novedad,no,11,2546.0,Restaurantes Demo,sí,no,0,no,app,cena,sáb,1,16,RES-U09-00968
+,sí,0,0.0,Restaurantes Demo,no,sí,1,sí,app,almuerzo,mar,2,29,RES-U09-00969
+sin novedad,no,16,1758.0,Restaurantes Demo,sí,no,0,no,app,cena,dom,3,30,RES-U09-00970
+,no,21,3319.0,Restaurantes Demo,no,no,0,sí,app,almuerzo,jue,2,8,RES-U09-00971
+revisar,no,8,9082.0,Restaurantes Demo,sí,no,0,sí,web,cena,mié,3,13,RES-U09-00972
+,sí,0,0.0,Restaurantes Demo,no,sí,0,no,teléfono,almuerzo,sáb,3,4,RES-U09-00973
+,no,30,2648.0,Restaurantes Demo,no,no,1,no,app,cena,vie,5,5,RES-U09-00974
+,sí,0,0.0,Restaurantes Demo,no,sí,1,no,web,almuerzo,sáb,4,21,RES-U09-00975
+revisar,no,24,1126.0,Restaurantes Demo,sí,no,0,no,teléfono,cena,mar,6,14,RES-U09-00976
+,no,32,8112.0,Restaurantes Demo,no,no,1,sí,app,cena,mié,3,28,RES-U09-00977
+revisar,sí,0,0.0,Restaurantes Demo,no,no,0,no,teléfono,almuerzo,mié,1,24,RES-U09-00978
+sin novedad,no,38,7159.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,lun,2,0,RES-U09-00979
+revisar,no,37,2248.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,dom,3,10,RES-U09-00980
+,no,13,8109.0,Restaurantes Demo,sí,sí,0,no,app,cena,vie,4,0,RES-U09-00981
+revisar,no,20,1598.0,Restaurantes Demo,sí,no,1,no,app,almuerzo,dom,1,30,RES-U09-00982
+revisar,no,28,4625.0,Restaurantes Demo,no,sí,0,no,teléfono,almuerzo,vie,2,9,RES-U09-00983
+,no,39,251.0,Restaurantes Demo,sí,no,0,no,app,cena,lun,5,20,RES-U09-00984
+revisar,no,38,2119.0,Restaurantes Demo,sí,no,0,no,app,cena,sáb,2,1,RES-U09-00985
+sin novedad,no,18,211.0,Restaurantes Demo,no,,0,no,app,almuerzo,lun,3,17,RES-U09-00986
+revisar,sí,0,0.0,Restaurantes Demo,no,no,1,no,app,almuerzo,mar,1,29,RES-U09-00987
+sin novedad,sí,0,0.0,Restaurantes Demo,no,sí,0,no,app,cena,dom,4,26,RES-U09-00988
+,no,33,10832.0,Restaurantes Demo,sí,no,0,sí,web,almuerzo,mar,4,5,RES-U09-00989
+,no,25,2739.0,Restaurantes Demo,no,no,1,no,app,almuerzo,sáb,4,23,RES-U09-00990
+,no,20,11435.0,Restaurantes Demo,sí,no,0,no,app,almuerzo,mar,4,10,RES-U09-00991
+revisar,no,34,5162.0,Restaurantes Demo,sí,no,0,sí,web,cena,vie,2,26,RES-U09-00992
+sin novedad,no,35,1646.0,Restaurantes Demo,sí,no,0,no,teléfono,almuerzo,sáb,2,15,RES-U09-00993
+revisar,no,34,8000.0,Restaurantes Demo,no,no,1,no,app,almuerzo,lun,2,16,RES-U09-00994
+revisar,no,33,4121.0,Restaurantes Demo,sí,no,0,sí,app,almuerzo,dom,4,10,RES-U09-00995
+,no,10,8766.0,Restaurantes Demo,sí,no,0,no,app,cena,vie,4,5,RES-U09-00996
+,no,1,9216.0,Restaurantes Demo,no,no,0,no,app,cena,dom,5,22,RES-U09-00997
+,no,24,2784.0,Restaurantes Demo,no,no,0,sí,app,cena,mié,2,6,RES-U09-00998
+sin novedad,no,34,5988.0,Restaurantes Demo,sí,no,0,no,app,cena,sáb,5,20,RES-U09-00999

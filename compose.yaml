@@ -1,0 +1,19 @@
+services:
+  goal_settings:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: goal_settings-mvp:local
+    init: true
+    env_file:
+      - path: .env
+        required: false
+    ports:
+      - "127.0.0.1:8501:8501"
+    environment:
+      GOAL_SETTINGS_RUNTIME_DIR: /app/runtime
+    volumes:
+      - ./runtime:/app/runtime
+    restart: unless-stopped
+    security_opt:
+      - no-new-privileges:true

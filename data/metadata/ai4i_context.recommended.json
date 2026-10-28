@@ -1,0 +1,38 @@
+{
+  "_status": "RECOMENDACIÓN TÉCNICA PENDIENTE DE APROBACIÓN HUMANA. Ver PLAN_MAESTRO_GOAL_SETTINGS.md. El script rechaza decision_actor_label = PENDIENTE.",
+  "dataset": {
+    "original_filename_display": "ai4i2020.csv",
+    "source_name": "UCI Machine Learning Repository - AI4I 2020 Predictive Maintenance (DOI 10.24432/C5HS5C)",
+    "license": "CC BY 4.0",
+    "classification": "synthetic",
+    "authorization_status": "approved",
+    "anonymization_declared": false
+  },
+  "context": {
+    "objective": "Priorizar qué máquinas inspeccionar preventivamente antes de que ocurra una falla, ordenándolas por riesgo estimado.",
+    "target_column": "Machine failure",
+    "positive_class": 1,
+    "prediction_moment": "Al cierre de cada ciclo de medición, con las lecturas de proceso y desgaste disponibles y antes de conocer si hubo falla o su modo.",
+    "false_positive_consequence": "Se inspecciona una máquina sana: costo acotado de horas de mantenimiento y una detención breve planificada.",
+    "false_negative_consequence": "Una falla no anticipada: detención no planificada, posible daño del equipo y pérdida de producción; se considera el error más grave.",
+    "primary_metric": "average_precision",
+    "metric_rationale": "Con ~3,4 % de fallas, average precision mide si el modelo pone primero a las máquinas que fallan, sin depender de un umbral. Recall y precision se informan en el umbral operativo fijado en validación.",
+    "decision_actor_label": "PENDIENTE",
+    "feature_decisions": [
+      {"column": "UDI", "use": "exclude", "available_at_prediction": true, "reason": "Identificador secuencial de fila; no describe la máquina y podría capturar orden de generación."},
+      {"column": "Product ID", "use": "exclude", "available_at_prediction": true, "reason": "Identificador de alta cardinalidad; su letra inicial duplica la variable Type."},
+      {"column": "Type", "use": "include", "available_at_prediction": true, "reason": "Calidad del producto (L/M/H), conocida antes del ciclo."},
+      {"column": "Air temperature [K]", "use": "include", "available_at_prediction": true, "reason": "Lectura de proceso disponible al cierre del ciclo."},
+      {"column": "Process temperature [K]", "use": "include", "available_at_prediction": true, "reason": "Lectura de proceso disponible al cierre del ciclo."},
+      {"column": "Rotational speed [rpm]", "use": "include", "available_at_prediction": true, "reason": "Lectura de proceso disponible al cierre del ciclo."},
+      {"column": "Torque [Nm]", "use": "include", "available_at_prediction": true, "reason": "Lectura de proceso disponible al cierre del ciclo."},
+      {"column": "Tool wear [min]", "use": "include", "available_at_prediction": true, "reason": "Desgaste acumulado de herramienta, conocido antes del ciclo."},
+      {"column": "TWF", "use": "exclude", "available_at_prediction": false, "reason": "Modo de falla (desgaste): se conoce sólo después de la falla; es leakage directo del target."},
+      {"column": "HDF", "use": "exclude", "available_at_prediction": false, "reason": "Modo de falla (disipación de calor): posterior a la falla; leakage."},
+      {"column": "PWF", "use": "exclude", "available_at_prediction": false, "reason": "Modo de falla (potencia): posterior a la falla; leakage."},
+      {"column": "OSF", "use": "exclude", "available_at_prediction": false, "reason": "Modo de falla (sobreesfuerzo): posterior a la falla; leakage."},
+      {"column": "RNF", "use": "exclude", "available_at_prediction": false, "reason": "Modo de falla aleatoria: posterior a la falla; leakage."}
+    ],
+    "guardrails": {"mode": "no_quantitative_guardrail", "rules": []}
+  }
+}

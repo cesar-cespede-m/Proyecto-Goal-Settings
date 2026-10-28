@@ -1,0 +1,1 @@
+id_maquina,tipo_maquina,temperatura_aire_c,temperatura_proceso_c,velocidad_rpm,torque_nm,desgaste_herramienta_min,turno_noche,planta,horas_detenida_post_falla,falla_maquina

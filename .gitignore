@@ -1,0 +1,41 @@
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+!templates/goal_settings-consumer-sandbox/goal_settings/public-key.pem
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.egg-info/
+build/
+dist/
+
+# Runtime and ML artifacts
+runtime/
+.tmp/
+backups/
+mlruns/
+mlflow.db
+*.sqlite3
+*.db
+models/
+
+# Local datasets: metadata can be versioned, raw files reviewed individually
+data/samples/*.csv
+data/samples/*.parquet
+
+# OS and IDE
+.DS_Store
+Thumbs.db
+.vscode/.ropeproject
+
+# Local-only design context
+PROMPT_DISENO_UI_AUTOCONTENIDO.md

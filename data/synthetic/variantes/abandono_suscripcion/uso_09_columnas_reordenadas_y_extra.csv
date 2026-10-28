@@ -1,0 +1,1001 @@
+observacion_operador,abandona,encuesta_salida_completada,moneda,region,pago_automatico,tickets_soporte_90d,minutos_promedio_sesion,sesiones_ultimo_mes,plan,meses_antiguedad,id_suscriptor
+,no,no,CLP-demo,Norte,sí,1,,11,básico,47,SUS-U09-00000
+,no,no,CLP-demo,Norte,sí,0,47.2,9,estándar,47,SUS-U09-00001
+,no,no,CLP-demo,Norte,no,0,,13,básico,34,SUS-U09-00002
+sin novedad,sí,no,CLP-demo,Norte,sí,1,42.9,9,estándar,50,SUS-U09-00003
+,no,no,CLP-demo,Centro,sí,2,69.1,7,estándar,36,SUS-U09-00004
+sin novedad,sí,sí,CLP-demo,Sur,sí,1,44.8,7,básico,23,SUS-U09-00005
+,no,no,CLP-demo,Centro,sí,1,40.6,7,básico,31,SUS-U09-00006
+sin novedad,sí,no,CLP-demo,Sur,sí,1,14.8,6,premium,16,SUS-U09-00007
+,no,no,CLP-demo,Norte,no,3,22.9,12,básico,58,SUS-U09-00008
+sin novedad,no,no,CLP-demo,Norte,sí,0,53.6,8,premium,9,SUS-U09-00009
+sin novedad,no,no,CLP-demo,Centro,sí,1,25.1,10,estándar,21,SUS-U09-00010
+,no,no,CLP-demo,Centro,sí,0,27.7,8,básico,19,SUS-U09-00011
+revisar,no,no,CLP-demo,Centro,sí,1,,10,estándar,33,SUS-U09-00012
+sin novedad,no,no,CLP-demo,Norte,no,0,47.2,9,estándar,8,SUS-U09-00013
+,no,no,CLP-demo,Norte,no,0,61.5,6,estándar,8,SUS-U09-00014
+,sí,sí,CLP-demo,Norte,no,3,39.1,10,básico,47,SUS-U09-00015
+revisar,no,no,CLP-demo,Sur,no,0,28.2,7,estándar,28,SUS-U09-00016
+revisar,no,no,CLP-demo,Centro,sí,0,11.3,14,estándar,38,SUS-U09-00017
+revisar,no,no,CLP-demo,Centro,no,1,,17,estándar,9,SUS-U09-00018
+,no,no,CLP-demo,Norte,sí,1,30.4,11,estándar,54,SUS-U09-00019
+sin novedad,no,no,CLP-demo,Centro,sí,0,32.0,14,básico,28,SUS-U09-00020
+sin novedad,no,no,CLP-demo,Centro,sí,0,41.3,10,premium,11,SUS-U09-00021
+revisar,no,no,CLP-demo,Centro,no,2,25.0,11,básico,46,SUS-U09-00022
+,no,no,CLP-demo,Sur,sí,1,34.7,9,estándar,55,SUS-U09-00023
+,no,no,CLP-demo,Norte,sí,1,49.2,8,premium,57,SUS-U09-00024
+sin novedad,no,no,CLP-demo,Centro,sí,0,46.2,10,básico,51,SUS-U09-00025
+revisar,no,no,CLP-demo,Sur,no,2,31.3,10,básico,28,SUS-U09-00026
+revisar,sí,sí,CLP-demo,Centro,no,1,33.9,6,premium,54,SUS-U09-00027
+sin novedad,no,no,CLP-demo,Sur,no,1,69.5,5,básico,13,SUS-U09-00028
+revisar,no,no,CLP-demo,Centro,sí,1,81.5,3,premium,13,SUS-U09-00029
+sin novedad,no,no,CLP-demo,Sur,sí,0,25.6,12,básico,48,SUS-U09-00030
+revisar,no,no,CLP-demo,Centro,sí,1,46.4,8,básico,12,SUS-U09-00031
+revisar,no,no,CLP-demo,Centro,no,0,38.4,6,básico,37,SUS-U09-00032
+revisar,no,no,CLP-demo,Sur,sí,0,31.0,6,estándar,20,SUS-U09-00033
+revisar,no,no,CLP-demo,Centro,sí,1,22.3,14,básico,11,SUS-U09-00034
+,no,no,CLP-demo,Norte,sí,3,38.4,10,básico,31,SUS-U09-00035
+revisar,no,no,CLP-demo,Centro,sí,1,28.8,7,estándar,56,SUS-U09-00036
+,no,no,CLP-demo,Centro,sí,0,107.9,9,básico,58,SUS-U09-00037
+sin novedad,no,no,CLP-demo,Centro,no,0,46.6,6,básico,18,SUS-U09-00038
+sin novedad,no,no,CLP-demo,Centro,sí,0,13.0,7,básico,43,SUS-U09-00039
+sin novedad,no,no,CLP-demo,Sur,sí,1,60.9,9,estándar,32,SUS-U09-00040
+revisar,no,no,CLP-demo,Sur,sí,0,79.9,7,básico,15,SUS-U09-00041
+revisar,no,no,CLP-demo,Centro,no,2,16.7,10,estándar,57,SUS-U09-00042
+,no,no,CLP-demo,Sur,sí,0,32.5,11,estándar,47,SUS-U09-00043
+revisar,no,no,CLP-demo,Centro,sí,0,43.3,2,estándar,1,SUS-U09-00044
+,no,no,CLP-demo,Centro,sí,1,78.0,11,premium,32,SUS-U09-00045
+sin novedad,no,no,CLP-demo,Norte,sí,0,25.3,16,premium,48,SUS-U09-00046
+,sí,sí,CLP-demo,Centro,sí,2,6.2,7,básico,45,SUS-U09-00047
+,no,no,CLP-demo,Norte,sí,0,38.3,15,estándar,46,SUS-U09-00048
+,no,no,CLP-demo,Sur,no,2,24.4,9,estándar,60,SUS-U09-00049
+sin novedad,no,no,CLP-demo,Sur,sí,1,20.6,8,básico,45,SUS-U09-00050
+sin novedad,no,no,CLP-demo,Centro,no,4,68.9,9,premium,8,SUS-U09-00051
+revisar,no,no,CLP-demo,Sur,no,1,69.9,13,premium,10,SUS-U09-00052
+sin novedad,sí,sí,CLP-demo,Sur,sí,2,48.6,8,básico,18,SUS-U09-00053
+revisar,no,no,CLP-demo,Norte,no,1,43.9,8,básico,55,SUS-U09-00054
+sin novedad,no,no,CLP-demo,Sur,sí,1,30.6,11,básico,15,SUS-U09-00055
+revisar,no,no,CLP-demo,Centro,sí,0,40.4,6,premium,28,SUS-U09-00056
+,no,no,CLP-demo,Centro,sí,1,27.7,6,premium,53,SUS-U09-00057
+sin novedad,no,no,CLP-demo,Centro,no,2,22.2,15,estándar,52,SUS-U09-00058
+sin novedad,no,no,CLP-demo,Sur,sí,0,18.9,10,estándar,36,SUS-U09-00059
+sin novedad,no,no,CLP-demo,Norte,no,1,5.8,13,estándar,15,SUS-U09-00060
+sin novedad,no,no,CLP-demo,Sur,no,1,11.8,13,básico,2,SUS-U09-00061
+revisar,no,no,CLP-demo,Sur,no,0,62.8,10,estándar,46,SUS-U09-00062
+revisar,no,no,CLP-demo,Centro,no,0,30.6,11,básico,26,SUS-U09-00063
+sin novedad,no,no,CLP-demo,Norte,sí,1,57.6,9,estándar,34,SUS-U09-00064
+,no,no,CLP-demo,Centro,no,1,43.6,12,básico,7,SUS-U09-00065
+,no,no,CLP-demo,Centro,sí,0,53.6,5,premium,14,SUS-U09-00066
+sin novedad,no,no,CLP-demo,Centro,no,1,125.2,7,estándar,55,SUS-U09-00067
+sin novedad,no,no,CLP-demo,Centro,sí,0,49.6,11,estándar,26,SUS-U09-00068
+revisar,no,no,CLP-demo,Sur,sí,1,24.6,10,premium,55,SUS-U09-00069
+,sí,sí,CLP-demo,Sur,no,1,,6,estándar,52,SUS-U09-00070
+,sí,no,CLP-demo,Centro,sí,0,26.1,10,básico,2,SUS-U09-00071
+revisar,no,no,CLP-demo,Centro,sí,0,20.6,6,básico,23,SUS-U09-00072
+sin novedad,no,no,CLP-demo,Centro,no,2,84.8,8,básico,43,SUS-U09-00073
+sin novedad,sí,no,CLP-demo,Centro,sí,3,11.7,9,premium,1,SUS-U09-00074
+sin novedad,sí,no,CLP-demo,Centro,no,3,16.4,8,básico,4,SUS-U09-00075
+,no,no,CLP-demo,Centro,sí,2,,11,estándar,36,SUS-U09-00076
+sin novedad,no,no,CLP-demo,Centro,sí,1,,16,estándar,14,SUS-U09-00077
+sin novedad,no,no,CLP-demo,Centro,sí,2,75.8,10,básico,54,SUS-U09-00078
+sin novedad,sí,no,CLP-demo,Centro,no,2,49.4,16,básico,5,SUS-U09-00079
+sin novedad,no,no,CLP-demo,Norte,sí,0,38.7,9,básico,31,SUS-U09-00080
+,no,no,CLP-demo,Sur,sí,1,45.0,11,básico,46,SUS-U09-00081
+revisar,no,no,CLP-demo,Centro,no,1,56.7,10,premium,45,SUS-U09-00082
+revisar,sí,sí,CLP-demo,Centro,sí,0,67.2,11,básico,24,SUS-U09-00083
+,sí,sí,CLP-demo,Norte,no,1,42.8,4,básico,32,SUS-U09-00084
+revisar,sí,sí,CLP-demo,Norte,sí,2,24.5,15,estándar,55,SUS-U09-00085
+revisar,no,no,CLP-demo,Norte,no,3,,6,básico,32,SUS-U09-00086
+,no,no,CLP-demo,Norte,no,0,12.5,12,estándar,34,SUS-U09-00087
+sin novedad,no,no,CLP-demo,Norte,sí,1,41.9,11,básico,47,SUS-U09-00088
+sin novedad,no,no,CLP-demo,Sur,no,0,53.4,9,estándar,49,SUS-U09-00089
+,no,no,CLP-demo,Centro,no,0,,10,premium,20,SUS-U09-00090
+sin novedad,sí,sí,CLP-demo,Centro,sí,0,24.2,10,estándar,4,SUS-U09-00091
+revisar,no,no,CLP-demo,Norte,sí,1,,3,estándar,21,SUS-U09-00092
+,sí,sí,CLP-demo,Centro,no,1,38.0,8,básico,49,SUS-U09-00093
+revisar,no,no,CLP-demo,Sur,sí,3,48.7,5,premium,13,SUS-U09-00094
+sin novedad,sí,sí,CLP-demo,Centro,sí,1,38.8,10,estándar,41,SUS-U09-00095
+,no,no,CLP-demo,Centro,sí,1,15.2,8,básico,57,SUS-U09-00096
+,sí,sí,CLP-demo,Centro,no,1,28.0,6,básico,57,SUS-U09-00097
+,no,no,CLP-demo,Norte,sí,1,32.4,5,estándar,17,SUS-U09-00098
+,no,no,CLP-demo,Sur,sí,0,22.6,12,estándar,46,SUS-U09-00099
+,no,no,CLP-demo,Norte,no,0,65.4,8,estándar,17,SUS-U09-00100
+revisar,no,no,CLP-demo,Centro,sí,0,30.8,6,premium,53,SUS-U09-00101
+sin novedad,sí,no,CLP-demo,Norte,no,0,35.1,13,premium,31,SUS-U09-00102
+revisar,no,no,CLP-demo,Centro,no,0,43.9,11,estándar,12,SUS-U09-00103
+sin novedad,sí,sí,CLP-demo,Centro,sí,0,12.6,3,estándar,8,SUS-U09-00104
+revisar,no,no,CLP-demo,Norte,no,2,27.0,5,premium,9,SUS-U09-00105
+,no,no,CLP-demo,Centro,sí,0,23.5,7,básico,50,SUS-U09-00106
+revisar,no,no,CLP-demo,Sur,sí,2,46.1,11,premium,25,SUS-U09-00107
+,sí,sí,CLP-demo,Sur,no,1,,6,básico,37,SUS-U09-00108
+,no,no,CLP-demo,Sur,sí,0,26.0,10,estándar,30,SUS-U09-00109
+revisar,no,no,CLP-demo,Centro,sí,0,47.1,14,estándar,59,SUS-U09-00110
+,no,no,CLP-demo,Centro,sí,0,58.8,14,básico,1,SUS-U09-00111
+,no,no,CLP-demo,Sur,no,0,24.7,9,estándar,35,SUS-U09-00112
+revisar,no,no,CLP-demo,Norte,sí,1,48.2,6,básico,53,SUS-U09-00113
+,sí,sí,CLP-demo,Sur,sí,2,19.1,13,básico,23,SUS-U09-00114
+sin novedad,sí,sí,CLP-demo,Centro,no,0,7.0,11,básico,23,SUS-U09-00115
+,no,no,CLP-demo,Norte,sí,4,33.4,9,estándar,1,SUS-U09-00116
+,no,no,CLP-demo,Centro,sí,2,59.2,9,premium,46,SUS-U09-00117
+sin novedad,no,no,CLP-demo,Norte,sí,0,42.7,10,estándar,1,SUS-U09-00118
+sin novedad,sí,sí,CLP-demo,Sur,sí,4,53.7,7,estándar,5,SUS-U09-00119
+,no,no,CLP-demo,Norte,no,2,34.6,5,básico,42,SUS-U09-00120
+sin novedad,no,no,CLP-demo,Norte,no,0,65.7,9,básico,54,SUS-U09-00121
+revisar,no,no,CLP-demo,Centro,sí,0,33.8,3,estándar,11,SUS-U09-00122
+revisar,no,no,CLP-demo,Sur,sí,1,34.5,12,estándar,34,SUS-U09-00123
+,sí,sí,CLP-demo,Sur,no,0,17.4,4,básico,37,SUS-U09-00124
+,no,no,CLP-demo,Centro,no,0,,6,estándar,40,SUS-U09-00125
+,no,no,CLP-demo,Centro,sí,0,38.5,11,premium,58,SUS-U09-00126
+sin novedad,no,no,CLP-demo,Sur,sí,1,27.2,11,estándar,57,SUS-U09-00127
+revisar,no,no,CLP-demo,Norte,sí,0,39.6,8,estándar,12,SUS-U09-00128
+sin novedad,no,no,CLP-demo,Sur,sí,0,25.7,7,estándar,9,SUS-U09-00129
+revisar,no,no,CLP-demo,Sur,no,0,45.2,13,básico,52,SUS-U09-00130
+sin novedad,no,no,CLP-demo,Centro,no,0,36.8,6,estándar,18,SUS-U09-00131
+revisar,no,no,CLP-demo,Centro,no,1,29.0,9,premium,46,SUS-U09-00132
+,sí,sí,CLP-demo,Centro,sí,2,40.7,8,estándar,41,SUS-U09-00133
+,no,no,CLP-demo,Centro,sí,2,52.4,8,básico,19,SUS-U09-00134
+revisar,no,no,CLP-demo,Norte,sí,0,20.3,7,premium,43,SUS-U09-00135
+sin novedad,no,no,CLP-demo,Sur,no,3,,7,básico,21,SUS-U09-00136
+revisar,sí,no,CLP-demo,Norte,no,0,,13,básico,34,SUS-U09-00137
+,no,no,CLP-demo,Centro,sí,2,79.3,5,estándar,18,SUS-U09-00138
+,no,no,CLP-demo,Centro,no,2,67.2,5,estándar,25,SUS-U09-00139
+sin novedad,no,no,CLP-demo,Norte,sí,1,27.8,12,premium,56,SUS-U09-00140
+sin novedad,no,no,CLP-demo,Centro,no,1,47.9,6,premium,25,SUS-U09-00141
+revisar,no,no,CLP-demo,Centro,no,1,,10,básico,35,SUS-U09-00142
+sin novedad,no,no,CLP-demo,Centro,sí,3,42.8,11,básico,58,SUS-U09-00143
+revisar,no,no,CLP-demo,Centro,sí,1,78.9,6,básico,29,SUS-U09-00144
+revisar,sí,no,CLP-demo,Norte,no,0,28.3,8,básico,14,SUS-U09-00145
+revisar,no,no,CLP-demo,Sur,no,2,41.9,10,estándar,28,SUS-U09-00146
+revisar,no,no,CLP-demo,Norte,sí,0,39.4,5,estándar,7,SUS-U09-00147
+,no,no,CLP-demo,Centro,sí,0,65.8,8,básico,43,SUS-U09-00148
+sin novedad,no,no,CLP-demo,Sur,sí,3,51.3,12,básico,9,SUS-U09-00149
+revisar,no,no,CLP-demo,Norte,sí,1,,13,básico,4,SUS-U09-00150
+,no,no,CLP-demo,Centro,sí,0,29.7,10,básico,22,SUS-U09-00151
+revisar,no,no,CLP-demo,Sur,sí,0,62.5,11,básico,39,SUS-U09-00152
+sin novedad,no,no,CLP-demo,Centro,sí,0,67.1,16,básico,22,SUS-U09-00153
+,no,no,CLP-demo,Norte,no,0,44.6,12,básico,47,SUS-U09-00154
+revisar,no,no,CLP-demo,Centro,sí,1,48.1,9,básico,55,SUS-U09-00155
+revisar,sí,sí,CLP-demo,Centro,no,0,9.7,6,premium,26,SUS-U09-00156
+revisar,sí,sí,CLP-demo,Centro,sí,1,26.7,13,básico,11,SUS-U09-00157
+sin novedad,no,no,CLP-demo,Norte,sí,1,19.8,12,estándar,42,SUS-U09-00158
+,no,no,CLP-demo,Centro,sí,3,,9,básico,25,SUS-U09-00159
+sin novedad,no,no,CLP-demo,Norte,sí,0,47.9,5,básico,11,SUS-U09-00160
+sin novedad,no,no,CLP-demo,Centro,sí,0,11.6,10,premium,35,SUS-U09-00161
+revisar,no,no,CLP-demo,Norte,no,0,20.2,4,estándar,9,SUS-U09-00162
+,no,no,CLP-demo,Centro,sí,1,10.2,3,premium,36,SUS-U09-00163
+sin novedad,sí,sí,CLP-demo,Sur,sí,0,,9,estándar,20,SUS-U09-00164
+sin novedad,sí,sí,CLP-demo,Sur,sí,2,,7,estándar,41,SUS-U09-00165
+sin novedad,no,no,CLP-demo,Centro,no,0,64.8,9,básico,23,SUS-U09-00166
+,no,no,CLP-demo,Centro,no,0,45.3,6,básico,55,SUS-U09-00167
+revisar,sí,sí,CLP-demo,Norte,sí,2,70.9,7,estándar,17,SUS-U09-00168
+revisar,no,no,CLP-demo,Centro,no,0,68.6,10,estándar,47,SUS-U09-00169
+revisar,no,no,CLP-demo,Centro,sí,1,51.4,8,premium,33,SUS-U09-00170
+revisar,no,no,CLP-demo,Centro,sí,0,30.9,10,básico,3,SUS-U09-00171
+,no,no,CLP-demo,Centro,sí,1,23.8,9,estándar,51,SUS-U09-00172
+sin novedad,no,no,CLP-demo,Centro,sí,1,59.8,14,premium,3,SUS-U09-00173
+revisar,no,no,CLP-demo,Centro,sí,1,25.8,7,estándar,50,SUS-U09-00174
+sin novedad,no,no,CLP-demo,Centro,sí,2,35.1,13,estándar,59,SUS-U09-00175
+,no,no,CLP-demo,Centro,no,0,48.9,10,básico,19,SUS-U09-00176
+sin novedad,no,no,CLP-demo,Centro,no,1,38.0,6,estándar,25,SUS-U09-00177
+,no,no,CLP-demo,Norte,no,2,51.4,13,estándar,15,SUS-U09-00178
+sin novedad,no,no,CLP-demo,Centro,sí,0,40.7,9,básico,29,SUS-U09-00179
+,no,no,CLP-demo,Norte,sí,1,45.3,12,premium,47,SUS-U09-00180
+sin novedad,no,no,CLP-demo,Norte,no,0,4.1,3,básico,26,SUS-U09-00181
+revisar,sí,sí,CLP-demo,Centro,sí,0,52.5,10,básico,27,SUS-U09-00182
+revisar,sí,sí,CLP-demo,Centro,no,2,17.7,8,básico,2,SUS-U09-00183
+,no,no,CLP-demo,Sur,no,0,22.3,4,premium,8,SUS-U09-00184
+revisar,no,no,CLP-demo,Centro,sí,1,14.6,13,estándar,59,SUS-U09-00185
+,no,no,CLP-demo,Centro,sí,1,80.5,6,estándar,18,SUS-U09-00186
+,no,no,CLP-demo,Centro,no,0,48.9,11,básico,6,SUS-U09-00187
+,no,no,CLP-demo,Centro,no,1,40.6,12,estándar,4,SUS-U09-00188
+sin novedad,no,no,CLP-demo,Sur,sí,3,39.8,9,premium,12,SUS-U09-00189
+sin novedad,no,no,CLP-demo,Sur,no,0,14.2,4,básico,12,SUS-U09-00190
+sin novedad,sí,sí,CLP-demo,Centro,sí,1,23.6,4,básico,50,SUS-U09-00191
+sin novedad,no,no,CLP-demo,Norte,no,1,63.1,12,básico,19,SUS-U09-00192
+sin novedad,no,no,CLP-demo,Centro,sí,0,43.4,10,estándar,41,SUS-U09-00193
+revisar,no,no,CLP-demo,Centro,sí,0,19.5,10,estándar,32,SUS-U09-00194
+,no,no,CLP-demo,Sur,sí,1,39.2,7,básico,39,SUS-U09-00195
+,no,no,CLP-demo,Sur,sí,0,51.0,11,estándar,36,SUS-U09-00196
+,no,no,CLP-demo,Norte,no,1,70.0,9,básico,24,SUS-U09-00197
+sin novedad,no,no,CLP-demo,Sur,sí,1,33.3,7,básico,33,SUS-U09-00198
+sin novedad,no,no,CLP-demo,Sur,sí,0,63.1,8,básico,45,SUS-U09-00199
+sin novedad,sí,sí,CLP-demo,Centro,sí,2,43.3,10,estándar,9,SUS-U09-00200
+revisar,no,no,CLP-demo,Centro,sí,0,25.9,5,estándar,33,SUS-U09-00201
+,no,no,CLP-demo,Norte,sí,1,54.9,15,estándar,15,SUS-U09-00202
+revisar,no,no,CLP-demo,Centro,sí,1,55.7,10,básico,13,SUS-U09-00203
+revisar,no,no,CLP-demo,Norte,sí,0,64.7,12,estándar,52,SUS-U09-00204
+,no,no,CLP-demo,Sur,sí,0,36.8,12,estándar,15,SUS-U09-00205
+,no,no,CLP-demo,Centro,sí,0,,6,básico,18,SUS-U09-00206
+revisar,no,no,CLP-demo,Norte,sí,2,43.4,7,estándar,42,SUS-U09-00207
+revisar,no,no,CLP-demo,Norte,no,0,18.6,10,básico,9,SUS-U09-00208
+sin novedad,sí,sí,CLP-demo,Centro,no,1,,9,básico,50,SUS-U09-00209
+sin novedad,no,no,CLP-demo,Norte,sí,2,47.0,8,estándar,18,SUS-U09-00210
+,no,no,CLP-demo,Centro,sí,1,30.4,12,básico,44,SUS-U09-00211
+revisar,no,no,CLP-demo,Centro,sí,0,79.6,7,estándar,11,SUS-U09-00212
+revisar,no,no,CLP-demo,Sur,no,1,54.0,9,estándar,45,SUS-U09-00213
+sin novedad,no,no,CLP-demo,Sur,sí,0,47.6,9,estándar,55,SUS-U09-00214
+revisar,no,no,CLP-demo,Centro,sí,1,39.8,5,básico,43,SUS-U09-00215
+sin novedad,no,sí,CLP-demo,Centro,no,0,49.4,7,básico,28,SUS-U09-00216
+revisar,no,no,CLP-demo,Centro,sí,0,29.6,13,premium,27,SUS-U09-00217
+,no,no,CLP-demo,Centro,no,0,23.4,9,premium,17,SUS-U09-00218
+,no,no,CLP-demo,Sur,no,1,23.5,6,premium,40,SUS-U09-00219
+sin novedad,no,no,CLP-demo,Centro,sí,0,69.5,13,estándar,49,SUS-U09-00220
+,sí,no,CLP-demo,Centro,no,1,44.7,13,básico,58,SUS-U09-00221
+,sí,no,CLP-demo,Sur,no,1,29.0,19,básico,47,SUS-U09-00222
+revisar,no,no,CLP-demo,Norte,sí,1,21.5,9,premium,37,SUS-U09-00223
+sin novedad,no,no,CLP-demo,Centro,no,2,12.8,15,estándar,54,SUS-U09-00224
+,no,no,CLP-demo,Centro,no,0,36.1,6,estándar,36,SUS-U09-00225
+revisar,no,no,CLP-demo,Centro,sí,0,22.8,12,básico,5,SUS-U09-00226
+revisar,no,sí,CLP-demo,Sur,no,0,,11,básico,56,SUS-U09-00227
+sin novedad,sí,sí,CLP-demo,Centro,sí,1,18.0,13,básico,36,SUS-U09-00228
+sin novedad,no,no,CLP-demo,Sur,sí,2,33.7,12,estándar,32,SUS-U09-00229
+,no,no,CLP-demo,Centro,sí,0,43.7,5,estándar,18,SUS-U09-00230
+revisar,no,no,CLP-demo,Centro,sí,2,21.3,8,premium,13,SUS-U09-00231
+sin novedad,no,no,CLP-demo,Sur,sí,3,54.7,7,estándar,17,SUS-U09-00232
+revisar,no,no,CLP-demo,Centro,sí,1,20.6,8,básico,18,SUS-U09-00233
+revisar,no,no,CLP-demo,Sur,no,1,67.1,10,básico,34,SUS-U09-00234
+sin novedad,sí,sí,CLP-demo,Norte,sí,1,21.4,11,básico,50,SUS-U09-00235
+,no,no,CLP-demo,Sur,sí,1,23.1,8,estándar,53,SUS-U09-00236
+revisar,no,no,CLP-demo,Centro,no,1,50.5,10,estándar,57,SUS-U09-00237
+revisar,no,no,CLP-demo,Sur,no,1,87.8,10,estándar,22,SUS-U09-00238
+sin novedad,no,no,CLP-demo,Centro,no,0,24.8,6,premium,50,SUS-U09-00239
+revisar,no,no,CLP-demo,Sur,sí,0,45.7,5,premium,19,SUS-U09-00240
+sin novedad,no,no,CLP-demo,Norte,sí,1,35.2,7,básico,50,SUS-U09-00241
+revisar,no,no,CLP-demo,Norte,sí,0,20.2,19,básico,47,SUS-U09-00242
+revisar,sí,sí,CLP-demo,Centro,sí,2,40.5,7,estándar,27,SUS-U09-00243
+revisar,no,no,CLP-demo,Sur,sí,0,13.9,7,básico,35,SUS-U09-00244
+,no,no,CLP-demo,Centro,sí,0,24.6,11,premium,21,SUS-U09-00245
+revisar,no,no,CLP-demo,Norte,no,0,27.2,15,estándar,54,SUS-U09-00246
+sin novedad,no,no,CLP-demo,Centro,sí,0,21.2,9,básico,33,SUS-U09-00247
+,no,no,CLP-demo,Centro,no,1,34.9,9,básico,18,SUS-U09-00248
+,sí,sí,CLP-demo,Centro,sí,1,39.8,10,básico,44,SUS-U09-00249
+revisar,no,no,CLP-demo,Centro,sí,1,25.8,10,estándar,2,SUS-U09-00250
+revisar,no,no,CLP-demo,Sur,sí,1,28.7,10,básico,48,SUS-U09-00251
+revisar,sí,sí,CLP-demo,Centro,no,3,36.4,15,estándar,12,SUS-U09-00252
+,sí,sí,CLP-demo,Centro,no,0,24.8,5,estándar,55,SUS-U09-00253
+,no,no,CLP-demo,Centro,sí,1,37.6,7,básico,58,SUS-U09-00254
+revisar,no,no,CLP-demo,Norte,sí,1,26.2,9,básico,50,SUS-U09-00255
+sin novedad,no,no,CLP-demo,Norte,sí,0,44.0,11,estándar,28,SUS-U09-00256
+revisar,no,no,CLP-demo,Centro,sí,1,26.4,7,básico,9,SUS-U09-00257
+revisar,no,no,CLP-demo,Sur,sí,2,28.1,8,estándar,44,SUS-U09-00258
+,no,no,CLP-demo,Norte,sí,3,72.2,13,estándar,43,SUS-U09-00259
+revisar,no,no,CLP-demo,Sur,no,0,17.3,12,premium,30,SUS-U09-00260
+,sí,sí,CLP-demo,Centro,no,1,24.0,9,estándar,9,SUS-U09-00261
+revisar,sí,sí,CLP-demo,Centro,no,2,31.1,9,estándar,23,SUS-U09-00262
+revisar,no,no,CLP-demo,Norte,sí,2,39.4,12,estándar,29,SUS-U09-00263
+revisar,no,no,CLP-demo,Centro,sí,0,21.9,6,estándar,37,SUS-U09-00264
+sin novedad,no,no,CLP-demo,Sur,sí,0,59.6,8,premium,50,SUS-U09-00265
+sin novedad,no,no,CLP-demo,Sur,sí,0,45.8,9,premium,40,SUS-U09-00266
+,no,no,CLP-demo,Sur,sí,1,68.1,11,premium,29,SUS-U09-00267
+,no,no,CLP-demo,Centro,sí,0,,9,básico,52,SUS-U09-00268
+revisar,sí,no,CLP-demo,Norte,sí,2,50.6,8,estándar,3,SUS-U09-00269
+,no,no,CLP-demo,Centro,no,0,15.2,12,estándar,53,SUS-U09-00270
+revisar,no,no,CLP-demo,Centro,no,0,33.7,8,básico,60,SUS-U09-00271
+revisar,no,no,CLP-demo,Norte,no,0,34.8,12,básico,42,SUS-U09-00272
+revisar,sí,sí,CLP-demo,Centro,sí,0,13.6,10,estándar,21,SUS-U09-00273
+sin novedad,no,no,CLP-demo,Sur,sí,0,17.4,10,estándar,31,SUS-U09-00274
+,no,no,CLP-demo,Centro,no,1,77.8,6,premium,41,SUS-U09-00275
+revisar,no,no,CLP-demo,Centro,sí,0,46.5,1,estándar,57,SUS-U09-00276
+,no,no,CLP-demo,Centro,no,1,,13,estándar,2,SUS-U09-00277
+sin novedad,no,no,CLP-demo,Centro,sí,1,39.6,8,premium,24,SUS-U09-00278
+,no,no,CLP-demo,Norte,sí,0,45.7,5,básico,16,SUS-U09-00279
+revisar,no,no,CLP-demo,Norte,no,0,51.6,12,premium,6,SUS-U09-00280
+sin novedad,no,no,CLP-demo,Norte,sí,0,,14,básico,42,SUS-U09-00281
+sin novedad,no,no,CLP-demo,Sur,sí,1,29.5,6,básico,58,SUS-U09-00282
+sin novedad,sí,sí,CLP-demo,Centro,no,3,16.0,14,estándar,15,SUS-U09-00283
+revisar,sí,sí,CLP-demo,Norte,no,0,30.2,5,básico,31,SUS-U09-00284
+,no,no,CLP-demo,Centro,no,0,50.8,4,básico,59,SUS-U09-00285
+sin novedad,no,no,CLP-demo,Norte,sí,3,,11,básico,27,SUS-U09-00286
+,sí,sí,CLP-demo,Centro,no,1,56.5,8,estándar,3,SUS-U09-00287
+sin novedad,no,no,CLP-demo,Centro,sí,0,49.2,5,premium,9,SUS-U09-00288
+revisar,no,no,CLP-demo,Norte,no,0,47.7,5,básico,9,SUS-U09-00289
+,no,no,CLP-demo,Sur,sí,0,26.0,9,básico,21,SUS-U09-00290
+revisar,sí,sí,CLP-demo,Norte,no,2,12.3,10,premium,27,SUS-U09-00291
+,sí,sí,CLP-demo,Sur,no,1,25.4,8,estándar,16,SUS-U09-00292
+,sí,no,CLP-demo,Norte,sí,1,41.8,11,estándar,10,SUS-U09-00293
+sin novedad,no,no,CLP-demo,Norte,sí,0,,10,premium,47,SUS-U09-00294
+revisar,no,no,CLP-demo,Sur,sí,1,56.5,6,básico,55,SUS-U09-00295
+revisar,sí,sí,CLP-demo,Centro,no,0,57.2,8,básico,30,SUS-U09-00296
+sin novedad,no,no,CLP-demo,Norte,sí,0,37.1,9,estándar,59,SUS-U09-00297
+revisar,no,no,CLP-demo,Norte,sí,1,36.8,14,estándar,17,SUS-U09-00298
+,no,no,CLP-demo,Sur,no,0,53.7,10,básico,27,SUS-U09-00299
+,no,no,CLP-demo,Centro,sí,1,33.4,11,estándar,26,SUS-U09-00300
+sin novedad,no,no,CLP-demo,Norte,sí,0,18.3,5,premium,25,SUS-U09-00301
+revisar,sí,sí,CLP-demo,Norte,no,0,64.0,7,básico,44,SUS-U09-00302
+,no,no,CLP-demo,Centro,sí,2,31.1,15,estándar,25,SUS-U09-00303
+revisar,no,no,CLP-demo,Centro,sí,0,27.6,7,premium,6,SUS-U09-00304
+revisar,no,no,CLP-demo,Sur,no,1,33.5,10,básico,53,SUS-U09-00305
+,sí,sí,CLP-demo,Centro,no,2,22.6,16,estándar,55,SUS-U09-00306
+revisar,sí,sí,CLP-demo,Centro,sí,0,41.4,11,básico,5,SUS-U09-00307
+sin novedad,sí,sí,CLP-demo,Centro,sí,1,17.2,11,básico,60,SUS-U09-00308
+,no,no,CLP-demo,Centro,sí,0,14.2,7,estándar,23,SUS-U09-00309
+revisar,no,no,CLP-demo,Sur,no,1,,7,premium,35,SUS-U09-00310
+,no,no,CLP-demo,Sur,sí,0,45.6,8,estándar,49,SUS-U09-00311
+revisar,no,no,CLP-demo,Norte,sí,1,18.8,10,básico,40,SUS-U09-00312
+sin novedad,no,no,CLP-demo,Sur,sí,1,46.4,14,estándar,19,SUS-U09-00313
+sin novedad,no,no,CLP-demo,Centro,no,1,26.8,11,premium,36,SUS-U09-00314
+sin novedad,sí,sí,CLP-demo,Norte,sí,2,22.4,15,premium,25,SUS-U09-00315
+revisar,no,no,CLP-demo,Sur,sí,1,49.5,5,estándar,54,SUS-U09-00316
+revisar,sí,sí,CLP-demo,Centro,sí,0,37.1,8,estándar,25,SUS-U09-00317
+revisar,sí,sí,CLP-demo,Centro,sí,2,8.7,13,básico,37,SUS-U09-00318
+revisar,no,no,CLP-demo,Centro,sí,0,46.6,9,estándar,57,SUS-U09-00319
+,no,no,CLP-demo,Norte,sí,1,25.3,4,básico,21,SUS-U09-00320
+revisar,no,no,CLP-demo,Centro,sí,2,44.6,3,estándar,44,SUS-U09-00321
+sin novedad,no,no,CLP-demo,Centro,sí,1,26.2,10,básico,49,SUS-U09-00322
+,sí,sí,CLP-demo,Centro,sí,3,37.1,8,estándar,11,SUS-U09-00323
+sin novedad,no,no,CLP-demo,Centro,no,1,24.5,13,básico,19,SUS-U09-00324
+revisar,no,no,CLP-demo,Sur,sí,0,12.2,5,básico,32,SUS-U09-00325
+,no,no,CLP-demo,Sur,sí,0,41.3,6,básico,52,SUS-U09-00326
+revisar,no,no,CLP-demo,Sur,sí,1,44.6,7,premium,33,SUS-U09-00327
+,no,no,CLP-demo,Centro,sí,1,42.7,13,básico,31,SUS-U09-00328
+revisar,sí,sí,CLP-demo,Centro,no,0,22.9,13,básico,60,SUS-U09-00329
+sin novedad,sí,sí,CLP-demo,Centro,no,0,48.1,4,básico,49,SUS-U09-00330
+sin novedad,no,no,CLP-demo,Centro,sí,3,42.7,4,básico,30,SUS-U09-00331
+sin novedad,no,no,CLP-demo,Norte,sí,0,17.4,11,básico,12,SUS-U09-00332
+sin novedad,no,no,CLP-demo,Norte,sí,0,19.1,9,estándar,13,SUS-U09-00333
+sin novedad,no,no,CLP-demo,Sur,sí,3,11.1,14,premium,54,SUS-U09-00334
+sin novedad,no,no,CLP-demo,Sur,no,2,13.3,11,estándar,48,SUS-U09-00335
+sin novedad,no,no,CLP-demo,Centro,no,0,40.1,13,básico,59,SUS-U09-00336
+sin novedad,no,no,CLP-demo,Sur,sí,0,31.1,7,básico,45,SUS-U09-00337
+revisar,no,no,CLP-demo,Centro,no,1,31.8,13,básico,27,SUS-U09-00338
+sin novedad,no,no,CLP-demo,Centro,no,1,39.5,10,básico,45,SUS-U09-00339
+sin novedad,no,no,CLP-demo,Centro,sí,1,14.0,6,básico,31,SUS-U09-00340
+sin novedad,sí,sí,CLP-demo,Norte,sí,0,47.7,9,estándar,10,SUS-U09-00341
+revisar,no,no,CLP-demo,Sur,sí,2,8.9,8,estándar,33,SUS-U09-00342
+revisar,no,no,CLP-demo,Centro,sí,1,11.5,5,estándar,33,SUS-U09-00343
+,sí,sí,CLP-demo,Centro,no,1,28.9,11,estándar,16,SUS-U09-00344
+revisar,sí,sí,CLP-demo,Centro,no,3,25.4,8,estándar,44,SUS-U09-00345
+,no,no,CLP-demo,Centro,no,0,10.1,8,estándar,25,SUS-U09-00346
+,sí,sí,CLP-demo,Centro,sí,2,,15,estándar,12,SUS-U09-00347
+sin novedad,no,no,CLP-demo,Centro,no,0,15.1,7,estándar,38,SUS-U09-00348
+sin novedad,no,no,CLP-demo,Norte,no,0,,7,estándar,55,SUS-U09-00349
+sin novedad,no,no,CLP-demo,Sur,sí,0,31.3,14,básico,18,SUS-U09-00350
+,no,no,CLP-demo,Centro,sí,1,27.4,9,estándar,27,SUS-U09-00351
+,no,no,CLP-demo,Sur,no,1,,15,estándar,53,SUS-U09-00352
+sin novedad,no,no,CLP-demo,Centro,sí,0,21.7,7,básico,35,SUS-U09-00353
+sin novedad,no,no,CLP-demo,Centro,sí,1,53.7,11,básico,42,SUS-U09-00354
+revisar,no,no,CLP-demo,Centro,no,0,28.9,9,estándar,35,SUS-U09-00355
+,no,no,CLP-demo,Centro,sí,1,47.7,11,premium,18,SUS-U09-00356
+revisar,no,no,CLP-demo,Centro,sí,1,,15,estándar,60,SUS-U09-00357
+sin novedad,no,no,CLP-demo,Centro,sí,1,44.1,12,básico,58,SUS-U09-00358
+,no,no,CLP-demo,Norte,no,0,47.8,10,premium,56,SUS-U09-00359
+revisar,no,no,CLP-demo,Sur,sí,0,26.5,14,estándar,2,SUS-U09-00360
+,sí,sí,CLP-demo,Centro,no,0,22.6,9,estándar,52,SUS-U09-00361
+,no,no,CLP-demo,Centro,sí,0,32.2,4,estándar,43,SUS-U09-00362
+revisar,sí,sí,CLP-demo,Norte,no,2,17.7,9,básico,25,SUS-U09-00363
+sin novedad,no,no,CLP-demo,Norte,no,1,41.2,8,estándar,12,SUS-U09-00364
+revisar,no,no,CLP-demo,Centro,no,1,49.7,6,estándar,13,SUS-U09-00365
+revisar,no,no,CLP-demo,Centro,sí,1,48.0,11,básico,7,SUS-U09-00366
+,no,no,CLP-demo,Centro,sí,1,25.3,2,estándar,37,SUS-U09-00367
+revisar,no,no,CLP-demo,Centro,sí,0,6.5,8,básico,25,SUS-U09-00368
+revisar,no,no,CLP-demo,Sur,no,0,32.7,5,estándar,44,SUS-U09-00369
+,no,no,CLP-demo,Norte,sí,2,17.8,7,premium,9,SUS-U09-00370
+revisar,sí,no,CLP-demo,Sur,sí,0,17.3,10,premium,3,SUS-U09-00371
+sin novedad,sí,sí,CLP-demo,Centro,no,0,18.9,5,premium,27,SUS-U09-00372
+revisar,no,no,CLP-demo,Centro,sí,0,40.2,6,estándar,41,SUS-U09-00373
+,no,no,CLP-demo,Centro,sí,0,41.3,7,básico,15,SUS-U09-00374
+revisar,no,no,CLP-demo,Centro,sí,0,,15,estándar,39,SUS-U09-00375
+sin novedad,no,sí,CLP-demo,Centro,sí,1,22.6,10,básico,59,SUS-U09-00376
+,no,no,CLP-demo,Centro,sí,0,59.7,11,básico,27,SUS-U09-00377
+revisar,no,no,CLP-demo,Norte,no,0,25.0,10,estándar,25,SUS-U09-00378
+sin novedad,no,no,CLP-demo,Norte,no,0,,12,estándar,27,SUS-U09-00379
+,no,no,CLP-demo,Norte,sí,1,62.0,7,básico,56,SUS-U09-00380
+revisar,no,sí,CLP-demo,Norte,sí,0,51.1,9,básico,53,SUS-U09-00381
+revisar,sí,sí,CLP-demo,Norte,no,0,22.6,9,básico,23,SUS-U09-00382
+sin novedad,no,no,CLP-demo,Sur,sí,0,34.2,14,estándar,45,SUS-U09-00383
+sin novedad,sí,sí,CLP-demo,Norte,no,0,61.7,8,premium,57,SUS-U09-00384
+revisar,no,no,CLP-demo,Centro,sí,1,42.4,9,básico,36,SUS-U09-00385
+,no,no,CLP-demo,Sur,sí,1,72.2,8,estándar,10,SUS-U09-00386
+sin novedad,no,no,CLP-demo,Centro,no,0,26.0,8,premium,36,SUS-U09-00387
+revisar,no,no,CLP-demo,Sur,sí,1,34.4,10,estándar,45,SUS-U09-00388
+revisar,no,no,CLP-demo,Sur,no,0,26.4,10,básico,52,SUS-U09-00389
+,no,no,CLP-demo,Centro,no,1,,10,estándar,43,SUS-U09-00390
+revisar,no,no,CLP-demo,Norte,no,0,70.4,10,estándar,56,SUS-U09-00391
+,no,no,CLP-demo,Centro,sí,1,26.9,14,básico,8,SUS-U09-00392
+sin novedad,no,no,CLP-demo,Centro,sí,1,26.7,12,básico,28,SUS-U09-00393
+sin novedad,sí,no,CLP-demo,Sur,sí,1,18.8,8,estándar,52,SUS-U09-00394
+revisar,sí,sí,CLP-demo,Centro,sí,2,69.0,11,premium,44,SUS-U09-00395
+revisar,no,no,CLP-demo,Sur,no,0,49.3,8,básico,26,SUS-U09-00396
+sin novedad,no,no,CLP-demo,Norte,no,1,59.3,7,estándar,50,SUS-U09-00397
+revisar,sí,no,CLP-demo,Norte,sí,0,13.0,7,básico,44,SUS-U09-00398
+sin novedad,no,no,CLP-demo,Centro,sí,0,15.9,10,premium,21,SUS-U09-00399
+revisar,no,no,CLP-demo,Centro,no,0,28.2,8,estándar,26,SUS-U09-00400
+revisar,no,no,CLP-demo,Centro,sí,1,28.2,8,estándar,52,SUS-U09-00401
+sin novedad,sí,sí,CLP-demo,Norte,no,0,26.9,7,estándar,35,SUS-U09-00402
+,no,no,CLP-demo,Sur,no,0,29.7,11,premium,19,SUS-U09-00403
+,no,no,CLP-demo,Centro,sí,0,,10,estándar,5,SUS-U09-00404
+,no,no,CLP-demo,Centro,sí,1,27.5,14,básico,14,SUS-U09-00405
+,no,no,CLP-demo,Sur,no,0,32.6,8,básico,17,SUS-U09-00406
+sin novedad,no,no,CLP-demo,Centro,sí,0,,11,básico,22,SUS-U09-00407
+,no,no,CLP-demo,Centro,sí,1,7.4,9,premium,7,SUS-U09-00408
+revisar,no,no,CLP-demo,Sur,sí,2,10.2,9,premium,9,SUS-U09-00409
+revisar,no,no,CLP-demo,Sur,no,0,34.2,6,básico,19,SUS-U09-00410
+,no,no,CLP-demo,Norte,no,0,14.9,8,básico,42,SUS-U09-00411
+revisar,no,no,CLP-demo,Norte,sí,0,22.6,9,estándar,58,SUS-U09-00412
+sin novedad,sí,no,CLP-demo,Centro,no,1,28.5,12,estándar,24,SUS-U09-00413
+revisar,sí,sí,CLP-demo,Norte,sí,1,73.6,7,básico,14,SUS-U09-00414
+revisar,sí,sí,CLP-demo,Centro,sí,0,53.8,11,estándar,43,SUS-U09-00415
+revisar,no,no,CLP-demo,Centro,no,1,28.1,8,estándar,11,SUS-U09-00416
+sin novedad,no,no,CLP-demo,Centro,no,0,43.6,8,premium,49,SUS-U09-00417
+sin novedad,sí,sí,CLP-demo,Centro,no,0,51.8,14,básico,15,SUS-U09-00418
+revisar,no,no,CLP-demo,Centro,no,1,10.9,9,premium,59,SUS-U09-00419
+sin novedad,no,no,CLP-demo,Centro,sí,2,38.8,9,estándar,31,SUS-U09-00420
+revisar,no,no,CLP-demo,Centro,sí,0,28.5,8,estándar,9,SUS-U09-00421
+revisar,no,no,CLP-demo,Centro,sí,1,46.8,9,estándar,23,SUS-U09-00422
+revisar,no,no,CLP-demo,Centro,sí,2,,8,estándar,16,SUS-U09-00423
+sin novedad,no,no,CLP-demo,Centro,sí,0,67.0,15,estándar,56,SUS-U09-00424
+,no,sí,CLP-demo,Norte,sí,1,50.6,9,básico,35,SUS-U09-00425
+,sí,sí,CLP-demo,Centro,sí,1,47.5,3,básico,19,SUS-U09-00426
+,no,no,CLP-demo,Centro,sí,0,47.6,11,básico,36,SUS-U09-00427
+,no,no,CLP-demo,Centro,no,2,16.1,10,básico,55,SUS-U09-00428
+sin novedad,sí,sí,CLP-demo,Sur,sí,0,29.2,6,básico,55,SUS-U09-00429
+revisar,no,no,CLP-demo,Sur,no,0,,11,estándar,9,SUS-U09-00430
+,no,no,CLP-demo,Norte,no,1,76.5,15,premium,13,SUS-U09-00431
+,no,no,CLP-demo,Centro,sí,2,37.0,10,básico,20,SUS-U09-00432
+,no,no,CLP-demo,Norte,sí,1,44.7,9,estándar,21,SUS-U09-00433
+revisar,sí,sí,CLP-demo,Norte,no,1,40.3,11,básico,16,SUS-U09-00434
+,no,no,CLP-demo,Centro,sí,0,35.7,9,básico,12,SUS-U09-00435
+sin novedad,sí,sí,CLP-demo,Centro,sí,1,35.6,5,básico,42,SUS-U09-00436
+,no,no,CLP-demo,Norte,no,1,,4,estándar,9,SUS-U09-00437
+revisar,no,no,CLP-demo,Norte,sí,2,41.4,11,básico,58,SUS-U09-00438
+revisar,no,no,CLP-demo,Norte,sí,1,23.7,13,básico,14,SUS-U09-00439
+,no,no,CLP-demo,Centro,sí,2,40.8,7,básico,45,SUS-U09-00440
+,no,no,CLP-demo,Norte,no,1,61.5,5,básico,13,SUS-U09-00441
+,no,no,CLP-demo,Centro,sí,0,18.6,10,básico,45,SUS-U09-00442
+sin novedad,no,no,CLP-demo,Norte,no,1,43.0,8,básico,43,SUS-U09-00443
+,no,no,CLP-demo,Sur,no,0,26.6,9,básico,16,SUS-U09-00444
+sin novedad,no,no,CLP-demo,Centro,no,0,38.2,10,estándar,36,SUS-U09-00445
+sin novedad,no,no,CLP-demo,Sur,no,0,,7,estándar,15,SUS-U09-00446
+sin novedad,no,no,CLP-demo,Norte,sí,0,41.2,7,premium,55,SUS-U09-00447
+sin novedad,no,no,CLP-demo,Centro,sí,1,25.9,6,estándar,60,SUS-U09-00448
+,sí,sí,CLP-demo,Centro,sí,1,8.7,2,básico,58,SUS-U09-00449
+revisar,no,no,CLP-demo,Centro,no,1,39.1,8,básico,5,SUS-U09-00450
+revisar,no,no,CLP-demo,Sur,sí,1,12.9,11,estándar,8,SUS-U09-00451
+,no,no,CLP-demo,Norte,sí,1,38.5,6,estándar,12,SUS-U09-00452
+,sí,no,CLP-demo,Centro,sí,5,39.8,7,básico,40,SUS-U09-00453
+revisar,no,no,CLP-demo,Centro,sí,0,46.9,16,estándar,25,SUS-U09-00454
+sin novedad,no,no,CLP-demo,Sur,no,1,28.0,10,básico,56,SUS-U09-00455
+revisar,no,no,CLP-demo,Centro,no,1,46.2,9,estándar,31,SUS-U09-00456
+sin novedad,sí,sí,CLP-demo,Norte,no,0,38.4,6,básico,6,SUS-U09-00457
+sin novedad,no,no,CLP-demo,Norte,no,0,48.8,11,estándar,33,SUS-U09-00458
+sin novedad,sí,sí,CLP-demo,Sur,no,0,14.5,9,básico,1,SUS-U09-00459
+sin novedad,no,no,CLP-demo,Centro,sí,2,25.9,8,estándar,9,SUS-U09-00460
+sin novedad,no,no,CLP-demo,Norte,sí,1,27.3,9,básico,38,SUS-U09-00461
+revisar,no,no,CLP-demo,Centro,no,2,43.7,7,básico,43,SUS-U09-00462
+revisar,no,no,CLP-demo,Centro,no,1,57.9,4,premium,53,SUS-U09-00463
+revisar,no,no,CLP-demo,Norte,no,0,69.2,5,básico,54,SUS-U09-00464
+revisar,no,no,CLP-demo,Centro,no,0,69.2,8,estándar,14,SUS-U09-00465
+sin novedad,no,no,CLP-demo,Norte,no,0,38.8,10,estándar,14,SUS-U09-00466
+revisar,no,no,CLP-demo,Centro,sí,1,,9,estándar,3,SUS-U09-00467
+revisar,no,no,CLP-demo,Centro,no,0,,9,premium,11,SUS-U09-00468
+,sí,no,CLP-demo,Sur,no,1,62.1,9,básico,13,SUS-U09-00469
+revisar,sí,sí,CLP-demo,Centro,sí,1,22.2,15,básico,2,SUS-U09-00470
+revisar,no,no,CLP-demo,Centro,sí,1,26.7,3,básico,42,SUS-U09-00471
+,sí,sí,CLP-demo,Centro,no,2,39.9,8,básico,24,SUS-U09-00472
+revisar,sí,sí,CLP-demo,Centro,sí,0,14.9,9,básico,44,SUS-U09-00473
+sin novedad,no,no,CLP-demo,Norte,no,0,65.0,8,estándar,38,SUS-U09-00474
+revisar,sí,sí,CLP-demo,Centro,no,0,29.1,8,estándar,59,SUS-U09-00475
+sin novedad,no,no,CLP-demo,Sur,no,0,6.1,9,estándar,46,SUS-U09-00476
+,no,no,CLP-demo,Centro,no,0,28.7,8,premium,26,SUS-U09-00477
+,no,no,CLP-demo,Sur,no,2,42.9,4,básico,48,SUS-U09-00478
+sin novedad,no,no,CLP-demo,Centro,sí,3,44.8,7,básico,42,SUS-U09-00479
+,no,no,CLP-demo,Sur,sí,0,32.2,7,estándar,28,SUS-U09-00480
+,no,no,CLP-demo,Norte,sí,1,15.8,8,básico,29,SUS-U09-00481
+sin novedad,no,no,CLP-demo,Centro,sí,0,30.0,11,estándar,1,SUS-U09-00482
+,no,no,CLP-demo,Norte,sí,1,,9,estándar,46,SUS-U09-00483
+sin novedad,no,no,CLP-demo,Sur,sí,4,26.6,4,premium,55,SUS-U09-00484
+,sí,sí,CLP-demo,Centro,sí,0,25.2,7,premium,50,SUS-U09-00485
+,sí,no,CLP-demo,Norte,no,2,26.0,7,básico,19,SUS-U09-00486
+,sí,no,CLP-demo,Sur,sí,1,26.2,8,básico,3,SUS-U09-00487
+,sí,sí,CLP-demo,Centro,sí,1,74.3,4,básico,1,SUS-U09-00488
+sin novedad,no,no,CLP-demo,Sur,no,0,49.1,5,estándar,10,SUS-U09-00489
+sin novedad,sí,sí,CLP-demo,Norte,sí,1,37.4,7,básico,6,SUS-U09-00490
+revisar,sí,no,CLP-demo,Sur,sí,1,65.3,11,básico,13,SUS-U09-00491
+,no,no,CLP-demo,Sur,sí,0,17.0,4,premium,26,SUS-U09-00492
+sin novedad,sí,sí,CLP-demo,Norte,no,0,25.7,11,estándar,30,SUS-U09-00493
+,no,no,CLP-demo,Centro,no,0,12.2,12,estándar,27,SUS-U09-00494
+revisar,no,no,CLP-demo,Sur,no,2,72.1,9,estándar,46,SUS-U09-00495
+sin novedad,no,no,CLP-demo,Norte,no,0,16.6,5,premium,38,SUS-U09-00496
+,sí,sí,CLP-demo,Centro,sí,1,20.8,13,básico,19,SUS-U09-00497
+,no,no,CLP-demo,Centro,sí,2,52.9,6,estándar,17,SUS-U09-00498
+revisar,no,no,CLP-demo,Norte,sí,3,33.8,8,estándar,15,SUS-U09-00499
+,no,no,CLP-demo,Norte,no,2,34.3,13,básico,52,SUS-U09-00500
+,no,no,CLP-demo,Centro,sí,0,27.5,8,estándar,16,SUS-U09-00501
+,no,no,CLP-demo,Centro,no,0,,9,básico,42,SUS-U09-00502
+sin novedad,no,no,CLP-demo,Centro,no,1,21.1,8,premium,10,SUS-U09-00503
+,no,no,CLP-demo,Centro,sí,0,25.3,7,básico,19,SUS-U09-00504
+,no,no,CLP-demo,Sur,no,0,36.1,10,básico,29,SUS-U09-00505
+revisar,no,no,CLP-demo,Sur,sí,0,32.0,6,básico,50,SUS-U09-00506
+sin novedad,no,no,CLP-demo,Sur,sí,2,12.8,6,básico,42,SUS-U09-00507
+,no,no,CLP-demo,Norte,sí,1,31.5,8,básico,14,SUS-U09-00508
+sin novedad,no,no,CLP-demo,Centro,sí,1,35.7,6,estándar,46,SUS-U09-00509
+sin novedad,no,no,CLP-demo,Centro,sí,4,50.9,8,básico,12,SUS-U09-00510
+sin novedad,no,no,CLP-demo,Sur,sí,0,58.9,5,premium,21,SUS-U09-00511
+revisar,no,no,CLP-demo,Centro,sí,0,35.7,9,básico,37,SUS-U09-00512
+,no,no,CLP-demo,Centro,no,0,44.8,12,básico,21,SUS-U09-00513
+revisar,no,no,CLP-demo,Centro,sí,0,59.1,9,premium,9,SUS-U09-00514
+,no,no,CLP-demo,Centro,sí,0,31.8,8,básico,8,SUS-U09-00515
+,no,no,CLP-demo,Centro,no,2,47.3,9,básico,6,SUS-U09-00516
+revisar,no,no,CLP-demo,Centro,sí,1,70.8,10,premium,33,SUS-U09-00517
+,no,no,CLP-demo,Centro,sí,0,32.0,10,premium,19,SUS-U09-00518
+revisar,sí,sí,CLP-demo,Sur,sí,2,31.2,7,estándar,2,SUS-U09-00519
+,no,no,CLP-demo,Norte,sí,1,40.9,5,básico,24,SUS-U09-00520
+sin novedad,no,no,CLP-demo,Centro,sí,2,6.3,6,básico,37,SUS-U09-00521
+sin novedad,no,no,CLP-demo,Sur,sí,0,49.5,10,básico,36,SUS-U09-00522
+revisar,no,no,CLP-demo,Centro,no,4,38.4,10,básico,59,SUS-U09-00523
+sin novedad,sí,sí,CLP-demo,Sur,sí,2,21.9,11,premium,37,SUS-U09-00524
+revisar,no,no,CLP-demo,Centro,no,0,6.0,11,básico,14,SUS-U09-00525
+,no,no,CLP-demo,Centro,no,0,21.1,12,estándar,55,SUS-U09-00526
+,no,no,CLP-demo,Sur,sí,1,95.5,11,premium,38,SUS-U09-00527
+sin novedad,no,no,CLP-demo,Norte,sí,1,81.2,10,básico,60,SUS-U09-00528
+revisar,no,no,CLP-demo,Sur,sí,1,16.6,10,estándar,4,SUS-U09-00529
+,no,no,CLP-demo,Centro,sí,0,50.5,12,básico,51,SUS-U09-00530
+,no,no,CLP-demo,Centro,no,0,38.3,5,estándar,44,SUS-U09-00531
+,sí,sí,CLP-demo,Sur,no,2,22.5,8,básico,10,SUS-U09-00532
+,sí,sí,CLP-demo,Sur,sí,0,38.3,12,básico,53,SUS-U09-00533
+sin novedad,no,no,CLP-demo,Norte,sí,0,,2,estándar,51,SUS-U09-00534
+,no,no,CLP-demo,Centro,sí,1,12.9,9,estándar,58,SUS-U09-00535
+sin novedad,no,no,CLP-demo,Centro,no,0,41.9,8,básico,26,SUS-U09-00536
+revisar,no,no,CLP-demo,Norte,sí,2,22.7,8,premium,43,SUS-U09-00537
+revisar,sí,sí,CLP-demo,Centro,no,1,43.3,6,básico,56,SUS-U09-00538
+sin novedad,no,no,CLP-demo,Sur,no,0,47.9,10,estándar,52,SUS-U09-00539
+,no,no,CLP-demo,Norte,sí,0,18.8,7,estándar,27,SUS-U09-00540
+sin novedad,no,no,CLP-demo,Centro,sí,2,40.8,8,básico,39,SUS-U09-00541
+,no,no,CLP-demo,Norte,sí,0,17.1,7,básico,45,SUS-U09-00542
+sin novedad,no,no,CLP-demo,Sur,sí,0,29.8,8,básico,29,SUS-U09-00543
+sin novedad,no,no,CLP-demo,Sur,sí,0,36.9,8,premium,23,SUS-U09-00544
+revisar,sí,sí,CLP-demo,Centro,no,0,20.3,10,estándar,17,SUS-U09-00545
+sin novedad,no,no,CLP-demo,Norte,no,0,22.0,8,estándar,49,SUS-U09-00546
+sin novedad,no,no,CLP-demo,Norte,sí,0,50.0,7,estándar,37,SUS-U09-00547
+sin novedad,no,no,CLP-demo,Norte,sí,0,,5,estándar,38,SUS-U09-00548
+sin novedad,no,no,CLP-demo,Centro,no,1,71.8,3,básico,12,SUS-U09-00549
+revisar,no,no,CLP-demo,Centro,sí,1,64.5,7,estándar,53,SUS-U09-00550
+revisar,no,no,CLP-demo,Centro,sí,0,19.5,9,básico,9,SUS-U09-00551
+sin novedad,no,no,CLP-demo,Sur,no,1,21.3,10,estándar,12,SUS-U09-00552
+sin novedad,no,no,CLP-demo,Sur,sí,1,40.5,5,básico,13,SUS-U09-00553
+revisar,sí,sí,CLP-demo,Centro,no,2,60.9,9,básico,32,SUS-U09-00554
+revisar,no,no,CLP-demo,Centro,no,1,,8,estándar,47,SUS-U09-00555
+revisar,no,no,CLP-demo,Centro,sí,1,85.0,12,estándar,35,SUS-U09-00556
+,no,no,CLP-demo,Centro,no,0,29.4,13,básico,45,SUS-U09-00557
+sin novedad,sí,sí,CLP-demo,Centro,no,0,20.7,11,básico,56,SUS-U09-00558
+,sí,no,CLP-demo,Sur,no,0,49.5,8,básico,43,SUS-U09-00559
+revisar,no,no,CLP-demo,Centro,sí,0,71.2,7,estándar,32,SUS-U09-00560
+revisar,sí,sí,CLP-demo,Centro,no,0,54.5,4,básico,56,SUS-U09-00561
+revisar,no,no,CLP-demo,Centro,no,0,45.4,11,estándar,27,SUS-U09-00562
+revisar,sí,sí,CLP-demo,Centro,sí,2,10.6,16,premium,2,SUS-U09-00563
+,sí,sí,CLP-demo,Sur,sí,2,37.7,16,básico,42,SUS-U09-00564
+revisar,sí,no,CLP-demo,Sur,no,0,29.0,12,básico,37,SUS-U09-00565
+sin novedad,no,no,CLP-demo,Sur,sí,0,14.1,7,estándar,52,SUS-U09-00566
+sin novedad,no,no,CLP-demo,Sur,sí,0,48.2,14,estándar,21,SUS-U09-00567
+,no,no,CLP-demo,Centro,sí,0,34.7,10,básico,50,SUS-U09-00568
+revisar,sí,sí,CLP-demo,Centro,no,1,50.9,8,básico,49,SUS-U09-00569
+sin novedad,no,no,CLP-demo,Centro,sí,0,,7,básico,7,SUS-U09-00570
+,no,no,CLP-demo,Sur,no,0,21.1,11,premium,8,SUS-U09-00571
+revisar,sí,sí,CLP-demo,Norte,no,0,43.4,8,premium,30,SUS-U09-00572
+sin novedad,no,no,CLP-demo,Centro,sí,0,26.0,7,estándar,36,SUS-U09-00573
+,no,no,CLP-demo,Norte,no,1,44.8,13,básico,53,SUS-U09-00574
+,no,no,CLP-demo,Centro,sí,1,38.5,7,básico,15,SUS-U09-00575
+revisar,no,no,CLP-demo,Sur,sí,0,81.7,12,estándar,10,SUS-U09-00576
+revisar,no,no,CLP-demo,Centro,no,0,25.7,16,básico,10,SUS-U09-00577
+,sí,sí,CLP-demo,Sur,sí,0,18.0,9,básico,25,SUS-U09-00578
+sin novedad,no,no,CLP-demo,Norte,sí,0,42.6,7,premium,11,SUS-U09-00579
+revisar,no,no,CLP-demo,Norte,sí,0,79.7,13,estándar,52,SUS-U09-00580
+sin novedad,no,no,CLP-demo,Centro,sí,0,32.1,11,estándar,52,SUS-U09-00581
+,no,no,CLP-demo,Sur,no,0,17.5,13,básico,30,SUS-U09-00582
+revisar,no,no,CLP-demo,Centro,sí,0,31.9,5,básico,28,SUS-U09-00583
+revisar,no,no,CLP-demo,Sur,sí,1,34.9,5,premium,45,SUS-U09-00584
+,no,no,CLP-demo,Centro,sí,0,,10,estándar,60,SUS-U09-00585
+revisar,sí,sí,CLP-demo,Norte,no,1,32.4,7,básico,5,SUS-U09-00586
+,no,no,CLP-demo,Centro,no,1,28.3,7,premium,43,SUS-U09-00587
+,no,no,CLP-demo,Centro,sí,1,90.1,11,estándar,24,SUS-U09-00588
+sin novedad,no,no,CLP-demo,Centro,sí,0,80.4,12,estándar,44,SUS-U09-00589
+,no,no,CLP-demo,Sur,sí,2,25.1,9,básico,53,SUS-U09-00590
+revisar,sí,sí,CLP-demo,Sur,no,0,40.3,14,básico,7,SUS-U09-00591
+,no,no,CLP-demo,Norte,sí,0,43.1,10,básico,29,SUS-U09-00592
+,no,no,CLP-demo,Centro,sí,0,38.7,10,estándar,21,SUS-U09-00593
+revisar,no,no,CLP-demo,Sur,no,0,23.4,5,estándar,11,SUS-U09-00594
+sin novedad,no,no,CLP-demo,Sur,no,1,,10,básico,51,SUS-U09-00595
+,no,no,CLP-demo,Centro,sí,0,44.4,14,básico,36,SUS-U09-00596
+revisar,sí,sí,CLP-demo,Centro,no,2,51.4,11,básico,40,SUS-U09-00597
+revisar,no,no,CLP-demo,Sur,sí,1,19.9,10,básico,40,SUS-U09-00598
+sin novedad,sí,sí,CLP-demo,Norte,sí,0,,12,básico,29,SUS-U09-00599
+revisar,sí,no,CLP-demo,Sur,sí,0,24.9,4,estándar,2,SUS-U09-00600
+revisar,no,no,CLP-demo,Centro,no,0,15.3,14,estándar,60,SUS-U09-00601
+revisar,sí,sí,CLP-demo,Norte,sí,1,20.7,9,estándar,44,SUS-U09-00602
+sin novedad,no,no,CLP-demo,Centro,no,1,,9,básico,26,SUS-U09-00603
+revisar,no,no,CLP-demo,Norte,no,0,47.2,8,estándar,31,SUS-U09-00604
+sin novedad,sí,sí,CLP-demo,Centro,sí,1,14.6,6,básico,26,SUS-U09-00605
+,no,no,CLP-demo,Centro,sí,0,,6,estándar,19,SUS-U09-00606
+,no,no,CLP-demo,Sur,sí,0,60.4,8,premium,26,SUS-U09-00607
+,no,no,CLP-demo,Centro,sí,3,23.2,10,estándar,48,SUS-U09-00608
+sin novedad,no,no,CLP-demo,Norte,no,0,,11,estándar,51,SUS-U09-00609
+sin novedad,no,no,CLP-demo,Norte,sí,0,15.6,5,estándar,24,SUS-U09-00610
+sin novedad,no,no,CLP-demo,Sur,no,1,45.2,10,premium,34,SUS-U09-00611
+,no,no,CLP-demo,Centro,sí,0,,9,estándar,10,SUS-U09-00612
+revisar,no,no,CLP-demo,Centro,no,1,18.0,13,premium,20,SUS-U09-00613
+,no,no,CLP-demo,Centro,sí,0,70.8,7,estándar,8,SUS-U09-00614
+,no,no,CLP-demo,Centro,sí,0,13.7,6,básico,20,SUS-U09-00615
+sin novedad,no,no,CLP-demo,Centro,sí,0,40.0,8,básico,58,SUS-U09-00616
+,sí,no,CLP-demo,Centro,sí,2,23.4,10,básico,50,SUS-U09-00617
+,no,no,CLP-demo,Centro,sí,2,,5,estándar,30,SUS-U09-00618
+revisar,sí,sí,CLP-demo,Norte,no,1,23.6,8,básico,10,SUS-U09-00619
+revisar,no,no,CLP-demo,Norte,no,2,44.9,6,básico,41,SUS-U09-00620
+,no,no,CLP-demo,Centro,sí,1,47.7,10,básico,5,SUS-U09-00621
+,no,no,CLP-demo,Norte,sí,1,29.2,15,básico,51,SUS-U09-00622
+revisar,no,no,CLP-demo,Norte,sí,1,26.1,16,básico,50,SUS-U09-00623
+sin novedad,no,no,CLP-demo,Centro,sí,0,29.9,3,premium,35,SUS-U09-00624
+sin novedad,no,no,CLP-demo,Centro,sí,2,22.6,7,estándar,12,SUS-U09-00625
+,no,no,CLP-demo,Norte,no,1,10.2,8,básico,36,SUS-U09-00626
+sin novedad,no,no,CLP-demo,Norte,sí,0,19.9,11,estándar,46,SUS-U09-00627
+revisar,sí,sí,CLP-demo,Centro,no,0,18.8,3,estándar,30,SUS-U09-00628
+,no,no,CLP-demo,Norte,sí,2,32.7,13,estándar,31,SUS-U09-00629
+,no,no,CLP-demo,Sur,sí,0,29.5,8,premium,15,SUS-U09-00630
+revisar,no,no,CLP-demo,Norte,sí,0,28.6,15,básico,49,SUS-U09-00631
+sin novedad,no,no,CLP-demo,Centro,sí,2,20.5,11,premium,5,SUS-U09-00632
+sin novedad,sí,no,CLP-demo,Norte,sí,1,51.2,7,básico,29,SUS-U09-00633
+,no,no,CLP-demo,Centro,sí,0,88.4,8,estándar,37,SUS-U09-00634
+sin novedad,no,no,CLP-demo,Centro,no,1,27.9,6,premium,32,SUS-U09-00635
+sin novedad,no,no,CLP-demo,Centro,no,1,16.5,9,estándar,2,SUS-U09-00636
+,no,no,CLP-demo,Centro,no,0,50.2,11,estándar,18,SUS-U09-00637
+sin novedad,no,no,CLP-demo,Centro,sí,0,26.8,10,estándar,8,SUS-U09-00638
+sin novedad,no,no,CLP-demo,Centro,sí,1,56.7,9,básico,8,SUS-U09-00639
+revisar,no,no,CLP-demo,Sur,sí,0,30.5,12,básico,43,SUS-U09-00640
+revisar,no,no,CLP-demo,Norte,no,1,10.5,10,básico,39,SUS-U09-00641
+sin novedad,no,no,CLP-demo,Norte,no,0,44.3,10,básico,30,SUS-U09-00642
+revisar,no,no,CLP-demo,Centro,sí,1,22.3,9,premium,19,SUS-U09-00643
+,no,no,CLP-demo,Sur,no,0,11.6,9,básico,55,SUS-U09-00644
+revisar,no,no,CLP-demo,Centro,sí,0,,11,básico,20,SUS-U09-00645
+,no,no,CLP-demo,Centro,sí,0,11.2,9,premium,37,SUS-U09-00646
+sin novedad,no,no,CLP-demo,Norte,sí,0,36.7,8,básico,39,SUS-U09-00647
+sin novedad,no,no,CLP-demo,Centro,no,0,21.2,11,premium,34,SUS-U09-00648
+revisar,sí,sí,CLP-demo,Centro,sí,0,21.9,9,básico,2,SUS-U09-00649
+sin novedad,no,no,CLP-demo,Centro,sí,1,28.9,8,estándar,6,SUS-U09-00650
+,sí,sí,CLP-demo,Centro,sí,1,54.6,6,básico,16,SUS-U09-00651
+revisar,sí,sí,CLP-demo,Sur,no,0,31.9,7,básico,39,SUS-U09-00652
+revisar,no,no,CLP-demo,Sur,sí,0,26.2,5,básico,49,SUS-U09-00653
+sin novedad,sí,no,CLP-demo,Centro,no,1,15.8,10,estándar,8,SUS-U09-00654
+sin novedad,no,no,CLP-demo,Centro,sí,0,57.2,8,estándar,29,SUS-U09-00655
+revisar,no,no,CLP-demo,Centro,sí,1,,9,básico,54,SUS-U09-00656
+sin novedad,no,no,CLP-demo,Centro,sí,0,8.5,4,premium,58,SUS-U09-00657
+sin novedad,sí,sí,CLP-demo,Centro,no,0,36.3,6,estándar,50,SUS-U09-00658
+,no,no,CLP-demo,Centro,sí,3,45.7,9,estándar,28,SUS-U09-00659
+,no,no,CLP-demo,Centro,no,1,31.3,7,estándar,9,SUS-U09-00660
+revisar,sí,sí,CLP-demo,Centro,no,0,12.7,6,estándar,5,SUS-U09-00661
+,no,no,CLP-demo,Centro,sí,0,27.6,8,premium,40,SUS-U09-00662
+revisar,no,no,CLP-demo,Centro,sí,0,28.4,14,premium,52,SUS-U09-00663
+,no,no,CLP-demo,Sur,no,1,38.3,8,estándar,44,SUS-U09-00664
+sin novedad,no,no,CLP-demo,Centro,sí,0,,7,básico,18,SUS-U09-00665
+,no,no,CLP-demo,Centro,no,0,54.2,7,estándar,36,SUS-U09-00666
+,no,no,CLP-demo,Norte,sí,0,17.0,7,básico,38,SUS-U09-00667
+sin novedad,sí,sí,CLP-demo,Norte,no,1,29.8,10,básico,25,SUS-U09-00668
+,sí,sí,CLP-demo,Centro,sí,1,,7,estándar,55,SUS-U09-00669
+,no,no,CLP-demo,Sur,sí,0,29.1,13,estándar,14,SUS-U09-00670
+sin novedad,no,no,CLP-demo,Norte,no,1,17.1,9,estándar,43,SUS-U09-00671
+,no,no,CLP-demo,Sur,sí,0,6.7,8,premium,9,SUS-U09-00672
+sin novedad,no,no,CLP-demo,Norte,sí,1,29.3,9,estándar,8,SUS-U09-00673
+sin novedad,no,no,CLP-demo,Centro,sí,0,29.1,9,básico,29,SUS-U09-00674
+sin novedad,sí,no,CLP-demo,Centro,sí,0,46.6,8,estándar,50,SUS-U09-00675
+sin novedad,no,no,CLP-demo,Centro,sí,1,,6,premium,33,SUS-U09-00676
+sin novedad,no,no,CLP-demo,Norte,sí,0,67.0,15,estándar,51,SUS-U09-00677
+revisar,no,no,CLP-demo,Centro,sí,1,33.6,11,básico,55,SUS-U09-00678
+,no,no,CLP-demo,Norte,sí,3,26.4,7,premium,39,SUS-U09-00679
+sin novedad,no,no,CLP-demo,Centro,sí,0,14.9,13,básico,49,SUS-U09-00680
+,no,no,CLP-demo,Centro,no,0,18.8,10,premium,42,SUS-U09-00681
+revisar,sí,sí,CLP-demo,Norte,sí,0,29.3,7,básico,7,SUS-U09-00682
+sin novedad,no,no,CLP-demo,Sur,sí,3,50.2,8,premium,8,SUS-U09-00683
+sin novedad,no,no,CLP-demo,Centro,sí,1,,9,premium,54,SUS-U09-00684
+sin novedad,no,no,CLP-demo,Sur,sí,1,14.6,11,básico,47,SUS-U09-00685
+revisar,no,no,CLP-demo,Norte,no,1,13.0,7,estándar,58,SUS-U09-00686
+,no,no,CLP-demo,Centro,no,0,68.0,8,estándar,56,SUS-U09-00687
+revisar,sí,sí,CLP-demo,Norte,sí,2,37.4,11,básico,57,SUS-U09-00688
+sin novedad,no,no,CLP-demo,Sur,no,1,50.6,8,básico,31,SUS-U09-00689
+revisar,sí,no,CLP-demo,Norte,no,0,,10,básico,39,SUS-U09-00690
+,no,no,CLP-demo,Norte,no,0,43.1,8,estándar,12,SUS-U09-00691
+,no,no,CLP-demo,Sur,sí,0,39.9,14,premium,1,SUS-U09-00692
+sin novedad,sí,no,CLP-demo,Sur,no,0,,6,básico,26,SUS-U09-00693
+,no,no,CLP-demo,Norte,sí,0,31.1,15,premium,21,SUS-U09-00694
+,no,sí,CLP-demo,Centro,no,0,37.2,19,básico,47,SUS-U09-00695
+,no,no,CLP-demo,Norte,no,0,31.1,9,estándar,15,SUS-U09-00696
+revisar,sí,sí,CLP-demo,Norte,sí,0,40.5,7,básico,21,SUS-U09-00697
+,no,no,CLP-demo,Centro,sí,0,53.6,11,estándar,22,SUS-U09-00698
+,no,no,CLP-demo,Norte,no,0,,4,estándar,54,SUS-U09-00699
+sin novedad,no,no,CLP-demo,Centro,sí,2,52.4,13,básico,44,SUS-U09-00700
+revisar,sí,no,CLP-demo,Centro,sí,0,36.5,8,básico,6,SUS-U09-00701
+,no,no,CLP-demo,Centro,sí,0,23.6,5,básico,24,SUS-U09-00702
+,no,no,CLP-demo,Centro,sí,1,33.4,15,estándar,51,SUS-U09-00703
+revisar,no,no,CLP-demo,Norte,no,0,37.7,10,básico,54,SUS-U09-00704
+sin novedad,no,no,CLP-demo,Norte,sí,0,24.8,11,premium,22,SUS-U09-00705
+sin novedad,no,no,CLP-demo,Centro,sí,1,78.4,9,básico,21,SUS-U09-00706
+sin novedad,no,no,CLP-demo,Norte,sí,0,15.0,9,básico,3,SUS-U09-00707
+sin novedad,no,no,CLP-demo,Sur,sí,0,22.9,15,estándar,8,SUS-U09-00708
+,no,no,CLP-demo,Centro,sí,2,15.2,9,básico,49,SUS-U09-00709
+revisar,no,no,CLP-demo,Centro,sí,2,23.9,8,estándar,57,SUS-U09-00710
+,sí,sí,CLP-demo,Sur,no,0,13.3,7,estándar,5,SUS-U09-00711
+sin novedad,no,no,CLP-demo,Centro,sí,0,31.2,6,estándar,53,SUS-U09-00712
+revisar,no,no,CLP-demo,Sur,sí,2,52.7,13,básico,51,SUS-U09-00713
+,no,no,CLP-demo,Norte,no,2,17.6,11,estándar,9,SUS-U09-00714
+,no,no,CLP-demo,Centro,sí,0,18.6,7,básico,26,SUS-U09-00715
+,no,no,CLP-demo,Centro,sí,1,31.8,3,estándar,51,SUS-U09-00716
+,no,no,CLP-demo,Norte,no,0,19.9,9,básico,42,SUS-U09-00717
+revisar,no,no,CLP-demo,Centro,no,0,34.7,13,básico,50,SUS-U09-00718
+revisar,no,no,CLP-demo,Norte,no,2,50.6,8,estándar,13,SUS-U09-00719
+revisar,no,no,CLP-demo,Centro,sí,0,82.3,9,básico,25,SUS-U09-00720
+sin novedad,no,no,CLP-demo,Sur,sí,3,54.8,10,estándar,23,SUS-U09-00721
+sin novedad,no,no,CLP-demo,Norte,no,1,36.6,10,básico,29,SUS-U09-00722
+revisar,no,no,CLP-demo,Centro,sí,0,62.1,18,estándar,46,SUS-U09-00723
+sin novedad,no,no,CLP-demo,Sur,no,2,28.0,11,estándar,18,SUS-U09-00724
+,no,no,CLP-demo,Norte,no,1,64.1,7,estándar,7,SUS-U09-00725
+sin novedad,no,no,CLP-demo,Centro,sí,1,36.3,8,premium,30,SUS-U09-00726
+sin novedad,no,no,CLP-demo,Sur,sí,0,40.0,6,estándar,1,SUS-U09-00727
+revisar,sí,sí,CLP-demo,Sur,sí,1,20.9,7,básico,48,SUS-U09-00728
+,no,no,CLP-demo,Centro,sí,0,74.6,12,básico,49,SUS-U09-00729
+,sí,no,CLP-demo,Centro,no,1,55.3,7,básico,18,SUS-U09-00730
+revisar,no,no,CLP-demo,Centro,sí,3,37.8,11,premium,4,SUS-U09-00731
+revisar,no,no,CLP-demo,Norte,no,0,11.9,9,básico,57,SUS-U09-00732
+,no,no,CLP-demo,Centro,sí,0,36.6,9,básico,25,SUS-U09-00733
+,no,no,CLP-demo,Sur,sí,4,,12,premium,20,SUS-U09-00734
+,no,no,CLP-demo,Centro,sí,1,30.5,13,premium,52,SUS-U09-00735
+sin novedad,no,no,CLP-demo,Centro,sí,1,69.6,9,estándar,58,SUS-U09-00736
+revisar,no,no,CLP-demo,Sur,no,2,33.4,9,estándar,51,SUS-U09-00737
+sin novedad,no,no,CLP-demo,Centro,sí,2,42.1,6,estándar,13,SUS-U09-00738
+revisar,sí,sí,CLP-demo,Norte,no,0,15.4,10,estándar,18,SUS-U09-00739
+,no,no,CLP-demo,Norte,sí,0,15.1,7,estándar,47,SUS-U09-00740
+,no,no,CLP-demo,Norte,sí,0,24.0,11,estándar,18,SUS-U09-00741
+,no,no,CLP-demo,Norte,sí,0,40.5,10,estándar,46,SUS-U09-00742
+sin novedad,no,no,CLP-demo,Centro,sí,2,,10,premium,48,SUS-U09-00743
+revisar,no,no,CLP-demo,Centro,sí,2,16.5,9,estándar,40,SUS-U09-00744
+,no,no,CLP-demo,Centro,sí,0,28.0,11,estándar,27,SUS-U09-00745
+revisar,no,no,CLP-demo,Norte,no,1,45.0,9,básico,54,SUS-U09-00746
+revisar,no,no,CLP-demo,Centro,no,0,41.1,15,básico,12,SUS-U09-00747
+revisar,no,no,CLP-demo,Norte,no,0,29.4,15,estándar,32,SUS-U09-00748
+sin novedad,no,no,CLP-demo,Centro,sí,1,44.3,7,básico,27,SUS-U09-00749
+sin novedad,no,no,CLP-demo,Centro,sí,0,23.6,8,estándar,4,SUS-U09-00750
+revisar,no,no,CLP-demo,Centro,sí,0,43.8,6,estándar,58,SUS-U09-00751
+,sí,sí,CLP-demo,Centro,no,0,37.8,17,básico,24,SUS-U09-00752
+sin novedad,no,no,CLP-demo,Centro,sí,0,39.7,6,básico,53,SUS-U09-00753
+sin novedad,no,no,CLP-demo,Centro,sí,2,50.6,9,estándar,46,SUS-U09-00754
+revisar,no,no,CLP-demo,Sur,sí,1,52.0,14,estándar,53,SUS-U09-00755
+revisar,no,no,CLP-demo,Centro,no,0,48.2,8,premium,58,SUS-U09-00756
+revisar,sí,sí,CLP-demo,Norte,sí,1,38.2,13,básico,1,SUS-U09-00757
+,no,sí,CLP-demo,Norte,sí,0,49.1,13,básico,29,SUS-U09-00758
+sin novedad,no,no,CLP-demo,Norte,sí,1,23.0,9,estándar,55,SUS-U09-00759
+revisar,no,no,CLP-demo,Sur,sí,0,35.8,13,básico,27,SUS-U09-00760
+,sí,no,CLP-demo,Norte,no,0,48.2,12,básico,27,SUS-U09-00761
+,no,no,CLP-demo,Norte,no,0,58.4,6,básico,60,SUS-U09-00762
+,sí,sí,CLP-demo,Norte,sí,0,35.6,4,básico,54,SUS-U09-00763
+,no,no,CLP-demo,Centro,sí,0,20.1,15,premium,52,SUS-U09-00764
+revisar,no,no,CLP-demo,Sur,sí,1,47.9,10,básico,40,SUS-U09-00765
+sin novedad,no,no,CLP-demo,Centro,sí,0,17.9,13,básico,22,SUS-U09-00766
+sin novedad,no,no,CLP-demo,Centro,no,1,11.9,8,estándar,58,SUS-U09-00767
+,no,no,CLP-demo,Centro,sí,0,47.1,7,estándar,8,SUS-U09-00768
+,sí,sí,CLP-demo,Sur,sí,0,6.8,6,estándar,57,SUS-U09-00769
+revisar,no,no,CLP-demo,Sur,no,0,41.7,7,estándar,4,SUS-U09-00770
+,sí,sí,CLP-demo,Centro,no,2,8.6,11,básico,38,SUS-U09-00771
+sin novedad,no,no,CLP-demo,Norte,sí,4,,7,premium,57,SUS-U09-00772
+revisar,no,no,CLP-demo,Centro,sí,1,39.2,5,básico,30,SUS-U09-00773
+sin novedad,sí,sí,CLP-demo,Centro,no,1,28.6,4,básico,29,SUS-U09-00774
+,sí,sí,CLP-demo,Centro,sí,0,18.8,10,básico,52,SUS-U09-00775
+sin novedad,sí,sí,CLP-demo,Sur,sí,0,54.5,11,básico,8,SUS-U09-00776
+revisar,no,no,CLP-demo,Centro,no,1,25.1,12,básico,45,SUS-U09-00777
+revisar,no,no,CLP-demo,Centro,sí,1,33.1,9,estándar,51,SUS-U09-00778
+sin novedad,no,no,CLP-demo,Centro,sí,2,21.8,9,estándar,30,SUS-U09-00779
+,no,no,CLP-demo,Centro,sí,1,30.9,9,básico,22,SUS-U09-00780
+revisar,no,no,CLP-demo,Centro,no,0,68.1,14,básico,60,SUS-U09-00781
+sin novedad,sí,sí,CLP-demo,Centro,no,0,19.6,15,estándar,10,SUS-U09-00782
+,no,no,CLP-demo,Sur,sí,2,51.1,13,estándar,16,SUS-U09-00783
+,no,no,CLP-demo,Norte,sí,0,26.3,9,básico,8,SUS-U09-00784
+,no,no,CLP-demo,Centro,sí,1,18.4,10,básico,11,SUS-U09-00785
+sin novedad,no,no,CLP-demo,Norte,sí,1,30.4,7,básico,17,SUS-U09-00786
+sin novedad,no,no,CLP-demo,Sur,no,1,19.5,13,estándar,12,SUS-U09-00787
+sin novedad,no,no,CLP-demo,Centro,sí,0,51.5,7,estándar,42,SUS-U09-00788
+,no,no,CLP-demo,Norte,sí,1,25.5,14,básico,57,SUS-U09-00789
+,sí,sí,CLP-demo,Centro,no,3,36.7,6,básico,28,SUS-U09-00790
+revisar,no,no,CLP-demo,Centro,no,2,50.3,5,básico,39,SUS-U09-00791
+,no,no,CLP-demo,Centro,sí,0,27.3,9,básico,56,SUS-U09-00792
+revisar,no,no,CLP-demo,Norte,sí,0,22.6,8,básico,16,SUS-U09-00793
+,no,no,CLP-demo,Centro,sí,0,51.3,10,estándar,40,SUS-U09-00794
+revisar,no,no,CLP-demo,Centro,no,0,34.9,14,premium,33,SUS-U09-00795
+revisar,no,no,CLP-demo,Centro,sí,0,55.7,7,básico,16,SUS-U09-00796
+revisar,no,no,CLP-demo,Sur,no,0,34.6,13,estándar,2,SUS-U09-00797
+sin novedad,sí,sí,CLP-demo,Centro,no,1,23.4,9,estándar,10,SUS-U09-00798
+revisar,no,no,CLP-demo,Centro,no,1,23.9,16,estándar,12,SUS-U09-00799
+revisar,no,no,CLP-demo,Centro,sí,1,35.0,11,estándar,37,SUS-U09-00800
+revisar,no,no,CLP-demo,Centro,no,0,24.6,6,estándar,14,SUS-U09-00801
+,no,no,CLP-demo,Centro,sí,1,27.9,9,estándar,33,SUS-U09-00802
+sin novedad,no,no,CLP-demo,Centro,sí,0,24.9,8,básico,47,SUS-U09-00803
+sin novedad,no,no,CLP-demo,Norte,sí,1,74.3,10,premium,46,SUS-U09-00804
+,no,no,CLP-demo,Centro,sí,0,16.6,11,premium,30,SUS-U09-00805
+,no,no,CLP-demo,Sur,sí,0,30.9,5,básico,54,SUS-U09-00806
+sin novedad,no,no,CLP-demo,Centro,sí,0,13.3,3,básico,37,SUS-U09-00807
+revisar,sí,sí,CLP-demo,Centro,no,1,20.9,12,estándar,47,SUS-U09-00808
+revisar,sí,sí,CLP-demo,Centro,no,1,43.3,8,básico,56,SUS-U09-00809
+revisar,no,no,CLP-demo,Norte,no,1,14.5,11,premium,30,SUS-U09-00810
+,sí,sí,CLP-demo,Sur,sí,0,43.6,2,básico,42,SUS-U09-00811
+revisar,no,no,CLP-demo,Sur,no,0,43.7,6,básico,55,SUS-U09-00812
+revisar,no,no,CLP-demo,Centro,sí,0,23.7,9,básico,58,SUS-U09-00813
+revisar,no,no,CLP-demo,Centro,sí,2,53.3,8,básico,41,SUS-U09-00814
+revisar,no,no,CLP-demo,Sur,no,1,25.7,7,básico,42,SUS-U09-00815
+revisar,no,no,CLP-demo,Centro,sí,1,36.1,11,premium,57,SUS-U09-00816
+sin novedad,no,no,CLP-demo,Norte,sí,2,56.2,11,básico,45,SUS-U09-00817
+sin novedad,sí,sí,CLP-demo,Centro,sí,2,69.4,3,básico,50,SUS-U09-00818
+revisar,no,no,CLP-demo,Centro,no,3,49.7,6,estándar,42,SUS-U09-00819
+revisar,no,no,CLP-demo,Sur,no,0,23.8,8,estándar,24,SUS-U09-00820
+sin novedad,no,no,CLP-demo,Centro,sí,0,49.2,2,estándar,40,SUS-U09-00821
+sin novedad,no,no,CLP-demo,Centro,no,1,28.2,8,básico,29,SUS-U09-00822
+,no,no,CLP-demo,Norte,sí,1,34.1,9,básico,53,SUS-U09-00823
+sin novedad,no,no,CLP-demo,Centro,sí,0,26.4,13,estándar,23,SUS-U09-00824
+,sí,sí,CLP-demo,Centro,no,2,51.3,12,premium,13,SUS-U09-00825
+,no,no,CLP-demo,Centro,no,1,46.2,6,básico,36,SUS-U09-00826
+revisar,no,no,CLP-demo,Centro,sí,1,,11,básico,13,SUS-U09-00827
+,sí,sí,CLP-demo,Sur,sí,1,24.0,1,estándar,52,SUS-U09-00828
+revisar,no,no,CLP-demo,Norte,no,0,39.6,14,estándar,39,SUS-U09-00829
+sin novedad,no,no,CLP-demo,Centro,sí,0,44.8,4,estándar,27,SUS-U09-00830
+,no,no,CLP-demo,Norte,no,2,32.9,7,básico,28,SUS-U09-00831
+,no,no,CLP-demo,Sur,sí,2,66.9,7,estándar,46,SUS-U09-00832
+sin novedad,no,no,CLP-demo,Sur,no,1,28.7,3,básico,46,SUS-U09-00833
+revisar,no,no,CLP-demo,Centro,sí,0,34.2,9,estándar,35,SUS-U09-00834
+sin novedad,no,no,CLP-demo,Norte,sí,3,56.2,15,básico,16,SUS-U09-00835
+sin novedad,no,no,CLP-demo,Centro,no,0,24.4,8,estándar,26,SUS-U09-00836
+revisar,no,no,CLP-demo,Norte,sí,1,26.4,3,estándar,38,SUS-U09-00837
+sin novedad,no,no,CLP-demo,Sur,sí,1,37.1,10,básico,56,SUS-U09-00838
+revisar,no,no,CLP-demo,Norte,no,0,23.9,8,básico,51,SUS-U09-00839
+revisar,no,no,CLP-demo,Centro,no,1,53.0,8,básico,13,SUS-U09-00840
+,sí,sí,CLP-demo,Sur,no,3,57.3,9,básico,46,SUS-U09-00841
+sin novedad,no,no,CLP-demo,Centro,sí,0,34.9,9,básico,37,SUS-U09-00842
+,no,no,CLP-demo,Norte,sí,1,62.1,10,básico,34,SUS-U09-00843
+,no,no,CLP-demo,Sur,sí,1,19.0,9,estándar,35,SUS-U09-00844
+revisar,no,no,CLP-demo,Centro,no,0,38.8,13,estándar,54,SUS-U09-00845
+,no,no,CLP-demo,Sur,sí,1,48.9,10,básico,50,SUS-U09-00846
+,sí,sí,CLP-demo,Centro,no,2,14.8,16,básico,51,SUS-U09-00847
+sin novedad,no,no,CLP-demo,Centro,sí,0,17.3,5,estándar,29,SUS-U09-00848
+,no,no,CLP-demo,Norte,sí,1,42.1,13,estándar,22,SUS-U09-00849
+revisar,no,no,CLP-demo,Norte,sí,2,23.6,7,estándar,46,SUS-U09-00850
+,no,no,CLP-demo,Centro,sí,2,83.8,7,básico,30,SUS-U09-00851
+sin novedad,no,no,CLP-demo,Centro,sí,0,15.2,15,básico,22,SUS-U09-00852
+sin novedad,no,no,CLP-demo,Sur,sí,0,53.5,6,premium,16,SUS-U09-00853
+sin novedad,sí,sí,CLP-demo,Centro,sí,0,25.6,9,básico,3,SUS-U09-00854
+,no,no,CLP-demo,Norte,sí,0,24.7,7,básico,30,SUS-U09-00855
+sin novedad,sí,sí,CLP-demo,Norte,no,0,29.3,13,básico,38,SUS-U09-00856
+sin novedad,no,no,CLP-demo,Centro,no,0,11.0,12,estándar,53,SUS-U09-00857
+sin novedad,sí,sí,CLP-demo,Centro,no,1,14.3,10,estándar,34,SUS-U09-00858
+sin novedad,no,no,CLP-demo,Norte,no,1,26.5,9,estándar,15,SUS-U09-00859
+sin novedad,no,no,CLP-demo,Norte,sí,0,77.3,8,estándar,30,SUS-U09-00860
+sin novedad,sí,sí,CLP-demo,Sur,sí,0,14.1,4,estándar,44,SUS-U09-00861
+revisar,no,no,CLP-demo,Sur,sí,0,29.6,10,básico,4,SUS-U09-00862
+,no,no,CLP-demo,Centro,sí,1,17.7,6,básico,38,SUS-U09-00863
+revisar,sí,sí,CLP-demo,Centro,no,1,25.8,5,básico,30,SUS-U09-00864
+sin novedad,no,no,CLP-demo,Norte,sí,1,60.2,9,estándar,29,SUS-U09-00865
+sin novedad,no,no,CLP-demo,Sur,sí,0,80.2,6,básico,26,SUS-U09-00866
+,no,no,CLP-demo,Centro,no,2,32.7,4,estándar,21,SUS-U09-00867
+,no,no,CLP-demo,Centro,sí,0,12.2,5,básico,40,SUS-U09-00868
+sin novedad,no,no,CLP-demo,Centro,sí,1,43.0,4,estándar,36,SUS-U09-00869
+revisar,no,no,CLP-demo,Centro,sí,1,32.9,9,básico,29,SUS-U09-00870
+sin novedad,sí,sí,CLP-demo,Norte,sí,2,69.1,8,estándar,2,SUS-U09-00871
+,no,no,CLP-demo,Centro,no,1,94.6,11,básico,45,SUS-U09-00872
+revisar,sí,sí,CLP-demo,Centro,sí,1,38.5,8,básico,5,SUS-U09-00873
+sin novedad,no,no,CLP-demo,Norte,sí,1,46.5,5,básico,58,SUS-U09-00874
+sin novedad,no,no,CLP-demo,Sur,sí,1,37.0,5,básico,39,SUS-U09-00875
+sin novedad,no,no,CLP-demo,Sur,sí,0,38.1,10,básico,8,SUS-U09-00876
+sin novedad,no,no,CLP-demo,Sur,sí,1,36.3,10,estándar,13,SUS-U09-00877
+,no,no,CLP-demo,Centro,sí,0,13.5,10,básico,3,SUS-U09-00878
+sin novedad,no,no,CLP-demo,Norte,no,1,46.8,9,básico,60,SUS-U09-00879
+revisar,no,no,CLP-demo,Sur,no,1,46.1,9,estándar,7,SUS-U09-00880
+,no,no,CLP-demo,Centro,sí,2,45.3,9,estándar,34,SUS-U09-00881
+revisar,no,no,CLP-demo,Sur,no,1,55.3,4,estándar,24,SUS-U09-00882
+sin novedad,sí,no,CLP-demo,Norte,sí,0,12.5,4,premium,49,SUS-U09-00883
+sin novedad,sí,sí,CLP-demo,Norte,no,2,17.5,6,estándar,35,SUS-U09-00884
+sin novedad,no,no,CLP-demo,Sur,sí,1,44.5,5,estándar,37,SUS-U09-00885
+sin novedad,no,no,CLP-demo,Sur,no,0,16.3,8,estándar,52,SUS-U09-00886
+revisar,no,no,CLP-demo,Centro,no,2,29.8,9,básico,37,SUS-U09-00887
+revisar,no,no,CLP-demo,Norte,sí,0,35.7,9,estándar,42,SUS-U09-00888
+sin novedad,no,no,CLP-demo,Sur,sí,0,40.2,10,premium,13,SUS-U09-00889
+revisar,no,no,CLP-demo,Norte,sí,1,27.8,5,estándar,14,SUS-U09-00890
+,no,no,CLP-demo,Centro,no,1,57.6,13,básico,32,SUS-U09-00891
+sin novedad,no,no,CLP-demo,Centro,sí,1,15.9,6,estándar,32,SUS-U09-00892
+,no,no,CLP-demo,Sur,no,1,,12,básico,12,SUS-U09-00893
+sin novedad,no,no,CLP-demo,Norte,sí,1,23.0,6,estándar,27,SUS-U09-00894
+sin novedad,no,no,CLP-demo,Centro,sí,1,,12,básico,34,SUS-U09-00895
+sin novedad,no,no,CLP-demo,Norte,sí,2,28.3,8,estándar,49,SUS-U09-00896
+sin novedad,no,no,CLP-demo,Norte,no,0,19.8,14,estándar,30,SUS-U09-00897
+revisar,no,no,CLP-demo,Norte,sí,1,26.0,6,premium,58,SUS-U09-00898
+sin novedad,no,no,CLP-demo,Centro,sí,0,27.9,9,premium,45,SUS-U09-00899
+revisar,no,no,CLP-demo,Norte,sí,1,46.3,12,estándar,48,SUS-U09-00900
+,no,no,CLP-demo,Centro,sí,1,35.0,9,básico,25,SUS-U09-00901
+sin novedad,no,no,CLP-demo,Centro,no,0,10.8,14,premium,23,SUS-U09-00902
+sin novedad,no,no,CLP-demo,Centro,sí,2,17.5,12,básico,18,SUS-U09-00903
+sin novedad,sí,sí,CLP-demo,Centro,no,3,38.7,10,premium,18,SUS-U09-00904
+revisar,no,no,CLP-demo,Centro,no,0,48.4,8,estándar,60,SUS-U09-00905
+revisar,sí,sí,CLP-demo,Norte,no,0,36.0,13,estándar,20,SUS-U09-00906
+sin novedad,no,no,CLP-demo,Sur,sí,0,33.9,7,estándar,36,SUS-U09-00907
+,sí,no,CLP-demo,Centro,no,1,,6,básico,8,SUS-U09-00908
+sin novedad,sí,sí,CLP-demo,Sur,sí,2,37.4,7,premium,55,SUS-U09-00909
+,sí,no,CLP-demo,Norte,sí,1,27.2,7,básico,15,SUS-U09-00910
+revisar,no,no,CLP-demo,Norte,no,2,,13,básico,46,SUS-U09-00911
+,sí,sí,CLP-demo,Centro,sí,0,,14,básico,5,SUS-U09-00912
+sin novedad,no,no,CLP-demo,Centro,sí,0,42.8,14,estándar,50,SUS-U09-00913
+revisar,no,no,CLP-demo,Sur,sí,0,18.2,12,estándar,24,SUS-U09-00914
+revisar,no,no,CLP-demo,Sur,no,0,39.3,8,premium,14,SUS-U09-00915
+revisar,no,no,CLP-demo,Norte,sí,0,33.7,3,básico,59,SUS-U09-00916
+sin novedad,no,no,CLP-demo,Centro,no,1,29.4,12,estándar,50,SUS-U09-00917
+sin novedad,no,no,CLP-demo,Centro,sí,0,43.0,9,premium,49,SUS-U09-00918
+revisar,no,no,CLP-demo,Norte,sí,3,53.1,6,básico,29,SUS-U09-00919
+,no,no,CLP-demo,Centro,no,0,35.7,11,estándar,57,SUS-U09-00920
+revisar,sí,sí,CLP-demo,Norte,sí,0,33.6,4,estándar,11,SUS-U09-00921
+sin novedad,no,no,CLP-demo,Norte,sí,1,17.6,8,estándar,32,SUS-U09-00922
+sin novedad,no,no,CLP-demo,Sur,sí,1,36.0,6,premium,27,SUS-U09-00923
+sin novedad,no,no,CLP-demo,Sur,sí,0,53.5,6,estándar,59,SUS-U09-00924
+revisar,no,no,CLP-demo,Sur,sí,1,39.4,10,básico,40,SUS-U09-00925
+,no,no,CLP-demo,Centro,no,2,,3,básico,10,SUS-U09-00926
+,no,no,CLP-demo,Sur,no,2,50.0,4,básico,45,SUS-U09-00927
+,no,no,CLP-demo,Centro,sí,2,44.8,11,básico,52,SUS-U09-00928
+revisar,no,no,CLP-demo,Centro,sí,0,27.7,8,básico,17,SUS-U09-00929
+sin novedad,no,no,CLP-demo,Centro,no,0,33.9,7,estándar,22,SUS-U09-00930
+sin novedad,no,no,CLP-demo,Centro,sí,1,39.8,10,básico,55,SUS-U09-00931
+,no,no,CLP-demo,Centro,sí,1,26.0,14,estándar,39,SUS-U09-00932
+sin novedad,no,no,CLP-demo,Centro,sí,1,29.3,7,estándar,50,SUS-U09-00933
+,no,no,CLP-demo,Sur,sí,3,10.6,7,básico,45,SUS-U09-00934
+sin novedad,no,no,CLP-demo,Centro,sí,1,64.2,13,estándar,9,SUS-U09-00935
+,no,no,CLP-demo,Sur,sí,1,17.9,7,básico,41,SUS-U09-00936
+,sí,sí,CLP-demo,Sur,sí,0,39.2,4,básico,1,SUS-U09-00937
+sin novedad,no,no,CLP-demo,Centro,no,1,43.6,8,estándar,45,SUS-U09-00938
+,no,no,CLP-demo,Sur,no,0,73.1,11,básico,51,SUS-U09-00939
+revisar,no,no,CLP-demo,Centro,sí,0,34.3,11,estándar,14,SUS-U09-00940
+revisar,no,no,CLP-demo,Norte,no,2,23.6,8,básico,24,SUS-U09-00941
+,no,no,CLP-demo,Sur,no,0,,14,estándar,30,SUS-U09-00942
+revisar,no,no,CLP-demo,Centro,sí,0,28.3,8,estándar,24,SUS-U09-00943
+sin novedad,no,no,CLP-demo,Sur,sí,0,,14,básico,29,SUS-U09-00944
+revisar,no,no,CLP-demo,Centro,no,0,,11,básico,36,SUS-U09-00945
+,no,no,CLP-demo,Norte,sí,0,27.0,11,estándar,37,SUS-U09-00946
+sin novedad,no,no,CLP-demo,Centro,sí,1,47.4,15,estándar,56,SUS-U09-00947
+revisar,no,no,CLP-demo,Sur,sí,4,31.4,11,básico,9,SUS-U09-00948
+sin novedad,no,no,CLP-demo,Centro,sí,0,47.2,8,premium,26,SUS-U09-00949
+,sí,sí,CLP-demo,Centro,sí,3,12.0,6,básico,39,SUS-U09-00950
+revisar,no,no,CLP-demo,Sur,sí,0,41.6,8,estándar,32,SUS-U09-00951
+sin novedad,sí,sí,CLP-demo,Centro,no,2,33.1,11,básico,4,SUS-U09-00952
+sin novedad,sí,no,CLP-demo,Centro,sí,1,59.0,9,básico,34,SUS-U09-00953
+revisar,no,no,CLP-demo,Centro,sí,0,34.7,9,básico,59,SUS-U09-00954
+revisar,no,no,CLP-demo,Norte,sí,0,27.9,7,estándar,27,SUS-U09-00955
+sin novedad,no,no,CLP-demo,Centro,sí,2,,8,básico,8,SUS-U09-00956
+revisar,sí,sí,CLP-demo,Norte,sí,0,12.9,5,básico,23,SUS-U09-00957
+,no,no,CLP-demo,Centro,sí,1,46.2,11,estándar,55,SUS-U09-00958
+revisar,no,no,CLP-demo,Centro,no,0,36.8,8,básico,28,SUS-U09-00959
+sin novedad,no,no,CLP-demo,Centro,no,0,46.3,9,estándar,34,SUS-U09-00960
+,no,no,CLP-demo,Sur,sí,0,26.7,8,premium,53,SUS-U09-00961
+revisar,sí,sí,CLP-demo,Norte,no,0,13.1,10,estándar,24,SUS-U09-00962
+revisar,no,no,CLP-demo,Norte,sí,1,38.9,9,básico,24,SUS-U09-00963
+revisar,no,no,CLP-demo,Centro,no,0,11.1,7,premium,31,SUS-U09-00964
+revisar,no,no,CLP-demo,Sur,sí,0,36.9,5,estándar,22,SUS-U09-00965
+,no,no,CLP-demo,Norte,no,2,80.8,6,premium,15,SUS-U09-00966
+sin novedad,no,no,CLP-demo,Centro,sí,0,39.8,7,premium,8,SUS-U09-00967
+sin novedad,no,no,CLP-demo,Norte,no,1,18.6,10,estándar,40,SUS-U09-00968
+sin novedad,no,no,CLP-demo,Sur,sí,2,33.1,8,básico,55,SUS-U09-00969
+,sí,sí,CLP-demo,Centro,no,0,27.4,12,básico,10,SUS-U09-00970
+,no,no,CLP-demo,Sur,no,0,29.6,9,premium,51,SUS-U09-00971
+,no,no,CLP-demo,Sur,sí,0,22.0,10,básico,44,SUS-U09-00972
+revisar,no,no,CLP-demo,Norte,sí,0,55.4,9,básico,45,SUS-U09-00973
+sin novedad,sí,sí,CLP-demo,Sur,no,0,,6,básico,3,SUS-U09-00974
+revisar,no,no,CLP-demo,Sur,no,1,69.9,9,básico,39,SUS-U09-00975
+sin novedad,no,no,CLP-demo,Centro,no,0,35.3,7,premium,40,SUS-U09-00976
+sin novedad,no,no,CLP-demo,Centro,no,0,41.1,8,básico,1,SUS-U09-00977
+revisar,no,no,CLP-demo,Sur,sí,1,19.2,12,premium,12,SUS-U09-00978
+revisar,no,no,CLP-demo,Norte,no,1,62.8,7,estándar,25,SUS-U09-00979
+,no,no,CLP-demo,Centro,no,1,17.2,13,básico,32,SUS-U09-00980
+,sí,sí,CLP-demo,Sur,no,0,72.9,10,estándar,1,SUS-U09-00981
+,no,no,CLP-demo,Norte,sí,0,53.0,11,estándar,35,SUS-U09-00982
+,no,no,CLP-demo,Sur,sí,1,29.1,7,básico,20,SUS-U09-00983
+revisar,no,no,CLP-demo,Centro,sí,1,11.5,9,básico,10,SUS-U09-00984
+,no,no,CLP-demo,Sur,no,1,66.0,12,básico,22,SUS-U09-00985
+,no,no,CLP-demo,Centro,sí,2,22.6,8,estándar,17,SUS-U09-00986
+sin novedad,no,no,CLP-demo,Norte,sí,0,19.2,12,estándar,5,SUS-U09-00987
+sin novedad,sí,sí,CLP-demo,Centro,sí,0,32.9,9,estándar,29,SUS-U09-00988
+,no,no,CLP-demo,Centro,sí,1,,12,básico,54,SUS-U09-00989
+sin novedad,sí,sí,CLP-demo,Centro,sí,0,48.4,5,premium,1,SUS-U09-00990
+sin novedad,no,no,CLP-demo,Centro,sí,1,68.8,9,estándar,12,SUS-U09-00991
+,sí,sí,CLP-demo,Sur,no,1,32.9,7,básico,22,SUS-U09-00992
+sin novedad,no,no,CLP-demo,Norte,no,1,85.0,10,básico,48,SUS-U09-00993
+revisar,no,no,CLP-demo,Sur,sí,2,34.4,12,premium,15,SUS-U09-00994
+sin novedad,no,no,CLP-demo,Sur,sí,0,24.0,9,estándar,9,SUS-U09-00995
+revisar,no,no,CLP-demo,Centro,no,2,35.3,9,básico,59,SUS-U09-00996
+revisar,no,no,CLP-demo,Centro,sí,3,54.0,15,básico,38,SUS-U09-00997
+revisar,no,no,CLP-demo,Centro,sí,0,,7,básico,7,SUS-U09-00998
+,no,no,CLP-demo,Centro,sí,1,28.8,7,estándar,22,SUS-U09-00999

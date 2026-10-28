@@ -1,0 +1,34 @@
+[theme]
+violetBackgroundColor = "#EEEBF6"
+violetColor = "#5A4E8C"
+base = "light"
+primaryColor = "#34506A"
+backgroundColor = "#F6F7F8"
+secondaryBackgroundColor = "#EFF1F3"
+textColor = "#1F2328"
+redColor = "#A61B1B"
+redBackgroundColor = "#FDECEC"
+orangeColor = "#7A5200"
+orangeBackgroundColor = "#FFF4CC"
+yellowColor = "#7A5200"
+yellowBackgroundColor = "#FFF4CC"
+greenColor = "#1E6B3A"
+greenBackgroundColor = "#E6F4EA"
+blueColor = "#3D4F5C"
+blueBackgroundColor = "#EDF1F4"
+borderColor = "#D9DCE0"
+showWidgetBorder = true
+showSidebarBorder = true
+baseRadius = "medium"
+buttonRadius = "small"
+font = "sans-serif"
+
+[server]
+maxUploadSize = 25
+
+[browser]
+gatherUsageStats = false
+
+[client]
+# UX-06: sin «Deploy» ni menú técnico de Streamlit para el usuario final.
+toolbarMode = "minimal"

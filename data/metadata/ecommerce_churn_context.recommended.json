@@ -1,0 +1,65 @@
+{
+  "dataset": {
+    "original_filename_display": "case-b-churn.csv",
+    "source_name": "Generador sintético Goal Settings Analytics Studio scripts/generate_case_b.py",
+    "license": "SYNTHETIC-TEST-ONLY",
+    "classification": "synthetic",
+    "authorization_status": "approved",
+    "anonymization_declared": false
+  },
+  "context": {
+    "schema_version": "business-context.v1",
+    "objective": "Priorizar una revisión humana de cuentas sintéticas con mayor probabilidad de churn",
+    "target_column": "churn",
+    "positive_class": 1,
+    "task_type": "binary_classification",
+    "prediction_moment": "Al cierre del período sintético, antes de cualquier acción de retención",
+    "false_positive_consequence": "Revisión innecesaria de una cuenta sintética",
+    "false_negative_consequence": "No priorizar una cuenta sintética que abandona",
+    "primary_metric": "f1",
+    "metric_rationale": "Equilibrar precision y recall en esta prueba técnica sintética; no es una decisión de negocio real",
+    "decision_actor_label": "PENDIENTE",
+    "feature_decisions": [
+      {
+        "column": "customer_ref",
+        "use": "exclude",
+        "available_at_prediction": true,
+        "reason": "Identificador sintético sin significado predictivo"
+      },
+      {
+        "column": "tenure_months",
+        "use": "include",
+        "available_at_prediction": true,
+        "reason": "Antigüedad sintética disponible al momento definido"
+      },
+      {
+        "column": "monthly_sessions",
+        "use": "include",
+        "available_at_prediction": true,
+        "reason": "Agregado sintético disponible al momento definido"
+      },
+      {
+        "column": "support_tickets",
+        "use": "include",
+        "available_at_prediction": true,
+        "reason": "Conteo sintético disponible al momento definido"
+      },
+      {
+        "column": "plan",
+        "use": "include",
+        "available_at_prediction": true,
+        "reason": "Categoría sintética disponible al momento definido"
+      },
+      {
+        "column": "autopay",
+        "use": "include",
+        "available_at_prediction": true,
+        "reason": "Indicador sintético disponible al momento definido"
+      }
+    ],
+    "guardrails": {
+      "mode": "no_quantitative_guardrail",
+      "rules": []
+    }
+  }
+}
